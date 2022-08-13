@@ -10,7 +10,7 @@
 			<DialogPanel
 				class="relative flex w-full max-w-xs flex-1 flex-col bg-gray-200 pt-5 pb-4 dark:bg-gray-800"
 			>
-				<div class="absolute top-0 right-0 -mr-12 pt-2">
+				<div class="absolute top-0 right-0 pr-2 pt-2">
 					<button
 						type="button"
 						class="ml-1 flex h-10 w-10 items-center justify-center rounded-full focus:outline-none focus:ring-2 focus:ring-inset focus:ring-gray-900 dark:focus:ring-white"
