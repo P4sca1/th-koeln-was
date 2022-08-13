@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global CSS variables */
+:root {
+	--header-height: 64px;
+	--sidebar-width: 0px;
+}
+
+/* Show the sidebar only when the screen is at least 768px wide (md breakpoint). */
+@media screen(md) {
+	:root {
+		--sidebar-width: 256px;
+	}
+}
+
+/* Set the color-scheme CSS property depending on whether dark mode is enabled or note.
+This applies styling to the scrollbars for example. */
+html {
+	color-scheme: light;
+}
+html.dark {
+	color-scheme: dark;
+}

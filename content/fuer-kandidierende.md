@@ -1,0 +1,44 @@
+---
+title: Für Kandidierende
+toc: true
+---
+
+### Wer darf kandidieren?
+
+Studierende, die mindestens vier Wochen vor der Wahl als Ersthörer:innen zum Fachstudium oder beim DSH-Sprachlernzentrum eingeschrieben sind. Zweit- und Gasthörer:innen, sowie Wahlausschuss-Mitglieder dürfen nicht kandidieren bzw. gewählt werden.
+
+### Wie kandidiere ich?
+
+Zur Kandidatur ist ein korrekt ausgefülltes Wahlvorschlagsformular sowie dazugehöriges Unterstützer:innenformular bis **Montag, 12. September 2022, 12 Uhr** (Ausschlussfrist) beim Wahlausschuss einzureichen.
+
+Alle erforderlichen Formulare können via Briefpost oder Smail eingereicht werden. Für die Fristwahrung ist der Eingang der ausgefüllten Formulare beim Wahlausschuss maßgebend. Später eingehende Formulare finden keine Berücksichtigung mehr.
+
+[Wahlvorschlagsformular](/Formulare/Wahlvorschlagsformular_2022_fuer_SP.pdf) für die Kandidatur für das Studierendenparlament
+
+[Wahlvorschlagsformular](/Formulare/Wahlvorschlagsformular_2022_fuer_FSR.pdf) für die Kandidatur für den Fachschaftsrat
+
+[Unterstützer:innenformular](/Formulare/UnterstuetzerInnenformular_2022.pdf) (für beide Wahlen verwendbar)
+
+Erforderliche Unterschriften auf allen Formularen sind auch bei digitaler Einreichung via Smail **stets handschriftlich** (analog) auf den jeweiligen Formularen zu unterschreiben. Elektronische Unterschriften werden nicht anerkannt.
+
+### Zulassung der Listen, Auslosung der Reihenfolge
+
+Der Wahlausschuss entscheidet über die Zulassung der eingereichten Wahllisten. Entsprechend der gezogenen Losnummer erscheint die einzelne Wahlliste auf dem Wahlzettel, sowie in der Wahlzeitung, in entsprechender aufsteigender Reihenfolge. Die Auslosung findet öffentlich am **17.09.2022** via Zoom statt.
+
+### Unterstützerinnen und Unterstützer
+
+Eine Wahlvorschlagsliste benötigt die folgende Mindestanzahl an Unterschriften von Unterstützer:innen:
+
+- 24 für die Studierendenparlamentswahl
+- 5 für die Fachschaftsratswahl
+
+Für die Unterstützungsunterschriften ist das [Unterstützer:innenformular](/Formulare/UnterstuetzerInnenformular_2022.pdf) zu benutzen.
+
+Für die Studierendenparlamentswahlen können alle Studierenden der Hochschule eine beliebige Wahlvorschlagsliste mit ihrer Unterschrift unterstützen. Bei den Fachschaftsratswahlen dürfen nur jene Studierende eine Wahlvorschlagsliste unterstützen, die auch der gleichen Fachschaft angehören, wie man selbst.
+
+### Selbstdarstellung in der Wahlzeitung und auf der Webseite
+
+Der Wahlausschuss wird eine Wahlzeitung herausgeben, für die alle zugelassenen Wahllisten eine Selbstdarstellung einreichen können. Selbstdarstellungen sind bis zum **12.09.2022, 12 Uhr**, via Smail beim Wahlausschuss einzureichen.
+
+**Für die Wahlzeitung gilt**  
+Dieses Jahr wird die Wahlzeitung als PDF-Dokument in Onlineform erscheinen. Genauere Informationen zu Formaten folgen in Kürze.
