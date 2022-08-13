@@ -1,5 +1,8 @@
 <template>
-	<div class="bg-white-50 flex flex-col dark:bg-gray-900">
+	<div
+		ref="layout"
+		class="bg-white-50 initialload flex flex-col dark:bg-gray-900"
+	>
 		<Header />
 		<Sidebar />
 
@@ -13,6 +16,7 @@
 
 <script setup lang="ts">
 	const colorMode = useColorMode()
+	const layout = ref<HTMLElement | null>(null)
 
 	useHead(() => ({
 		meta: [
@@ -22,6 +26,10 @@
 			},
 		],
 	}))
+
+	onMounted(() => {
+		layout.value?.classList.remove('initialload')
+	})
 </script>
 
 <style>

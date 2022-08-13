@@ -15,6 +15,11 @@
 	}
 }
 
+/* Disable transitions on initial page load */
+div.initialload * {
+	@apply transition-none;
+}
+
 /* Set the color-scheme CSS property depending on whether dark mode is enabled or note.
 This applies styling to the scrollbars for example. */
 html {
