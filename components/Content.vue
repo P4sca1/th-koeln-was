@@ -36,6 +36,7 @@
 			.findOne()
 	)
 
-	// TODO: Handle 404, head tags
-	// useContentHead(content)
+	useHead({
+		title: content.value.title,
+	})
 </script>
