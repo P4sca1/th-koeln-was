@@ -2,12 +2,12 @@
 title: Wahlordnungen
 ---
 
-[Satzung der Studierendenschaft](/Wahlordnungen/Satzung_-_gultige_Fassung_vom_2012-05-25.pdf)
+:PdfLink{path="/Wahlordnungen/Stupa_Wahlordnung.pdf" text="Wahlordnung für die Wahl zum Studierendenparlament"}
 
-[Wahlordnung für die Wahl zum Studierendenparlament](/Wahlordnungen/WO_SP_-_gultige_Fassung_vom_2013-07-08.pdf)
+:PdfLink{path="/Wahlordnungen/Stupa_Änderungssatzung.pdf" text="Änderungssatzung für die Wahl zum Studierendenparlament"}
 
-[Wahlordnung für die Wahlen zu den Fachschaftsräten](/Wahlordnungen/WO_FSR_-_gultige_Fassung_vom_2013-07-08.pdf)
+:PdfLink{path="/Wahlordnungen/FSR_Wahlordnung.pdf" text="Wahlordnung für die Wahlen zu den Fachschaftsräten"}
 
-[Anhang zur Wahlordnung für die Wahlen zu den Fachschaftsräten](/Wahlordnungen/AnhangFSR2018.pdf)
+:PdfLink{path="/Wahlordnungen/FSR_Änderungssatzung.pdf" text="Änderungssatzung für die Wahlen zu den Fachschaftsräten"}
 
-[Durchführungsbestimmungen im Wahllokal](/Wahlordnungen/Durchführungsbestimmung%20%2021%20%V1.02.pdf)
+:PdfLink{path="/Wahlordnungen/Durchführungsbestimmungen.pdf" text="Durchführungsbestimmungen im Wahllokal"}

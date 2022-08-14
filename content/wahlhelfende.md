@@ -14,13 +14,13 @@ In deinen Aufgabenbereich würde zum Beispiel fallen,
 - Wahllokale zu betreuen und zu beaufischtigen
 - und/oder das Auszählen der Stimmzettel im Anschluss
 
-**1. Wahlhelfer:innen im Wahllokal**
+1. **Wahlhelfer:innen im Wahllokal**
 
 Es gibt insgesamt vier Wahllokale: zwei am Campus Südstadt (Claudiusstraße 1 sowie Ubierring 48), eins am Campus Deutz und eins am Campus Gummersbach.
 
 Jedes dieser Wahllokale öffnet Montag bis Donnerstag von 10 bis 15 Uhr und Freitag von 10 bis 12 Uhr. D. h. während dieser Zeiten müssen die Wahllokale jeweils mit mindestens zwei Studierenden durchgängig besetzt sein.
 
-**1. Wahlhelfer:innen bei der Auszählung**
+2. **Wahlhelfer:innen bei der Auszählung**
 
 Am letzten Wahltag, also Freitag, den 14.10.2022 beginnt nach Schließung der Wahllokale die Auszählung aller Stimmzettel. Hierfür werden ebenfalls Studierende gesucht, die mithelfen, alle Stimmzettel ordnungsgemäß auszuzählen. Genauere Infos zu Uhrzeit und Ort der Auszählung werden noch bekanntgegeben.
 

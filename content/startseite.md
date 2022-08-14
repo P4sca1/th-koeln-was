@@ -2,8 +2,28 @@
 title: Studentische Wahlen 2022
 ---
 
-Die studentischen Wahlen zum Studierendenparlament und den jeweiligen Fachschaftsräten finden dieses Jahr im Verbund mit den Wahlen zum Senat und den Fakultätsräten im Zeitraum vom 10. bis 14. Oktober 2022 statt.
+_Amtliche Wahlergebnisse werden unter [Wahlergebnisse](/wahlergebnisse) spätestens ab dem 18. Oktober 2022 zu finden sein._
 
-Weitere Infos zur aktuellen Wahl finden sich unter [Für Wählende](/fuer-waehlende) und [Wahlbekanntmachung](/wahlbekanntmachung).
+**!! DU BIST GEFRAGT !!**
 
-Amtliche Wahlergebnisse werden unter [Wahlergebnisse](/wahlergebnisse) spätestens ab dem 18. Oktober 2022 zu finden sein.
+Auch dieses Jahr finden wieder die studentischen Gremienwahlen statt. Gewählt wird:
+
+- **Dein Fachschaftsrat (kurz FSR)**  
+  Er vertritt deine Interessen gegenüber dem Institut, der Fakultät und der Hochschule.
+
+- **Dein Studierendenparlament (kurz StuPa)**  
+  Es ist das höchste beschlussfassende Wahlgremium der Studierendenschaft und für die Selbstverwaltung der Studierenden zuständig.
+  Weitere Infos auf www.stupa.th-koeln.de
+
+Du kannst dich selbst zur Wahl stellen und deine Wünsche und Forderungen in das Hochschulleben einbringen
+
+ODER
+
+Du stattest einem der Wahllokale in der Woche vom **10.10.2022 – 14.10.2022** einen Besuch ab und wählst deine:n Kandidierende:n für FSR und StuPa.
+
+Zur gleichen Zeit finden die Gremienwahlen zu den Senats- und den Fakultätsräten statt. Weitere Informationen dazu hier:
+www.th-koeln.de/hochschule/gremienwahlen-an-der-th-koeln_56546.php
+
+Kontaktdaten, ausführliche Infos zu Kandidatur, Wahllokalen und Durchführung findest du auf dieser Webseite und in der :PdfLink{path="/Dokumente/Wahlbekanntmachung.pdf" text="PDF Datei zur Wahlbekanntmachung"}
+
+Wenn Ihr nicht nur wählen gehen wollt, sondern auch bei der Wahl mithelfen möchtet, seid Ihr hiermit herzlich zum Informationstreffen für Wahlhelfer:innen am 23.09.2022 eingeladen! Weitere Infos dazu unter [Wahlhelfende](/wahlhelfende).

@@ -92,7 +92,6 @@
 	const navigation = [
 		{ name: 'Startseite', to: '/' },
 		{ name: 'Termine', to: '/termine' },
-		{ name: 'Wahlbekanntmachung', to: '/wahlbekanntmachung' },
 		{ name: 'Wahlordnungen', to: '/wahlordnungen' },
 		{ name: 'Wahlausschuss', to: '/wahlausschuss' },
 		{ name: 'Für Wählende', to: '/fuer-waehlende' },
