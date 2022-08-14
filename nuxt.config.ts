@@ -24,5 +24,8 @@ export default defineNuxtConfig({
 
 	progress: {
 		color: '#af368c',
+		options: {
+			showSpinner: false,
+		},
 	},
 })
