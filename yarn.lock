@@ -2716,6 +2716,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"dedent@npm:^0.7.0":
+  version: 0.7.0
+  resolution: "dedent@npm:0.7.0"
+  checksum: 87de191050d9a40dd70cad01159a0bcf05ecb59750951242070b6abf9569088684880d00ba92a955b4058804f16eeaf91d604f283929b4f614d181cd7ae633d2
+  languageName: node
+  linkType: hard
+
 "deep-equal@npm:~1.0.1":
   version: 1.0.1
   resolution: "deep-equal@npm:1.0.1"
@@ -6534,6 +6541,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"nprogress@npm:^0.2.0":
+  version: 0.2.0
+  resolution: "nprogress@npm:0.2.0"
+  checksum: 66b7bec5d563ecf2d1c3d2815e6d5eb74ed815eee8563e0afa63d3f185ab1b9cf2ddd97e1ded263b9995c5019d26d600320e849e50f3747984daa033744619dc
+  languageName: node
+  linkType: hard
+
 "nth-check@npm:^2.0.1":
   version: 2.1.1
   resolution: "nth-check@npm:2.1.1"
@@ -6554,6 +6568,18 @@ __metadata:
   bin:
     nuxi: bin/nuxi.mjs
   checksum: c0a28cfcfbd7cba1336cf4b1fc75c88fb3b55156d631af45fb15017448057dd85a556b771ae744ed26039bc640516ed2fd4bd1a3fb90da35081d2ee3870ac823
+  languageName: node
+  linkType: hard
+
+"nuxt-progress@npm:0.1.6":
+  version: 0.1.6
+  resolution: "nuxt-progress@npm:0.1.6"
+  dependencies:
+    "@nuxt/kit": ^3.0.0-rc.3
+    dedent: ^0.7.0
+    defu: ^6.0.0
+    nprogress: ^0.2.0
+  checksum: 8c804876936fd95c9887156ccf88c2f4f11d8af7f713bca706ba4ab48ef28e3c089ef07c8a937b614af07cb878bc2fc43dcad323ae0c6f9e54ddc73bb5b592ad
   languageName: node
   linkType: hard
 
@@ -7970,6 +7996,7 @@ __metadata:
     eslint-plugin-prettier: 4.2.1
     eslint-plugin-vue: 9.3.0
     nuxt: 3.0.0-rc.8
+    nuxt-progress: 0.1.6
     pathe: 0.3.4
     prettier: 2.7.1
     prettier-plugin-tailwindcss: 0.1.13

@@ -15,9 +15,8 @@
 </template>
 
 <script setup lang="ts">
+	// Set theme-color based on color mode.
 	const colorMode = useColorMode()
-	const layout = ref<HTMLElement | null>(null)
-
 	useHead(() => ({
 		meta: [
 			{
@@ -27,8 +26,17 @@
 		],
 	}))
 
+	// Remove initialload class from layout after hydration.
+	const layout = ref<HTMLElement | null>(null)
 	onMounted(() => {
 		layout.value?.classList.remove('initialload')
+	})
+
+	// Close mobile sidebar after route navigation.
+	const router = useRouter()
+	const { isMobileSidebarOpen } = useSidebar()
+	router.beforeEach(() => {
+		isMobileSidebarOpen.value = false
 	})
 </script>
 

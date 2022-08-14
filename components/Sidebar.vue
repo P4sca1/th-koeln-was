@@ -38,7 +38,6 @@
 							:to="item.to"
 							class="group flex items-center rounded-md px-2 py-2 text-base font-medium"
 							active-class="text-th-red dark:text-th-orange"
-							@click="isMobileSidebarOpen = false"
 						>
 							{{ item.name }}
 						</NuxtLink>

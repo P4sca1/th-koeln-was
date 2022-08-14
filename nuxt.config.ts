@@ -15,9 +15,14 @@ export default defineNuxtConfig({
 		'@nuxtjs/tailwindcss',
 		'@nuxtjs/color-mode',
 		'@vueuse/nuxt',
+		'nuxt-progress',
 	],
 
 	colorMode: {
 		classSuffix: '',
+	},
+
+	progress: {
+		color: '#af368c',
 	},
 })
