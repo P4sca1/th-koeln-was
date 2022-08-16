@@ -21,9 +21,10 @@ ODER
 
 Du stattest einem der Wahllokale in der Woche vom **10.10.2022 – 14.10.2022** einen Besuch ab und wählst deine:n Kandidierende:n für FSR und StuPa.
 
-Zur gleichen Zeit finden die Gremienwahlen zu den Senats- und den Fakultätsräten statt. Weitere Informationen dazu hier:
+Zur gleichen Zeit finden die Gremienwahlen der studentischen Vertreter:innen zum Senat und den Fakultätsraten statt. Weitere Informationen dazu hier:
 www.th-koeln.de/hochschule/gremienwahlen-an-der-th-koeln_56546.php
 
-Kontaktdaten, ausführliche Infos zu Kandidatur, Wahllokalen und Durchführung findest du auf dieser Webseite und in der :PdfLink{path="/Dokumente/Wahlbekanntmachung.pdf" text="PDF Datei zur Wahlbekanntmachung"}
+Kontaktdaten, ausführliche Infos zu Kandidatur, Wahllokalen und Durchführung findest du auf dieser Webseite und in der :PdfLink{path="/Dokumente/Wahlbekanntmachung.pdf" text="PDF Datei zur Wahlbekanntmachung"} .
+Außerdem können wichtige Dokumente in unserem [sciebo](https://th-koeln.sciebo.de/s/q1hXFTRlcU3IFQ5) eingesehen werden.
 
 Wenn Ihr nicht nur wählen gehen wollt, sondern auch bei der Wahl mithelfen möchtet, seid Ihr hiermit herzlich zum Informationstreffen für Wahlhelfer:innen am 23.09.2022 eingeladen! Weitere Infos dazu unter [Wahlhelfende](/wahlhelfende).
