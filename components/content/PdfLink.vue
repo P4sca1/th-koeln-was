@@ -6,5 +6,5 @@
 	import { join } from 'pathe'
 	const props = defineProps<{ path: string; text: string }>()
 	const config = useRuntimeConfig()
-	const href = computed(() => join(config.app.baseURL, props.path))
+	const href = computed(() => join(config.app.baseURL, '/Dokumente/', props.path))
 </script>

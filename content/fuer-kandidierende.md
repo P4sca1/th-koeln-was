@@ -43,5 +43,5 @@ Der Wahlausschuss wird eine Wahlzeitung herausgeben, für die alle zugelassenen 
 **Für die Wahlzeitung gilt**  
 Dieses Jahr wird die Wahlzeitung als PDF-Dokument in Onlineform erscheinen. Genauere Informationen zu Formaten folgen in Kürze.
 
-In der :PdfLink{path="/Dokumente/Wahlzeitung_2021.pdf" text="Wahlzeitung 2021"}
+In der :PdfLink{path="/Wahlzeitung_2021.pdf" text="Wahlzeitung 2021"}
 sind beispielhaft die Selbstdarstellung aller Kandidierenden des letzten Jahres zu finden.
