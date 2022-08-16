@@ -22,5 +22,4 @@ c/o AStA der Technischen Hochschule Köln
 Betzdorfer Str. 2  
 50679 Köln
 
-E-Mail: was@stupa.th-koeln.de  
-Internet: www.stupa.th-koeln.de/wahlen
+E-Mail: was@stupa.th-koeln.de
