@@ -15,7 +15,7 @@ Der studentische Wahlausschuss des Studierendenparlaments besteht aus bis zu zeh
 - Stephen Valianto
 
 **Kontakt**  
-Studierende, die mit dem Wahlausschuss per E-Mail kommunizieren, nutzen dabei bitte ausschließlich die S-Mail-Adresse dafür.
+Studierende, die mit dem Wahlausschuss per E-Mail kommunizieren, nutzen dabei bitte ausschließlich ihre S-Mail-Adresse.
 
 Stud. Wahlausschuss des Studierendenparlaments  
 c/o AStA der Technischen Hochschule Köln  
