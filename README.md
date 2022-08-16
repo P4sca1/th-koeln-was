@@ -2,13 +2,23 @@
 
 Enthält Informationen über aktuelle Wahlen, sowie die Wahlergebnisse der letzten Jahre.
 
-## Nützliche Links
+## Für Mitglieder des Wahlausschusses
+
+Im Folgenden wird erklärt, wie die Webseite bearbeitet werden kann.
+
+### Voraussetzungen
+
+TODO
+
+## Für Entwickler
+
+### Nützliche Links
 
 - [Nuxt.js 3 Dokumentation](https://v3.nuxtjs.org)
 - [Tailwind Dokumentation](https://tailwindcss.com/)
 - [Nuxt Content Dokumentation](https://content.nuxtjs.org)
 
-## Setup
+### Setup
 
 Dependencies installieren
 
@@ -16,13 +26,13 @@ Dependencies installieren
 yarn install
 ```
 
-## Entwicklungs Server
+### Entwicklungs Server
 
 ```bash
 yarn dev
 ```
 
-## Produktion
+### Produktion
 
 Die Webseite generieren
 
