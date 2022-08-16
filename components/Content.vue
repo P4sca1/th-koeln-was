@@ -18,7 +18,7 @@
 		</nav>
 
 		<div
-			class="prose prose-sm overflow-x-auto prose-a:text-th-orange visited:prose-a:text-th-purple dark:prose-invert md:prose-base lg:prose-lg"
+			class="prose prose-sm overflow-x-auto prose-a:prose-headings:no-underline prose-a:text-th-orange visited:prose-a:text-th-purple dark:prose-invert md:prose-base lg:prose-lg"
 		>
 			<h1 v-if="content.title">{{ content.title }}</h1>
 			<ContentRenderer :value="content" />
