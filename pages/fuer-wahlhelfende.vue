@@ -1,5 +1,5 @@
 <template>
 	<div class="container mx-auto p-6">
-		<Content query="/wahlhelfende" />
+		<Content query="/fuer-wahlhelfende" />
 	</div>
 </template>
