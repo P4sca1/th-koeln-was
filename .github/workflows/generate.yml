@@ -29,5 +29,5 @@ jobs:
       - name: Upload generated Website
         uses: actions/upload-artifact@v3
         with:
-          name: stupa.th-koeln.de/wahlen
+          name: stupa.th-koeln.de
           path: .output/public
