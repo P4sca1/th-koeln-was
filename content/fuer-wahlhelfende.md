@@ -1,5 +1,5 @@
 ---
-title: Wahlhelfende
+title: Für Wahlhelfende
 toc: true
 ---
 
