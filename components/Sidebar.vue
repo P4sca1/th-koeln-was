@@ -93,12 +93,12 @@
 		{ name: 'Startseite', to: '/' },
 		{ name: 'Termine', to: '/termine' },
 		{ name: 'Wahlordnungen', to: '/wahlordnungen' },
-		{ name: 'Wahlausschuss', to: '/wahlausschuss' },
 		{ name: 'Für Wählende', to: '/fuer-waehlende' },
 		{ name: 'Für Kandidierende', to: '/fuer-kandidierende' },
 		{ name: 'Für Wahlhelfende', to: '/fuer-wahlhelfende' },
 		{ name: 'Kandidaturen', to: '/kandidaturen' },
 		{ name: 'Briefwahl', to: '/briefwahl' },
 		{ name: 'Wahlergebnisse', to: '/wahlergebnisse' },
+		{ name: 'Wahlausschuss', to: '/wahlausschuss' },
 	]
 </script>
