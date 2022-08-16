@@ -17,7 +17,7 @@ Alle erforderlichen Formulare können via Briefpost oder Smail eingereicht werde
 
 :PdfLink{path="/Formulare/FSR_Wahlvorschlagsformular.pdf" text="Wahlvorschlagsformular"} für die Kandidatur für den Fachschaftsrat
 
-:PdfLink{path="/Formulare/UnterstuetzerInnenformular_2022.pdf" text="Unterstützer:innenformular"} (für beide Wahlen verwendbar)
+:PdfLink{path="/Formulare/UnterstuetzerInnenformular.pdf" text="Unterstützer:innenformular"} (für beide Wahlen verwendbar)
 
 Erforderliche Unterschriften auf allen Formularen sind auch bei digitaler Einreichung via Smail **stets handschriftlich** (analog) auf den jeweiligen Formularen zu unterschreiben. Elektronische Unterschriften werden nicht anerkannt.
 
