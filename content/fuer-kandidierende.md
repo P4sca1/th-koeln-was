@@ -13,9 +13,9 @@ Zur Kandidatur ist ein korrekt ausgefülltes Wahlvorschlagsformular sowie dazuge
 
 Alle erforderlichen Formulare können via Briefpost oder Smail eingereicht werden. Für die Fristwahrung ist der Eingang der ausgefüllten Formulare beim Wahlausschuss maßgebend. Später eingehende Formulare finden keine Berücksichtigung mehr.
 
-:PdfLink{path="/Formulare/Wahlvorschlagsformular_2022_fuer_SP.pdf" text="Wahlvorschlagsformular"} für die Kandidatur für das Studierendenparlament
+:PdfLink{path="/Formulare/Stupa_Wahlvorschlagsformular.pdf" text="Wahlvorschlagsformular"} für die Kandidatur für das Studierendenparlament
 
-:PdfLink{path="/Formulare/Wahlvorschlagsformular_2022_fuer_FSR.pdf" text="Wahlvorschlagsformular"} für die Kandidatur für den Fachschaftsrat
+:PdfLink{path="/Formulare/FSR_Wahlvorschlagsformular.pdf" text="Wahlvorschlagsformular"} für die Kandidatur für den Fachschaftsrat
 
 :PdfLink{path="/Formulare/UnterstuetzerInnenformular_2022.pdf" text="Unterstützer:innenformular"} (für beide Wahlen verwendbar)
 
@@ -32,7 +32,7 @@ Eine Wahlvorschlagsliste benötigt die folgende Mindestanzahl an Unterschriften 
 - 24 für die Studierendenparlamentswahl
 - 5 für die Fachschaftsratswahl
 
-Für die Unterstützungsunterschriften ist das :PdfLink{path="/Formulare/UnterstuetzerInnenformular_2022.pdf" text="Unterstützer:innenformular"} zu benutzen.
+Für die Unterstützungsunterschriften ist das :PdfLink{path="/Formulare/UnterstuetzerInnenformular.pdf" text="Unterstützer:innenformular"} zu benutzen.
 
 Für die Studierendenparlamentswahlen können alle Studierenden der Hochschule eine beliebige Wahlvorschlagsliste mit ihrer Unterschrift unterstützen. Bei den Fachschaftsratswahlen dürfen nur jene Studierende eine Wahlvorschlagsliste unterstützen, die auch der gleichen Fachschaft angehören, wie man selbst.
 
