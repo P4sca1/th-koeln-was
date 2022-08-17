@@ -29,7 +29,7 @@ Freitag: 10 bis 12 Uhr
 
 ### Briefwahl
 
-Für Studierende mit Wahlrecht, die aufgrund der Corona-Pandemie oder aus anderen Gründen nicht vor Ort wählen möchten/können, ist es möglich, Briefwahlunterlagen bis spätestens zum **04.10.22 um 12 Uhr** beim studentischen Wahlausschuss zu beantragen. Die formlose Beantragung erfolgt, bitte möglichst frühzeitig, schriftlich oder per Smail für die eigene Person. Weitere Informationen siehe Rubrik Briefwahl. Die Beantragung der Briefwahlunterlagen für die gleichzeitig stattfindenden Gremienwahlen zum Senat und den Fakultätsräten erfolgt separat. Mehr Infos dazu findet ihr im Wahlausschreiben der Gremienwahlen.
+Für Studierende mit Wahlrecht, die aufgrund der Corona-Pandemie oder aus anderen Gründen nicht vor Ort wählen möchten/können, ist es möglich, Briefwahlunterlagen bis spätestens zum **04.10.22 um 12 Uhr** beim studentischen Wahlausschuss zu beantragen. Die formlose Beantragung erfolgt, bitte möglichst frühzeitig, schriftlich oder per Smail für die eigene Person. Weitere Informationen siehe Rubrik Briefwahl. Die Beantragung der Briefwahlunterlagen für die gleichzeitig stattfindenden Gremienwahlen zum Senat und den Fakultätsräten erfolgt separat. Mehr Infos dazu im Wahlausschreiben der Gremienwahlen.
 
 ### Wahlzeitung und Videos
 

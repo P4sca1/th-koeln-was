@@ -5,7 +5,7 @@ toc: true
 
 ### Briefwahlunterlagen beantragen
 
-Briefwahlunterlagen müssen beim Wahlausschuss bis spätestens **04.10.22 um 12 Uhr** schriftlich beantragt werden. Bitte möglichst frühzeitig entweder auf postalischem Wege oder per E-Mail für die eigene Person. Bei Beantragung via E-Mail ausschließlich eure Smail verwenden. Zusätzlich Name und Anschrift mit angeben. Die Beantragung der Briefwahlunterlagen für die gleichzeitig stattfindenden Gremienwahlen zum Senat und den Fakultätsräten erfolgt separat. Mehr Infos dazu findet ihr im Wahlausschreiben der Gremienwahlen.
+Briefwahlunterlagen müssen beim Wahlausschuss bis spätestens **04.10.22 um 12 Uhr** schriftlich beantragt werden. Bitte möglichst frühzeitig entweder auf postalischem Wege oder per E-Mail für die eigene Person. Bei Beantragung via E-Mail ausschließlich eure Smail verwenden. Zusätzlich Name und Anschrift mit angeben. Die Beantragung der Briefwahlunterlagen für die gleichzeitig stattfindenden Gremienwahlen zum Senat und den Fakultätsräten erfolgt separat. Mehr Infos dazu im Wahlausschreiben der Gremienwahlen.
 
 Nach erfolgreicher Beantragung der Briefwahl bekommt ihr die Briefwahlunterlagen zu eurer angegebenen Anschrift zugeschickt, was euch die Möglichkeit bietet, von Zuhause aus zu wählen. Ein frankierter Rückumschlag liegt den Briefwahlunterlagen bei, mit dem ihr euren Stimmzettel-Umschlag und den Wahlschein zurückschicken könnt.
 
