@@ -3,6 +3,9 @@ title: Für Wahlhelfende
 toc: true
 ---
 
+**Update** 
+Für dieses Jahr werden keine weiteren Wahlhelfer:innen mehr gesucht. 
+
 ### Wofür werden Wahlhelfer:innen gesucht?
 
 Es werden Studierende gesucht, die den Wahlausschuss bei der Durchführung der studentischen Wahlen vom 10. Bis 14. Oktober 2022 unterstützen.
@@ -11,7 +14,7 @@ In deinen Aufgabenbereich würde zum Beispiel fallen,
 
 - die Wahlberechtigung der Wählenden zu prüfen
 - Stimmzettel auszuhändigen
-- Wahllokale zu betreuen und zu beaufischtigen
+- Wahllokale zu betreuen und zu beaufsichtigen
 - und/oder das Auszählen der Stimmzettel im Anschluss
 
 1. **Wahlhelfer:innen im Wahllokal**
