@@ -59,10 +59,10 @@
 		>
 			<NuxtLink to="/" class="flex flex-shrink-0 items-center px-5">
 				<span class="sr-only">Startseite</span>
-				<img
+				<!--<img
 					src="assets/images/logo-th-koeln.svg"
 					class="h-20"
-					alt="TH Köln Logo"
+					alt="TH Köln Logo" -->
 				/>
 			</NuxtLink>
 
