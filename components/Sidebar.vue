@@ -24,11 +24,11 @@
 					</button>
 				</div>
 				<div class="flex flex-shrink-0 items-center px-4">
-					<img
+				<!--	<img
 						class="h-12 w-auto"
 						src="assets/images/logo-th-koeln.svg"
 						alt="TH Köln Logo"
-					/>
+					/> -->
 				</div>
 				<div class="mt-5 h-0 flex-1 overflow-y-auto">
 					<nav class="space-y-1 px-2">
@@ -62,8 +62,8 @@
 				<!--<img
 					src="assets/images/logo-th-koeln.svg"
 					class="h-20"
-					alt="TH Köln Logo" -->
-				/>
+					alt="TH Köln Logo" 
+				/> -->
 			</NuxtLink>
 
 			<div class="mt-8 flex flex-1 flex-col">
