@@ -41,7 +41,7 @@ Für die Studierendenparlamentswahlen können alle Studierenden der Hochschule e
 Der Wahlausschuss wird eine Wahlzeitung herausgeben, für die alle zugelassenen Wahllisten eine Selbstdarstellung einreichen können. Selbstdarstellungen sind bis zum **12.09.2022, 12 Uhr**, via Smail beim Wahlausschuss einzureichen.
 
 **Für die Wahlzeitung gilt**  
-Dieses Jahr wird die Wahlzeitung als PDF-Dokument in Onlineform erscheinen. Genauere Informationen zu Formaten folgen in Kürze.
+Dieses Jahr wird die Wahlzeitung als PDF-Dokument in Onlineform erscheinen. Selbstdarstellungen sollten im A4- Format und als PDF-Datei per Mail bei uns eingereicht werden. Für die Selbstdarstellungen der Fachschaftsräte steht eine Din-A4 Seite zur Verfügung. Die Listen für die Stupa Wahl haben zwei Din-A4 Seiten Platz. Wir freuen uns auf eure Einsendungen. 
 
 In der :PdfLink{path="/Wahlzeitung_2021.pdf" text="Wahlzeitung 2021"}
 sind beispielhaft die Selbstdarstellung aller Kandidierenden des letzten Jahres zu finden.
