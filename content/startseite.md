@@ -31,7 +31,7 @@ Außerdem können wichtige Dokumente in unserem [sciebo](https://th-koeln.sciebo
 
 Vielen Dank für das große Interesse an der Mithilfe bei der Wahl! Wir haben bereits genug Bewerbungen für Wahlhelfer:innen erhalten und es werden keine weiteren mehr gesucht. -->
 
-Die Auslosung der Listenreihenfolge findet am **17.09.2022** via Zoom statt.
+Die Auslosung der Listenreihenfolge findet am **17.09.2022 um 14:00** via Zoom statt.
 
 Zoom-Link:
 https://us05web.zoom.us/j/87861261263?pwd=KzduQkc3OU5YNGJsOXBDVmovVXRpZz09

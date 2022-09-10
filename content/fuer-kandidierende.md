@@ -23,7 +23,7 @@ Erforderliche Unterschriften auf allen Formularen sind auch bei digitaler Einrei
 
 ### Zulassung der Listen, Auslosung der Reihenfolge
 
-Der Wahlausschuss entscheidet über die Zulassung der eingereichten Wahllisten. Entsprechend der gezogenen Losnummer erscheint die einzelne Wahlliste auf dem Wahlzettel, sowie in der Wahlzeitung, in entsprechender aufsteigender Reihenfolge. Die Auslosung findet öffentlich am **17.09.2022** via Zoom statt.
+Der Wahlausschuss entscheidet über die Zulassung der eingereichten Wahllisten. Entsprechend der gezogenen Losnummer erscheint die einzelne Wahlliste auf dem Wahlzettel, sowie in der Wahlzeitung, in entsprechender aufsteigender Reihenfolge. Die Auslosung findet öffentlich am **17.09.2022 um 14:00** via Zoom statt.
 
 Zoom-Link:
 https://us05web.zoom.us/j/87861261263?pwd=KzduQkc3OU5YNGJsOXBDVmovVXRpZz09
