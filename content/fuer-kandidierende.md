@@ -25,6 +25,12 @@ Erforderliche Unterschriften auf allen Formularen sind auch bei digitaler Einrei
 
 Der Wahlausschuss entscheidet über die Zulassung der eingereichten Wahllisten. Entsprechend der gezogenen Losnummer erscheint die einzelne Wahlliste auf dem Wahlzettel, sowie in der Wahlzeitung, in entsprechender aufsteigender Reihenfolge. Die Auslosung findet öffentlich am **17.09.2022** via Zoom statt.
 
+Zoom-Link:
+https://us05web.zoom.us/j/87861261263?pwd=KzduQkc3OU5YNGJsOXBDVmovVXRpZz09
+
+Meeting-ID: 878 6126 1263
+Kenncode: WASLST
+
 ### Unterstützerinnen und Unterstützer
 
 Eine Wahlvorschlagsliste benötigt die folgende Mindestanzahl an Unterschriften von Unterstützer:innen:
@@ -38,7 +44,7 @@ Für die Studierendenparlamentswahlen können alle Studierenden der Hochschule e
 
 ### Selbstdarstellung in der Wahlzeitung und auf der Webseite
 
-Der Wahlausschuss wird eine Wahlzeitung herausgeben, für die alle zugelassenen Wahllisten eine Selbstdarstellung einreichen können. Selbstdarstellungen sind bis zum **12.09.2022, 12 Uhr**, via Smail beim Wahlausschuss einzureichen.
+Der Wahlausschuss wird eine Wahlzeitung herausgeben, für die alle zugelassenen Wahllisten eine Selbstdarstellung einreichen können. Selbstdarstellungen sind bis zum **16.09.2022, 23:59 Uhr**, via Smail beim Wahlausschuss einzureichen.
 
 **Für die Wahlzeitung gilt**  
 Dieses Jahr wird die Wahlzeitung als PDF-Dokument in Onlineform erscheinen. Selbstdarstellungen sollten im A4- Format und als PDF-Datei per Mail bei uns eingereicht werden. Für die Selbstdarstellungen der Fachschaftsräte steht eine Din-A4 Seite zur Verfügung. Die Listen für die Stupa Wahl haben zwei Din-A4 Seiten Platz. Wir freuen uns auf eure Einsendungen. 
