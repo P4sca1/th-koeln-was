@@ -2,6 +2,9 @@
 title: Studentische Wahlen 2022
 ---
 
+Hier findet ihr die diesjährige Wahlzeitung mit allen Kandidierenden:
+- :PdfLink{path="/Wahlzeitung_2022.pdf" text="Wahlzeitung 2022"}
+
 **!! DU BIST GEFRAGT !!**
 
 Auch dieses Jahr finden wieder die studentischen Gremienwahlen statt. Gewählt wird:
