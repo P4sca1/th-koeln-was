@@ -23,14 +23,7 @@
 						/>
 					</button>
 				</div>
-				<div class="flex flex-shrink-0 items-center px-4">
-				<!--	<img
-						class="h-12 w-auto"
-						src="assets/images/logo-th-koeln.svg"
-						alt="TH Köln Logo"
-					/> -->
-				</div>
-				<div class="mt-5 h-0 flex-1 overflow-y-auto">
+				<div class="h-0 flex-1 overflow-y-auto">
 					<nav class="space-y-1 px-2">
 						<NuxtLink
 							v-for="item in navigation"
@@ -57,16 +50,7 @@
 		<div
 			class="flex flex-grow flex-col overflow-y-auto border-r border-gray-200 bg-gray-100 pt-5 pl-[env(safe-area-inset-left)] dark:border-gray-900 dark:bg-gray-800"
 		>
-			<NuxtLink to="/" class="flex flex-shrink-0 items-center px-5">
-				<span class="sr-only">Startseite</span>
-				<!--<img
-					src="assets/images/logo-th-koeln.svg"
-					class="h-20"
-					alt="TH Köln Logo" 
-				/> -->
-			</NuxtLink>
-
-			<div class="mt-8 flex flex-1 flex-col">
+			<div class="flex flex-1 flex-col">
 				<nav class="flex-1 space-y-1 px-2 pb-4 text-gray-900 dark:text-gray-50">
 					<NuxtLink
 						v-for="item in navigation"
