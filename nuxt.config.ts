@@ -1,13 +1,6 @@
-import { defineNuxtConfig } from 'nuxt'
-
 export default defineNuxtConfig({
 	typescript: {
 		shim: false,
-	},
-
-	build: {
-		// https://github.com/nuxt/framework/issues/2326
-		transpile: ['@headlessui/vue', '@heroicons/vue'],
 	},
 
 	modules: [

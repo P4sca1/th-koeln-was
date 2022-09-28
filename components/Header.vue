@@ -9,7 +9,7 @@
 			@click="toggle"
 		>
 			<span class="sr-only">Seitenleiste umschalten</span>
-			<MenuAlt2Icon class="h-6 w-6" aria-hidden="true" />
+			<Bars3BottomLeftIcon class="h-6 w-6" aria-hidden="true" />
 		</button>
 
 		<h1 class="ml-4 flex-1 text-xl">Studentischer Wahlausschuss</h1>
@@ -19,6 +19,6 @@
 </template>
 
 <script setup lang="ts">
-	import { MenuAlt2Icon } from '@heroicons/vue/outline'
+	import { Bars3BottomLeftIcon } from '@heroicons/vue/24/outline/index.js'
 	const { toggle } = useSidebar()
 </script>

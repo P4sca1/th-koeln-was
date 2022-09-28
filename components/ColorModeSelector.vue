@@ -3,7 +3,7 @@
 		<label for="colorMode" class="sr-only">Aussehen</label>
 		<div class="relative mt-1 flex">
 			<div class="absolute inset-y-0 left-0 flex items-center pl-3">
-				<ColorSwatchIcon class="left-0 h-5 w-5" aria-hidden="true" />
+				<SwatchIcon class="left-0 h-5 w-5" aria-hidden="true" />
 			</div>
 
 			<select
@@ -20,5 +20,5 @@
 </template>
 
 <script setup lang="ts">
-	import { ColorSwatchIcon } from '@heroicons/vue/outline'
+	import { SwatchIcon } from '@heroicons/vue/24/outline/index.js'
 </script>

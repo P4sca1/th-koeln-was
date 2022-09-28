@@ -69,7 +69,7 @@
 
 <script setup lang="ts">
 	import { Dialog, DialogPanel } from '@headlessui/vue'
-	import { XIcon } from '@heroicons/vue/outline'
+	import { XIcon } from '@heroicons/vue/24/outline/index.js'
 
 	const { isMobileSidebarOpen } = useSidebar()
 

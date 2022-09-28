@@ -49,12 +49,12 @@
 	import {
 		SunIcon,
 		MoonIcon,
-		DesktopComputerIcon,
-	} from '@heroicons/vue/outline'
+		ComputerDesktopIcon,
+	} from '@heroicons/vue/24/outline/index.js'
 
 	const options = [
 		{ value: 'light', text: 'Hell', icon: SunIcon },
 		{ value: 'dark', text: 'Dunkel', icon: MoonIcon },
-		{ value: 'system', text: 'System', icon: DesktopComputerIcon },
+		{ value: 'system', text: 'System', icon: ComputerDesktopIcon },
 	]
 </script>
