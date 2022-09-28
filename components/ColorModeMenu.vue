@@ -50,7 +50,7 @@
 		SunIcon,
 		MoonIcon,
 		ComputerDesktopIcon,
-	} from '@heroicons/vue/24/outline'
+	} from '@heroicons/vue/24/outline/esm/index.js'
 
 	const options = [
 		{ value: 'light', text: 'Hell', icon: SunIcon },

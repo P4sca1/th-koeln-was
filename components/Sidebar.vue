@@ -71,7 +71,7 @@
 
 <script setup lang="ts">
 	import { Dialog, DialogPanel } from '@headlessui/vue'
-	import { XMarkIcon } from '@heroicons/vue/24/outline'
+	import { XMarkIcon } from '@heroicons/vue/24/outline/esm/index.js'
 
 	const { isMobileSidebarOpen } = useSidebar()
 

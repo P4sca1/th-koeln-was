@@ -19,6 +19,6 @@
 </template>
 
 <script setup lang="ts">
-	import { Bars3BottomLeftIcon } from '@heroicons/vue/24/outline'
+	import { Bars3BottomLeftIcon } from '@heroicons/vue/24/outline/esm/index.js'
 	const { toggle } = useSidebar()
 </script>
