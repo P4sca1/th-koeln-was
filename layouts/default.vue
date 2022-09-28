@@ -9,7 +9,31 @@
 		<main
 			class="ml-[var(--sidebar-width)] min-h-[calc(100vh_-_var(--header-height))] grow pb-[env(safe-area-inset-bottom)] pl-[env(safe-area-inset-left)] pr-[env(safe-area-inset-right)] transition-[margin-left] duration-500 ease-in"
 		>
-			<slot />
+			<div v-if="page" class="container mx-auto p-6">
+				<div class="relative flex flex-row-reverse flex-wrap justify-center">
+					<nav
+						v-if="page.toc && page.body.toc.links.length > 0"
+						class="mb-12 h-40 w-full space-y-1 overflow-y-auto xl:sticky xl:top-10 xl:ml-10 xl:h-[calc(100vh_-_var(--header-height)_-_48px)] xl:w-64 2xl:w-80"
+					>
+						<p class="mt-0 font-medium text-th-orange">Inhaltsverzeichnis</p>
+						<div
+							v-for="link of page.body.toc.links"
+							:key="link.id"
+							class="flex items-center rounded-md py-2 pl-3 text-sm font-medium text-gray-600 hover:bg-gray-50 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-gray-800 dark:hover:text-white"
+						>
+							<a :href="`#${link.id}`">{{ link.text }}</a>
+						</div>
+					</nav>
+
+					<div
+						class="prose prose-sm overflow-x-auto prose-a:text-th-orange visited:prose-a:text-th-purple prose-a:prose-headings:no-underline dark:prose-invert md:prose-base lg:prose-lg"
+					>
+						<h1 v-if="page.title">{{ page.title }}</h1>
+						<slot />
+					</div>
+				</div>
+			</div>
+			<slot v-else />
 		</main>
 	</div>
 </template>
@@ -38,6 +62,8 @@
 	router.beforeEach(() => {
 		isMobileSidebarOpen.value = false
 	})
+
+	const { page } = useContent()
 </script>
 
 <style>

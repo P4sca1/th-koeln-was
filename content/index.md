@@ -3,6 +3,7 @@ title: Studentische Wahlen 2022
 ---
 
 Hier findest du die diesjährige Wahlzeitung mit allen Kandidierenden:
+
 - :PdfLink{path="/Wahlzeitung_2022.pdf" text="Wahlzeitung 2022"}
 
 **!! DU BIST GEFRAGT !!**
@@ -30,7 +31,7 @@ Außerdem können wichtige Dokumente in unserem [sciebo](https://th-koeln.sciebo
 
 <!--Wenn Ihr nicht nur wählen gehen wollt, sondern auch bei der Wahl mithelfen möchtet, seid Ihr hiermit herzlich zum Informationstreffen für Wahlhelfer:innen am 23.09.2022 eingeladen! Weitere Infos dazu unter [Für Wahlhelfende](/fuer-wahlhelfende).
 
-**Update** 
+**Update**
 
 Vielen Dank für das große Interesse an der Mithilfe bei der Wahl! Wir haben bereits genug Bewerbungen für Wahlhelfer:innen erhalten und es werden keine weiteren mehr gesucht. -->
 
