@@ -3,9 +3,8 @@ title: Für Wahlhelfende
 toc: true
 ---
 
-**Update** 
-
-Für dieses Jahr werden keine weiteren Wahlhelfer:innen mehr gesucht. 
+**Update**  
+Für dieses Jahr werden keine weiteren Wahlhelfer:innen mehr gesucht.
 
 ### Wofür werden Wahlhelfer:innen gesucht?
 
