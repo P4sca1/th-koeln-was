@@ -27,6 +27,7 @@ Kontaktdaten, ausführliche Infos zu Kandidatur, Wahllokalen und Durchführung f
 Außerdem können wichtige Dokumente in unserem [sciebo](https://th-koeln.sciebo.de/s/q1hXFTRlcU3IFQ5) eingesehen werden.
 
 Zur gleichen Zeit finden die Gremienwahlen der studentischen Vertreter:innen zum Senat und den Fakultätsraten statt. 
+
 **Hinweis**: 
 In den Fakultäten 01, 02, 03, 04, 07, 09 und 11 wird keine Wahl zum jeweiligen **Fakultätsrat** stattfinden, da die Zahl der Bewerberinnen und Bewerber die Zahl der zu besetzenden Sitze nicht übersteigt. 
 In der Fakultät 10 wird keine Wahl für die Vertreter:innen der Studierenden im Fakultätsrat stattfinden, da trotz Nachfrist keine Wahlvorschläge eingegangen sind.
