@@ -17,11 +17,13 @@ Auch dieses Jahr finden wieder die studentischen Gremienwahlen statt. Gewählt w
   Es ist das höchste beschlussfassende Wahlgremium der Studierendenschaft und für die Selbstverwaltung der Studierenden zuständig.
   Weitere Infos auf www.stupa.th-koeln.de
 
-Du kannst dich selbst zur Wahl stellen und deine Wünsche und Forderungen in das Hochschulleben einbringen
+<!--Du kannst dich selbst zur Wahl stellen und deine Wünsche und Forderungen in das Hochschulleben einbringen
 
-ODER
+ODER-->
 
-Du stattest einem der Wahllokale in der Woche vom **10.10.2022 – 14.10.2022** einen Besuch ab und wählst deine:n Kandidierende:n für FSR und StuPa.
+Du kannst einem der Wahllokale in der Woche vom **10.10.2022 – 14.10.2022** einen Besuch abstatten und wählst deine:n Kandidierende:n für FSR und StuPa. 
+
+Die Auszählung beginnt öffentlich am Freitag, 14.10.22 um 13 Uhr im AStA-Foyer in Deutz. 
 
 Kontaktdaten, ausführliche Infos zu Kandidatur, Wahllokalen und Durchführung findest du auf dieser Webseite und in der :PdfLink{path="/Wahlbekanntmachung.pdf" text="PDF Datei zur Wahlbekanntmachung"} .
 Außerdem können wichtige Dokumente in unserem [sciebo](https://th-koeln.sciebo.de/s/q1hXFTRlcU3IFQ5) eingesehen werden.

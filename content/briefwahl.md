@@ -15,7 +15,7 @@ Für die Briefwahl gilt die gleiche Frist wie für die Stimmabgabe im Wahllokal.
 
 ### Anschrift zur Beantragung der Briefwahl
 
-Per S-Mail: WAS@stupa.th-koeln.de
+Per Smail: WAS@stupa.th-koeln.de
 
 Per Brief:  
 Stud. Wahlausschuss des Studierendenparlaments  
