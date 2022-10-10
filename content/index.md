@@ -23,6 +23,13 @@ ODER-->
 
 Du kannst einem der Wahllokale in der Woche vom **10.10.2022 – 14.10.2022** einen Besuch abstatten und wählst deine:n Kandidierende:n für FSR und StuPa. 
 
+Während der Wahlwoche tagt der Wahlausschuss jeden Tag öffentlich um 16 Uhr. 
+
+Zoom-Meeting beitreten
+https://th-koeln.zoom.us/j/4845007422
+Meeting ID: 484 500 7422
+Passwort: 742324
+
 Die Auszählung beginnt öffentlich am Freitag, 14.10.22 um 13 Uhr im AStA-Foyer in Deutz. 
 
 Kontaktdaten, ausführliche Infos zu Kandidatur, Wahllokalen und Durchführung findest du auf dieser Webseite und in der :PdfLink{path="/Wahlbekanntmachung.pdf" text="PDF Datei zur Wahlbekanntmachung"} .
