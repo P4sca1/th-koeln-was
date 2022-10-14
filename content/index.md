@@ -27,6 +27,8 @@ Während der Wahlwoche tagt der Wahlausschuss jeden Tag öffentlich um 16 Uhr.
 
 *Am 13.10 um 15:30 
 
+*Am 14.10. im Anschluss an die Auszählung im AStA-Foyer Deutz
+
 Zoom-Meeting beitreten
 https://th-koeln.zoom.us/j/4845007422
 Meeting ID: 484 500 7422
