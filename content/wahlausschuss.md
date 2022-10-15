@@ -10,12 +10,11 @@ Der studentische Wahlausschuss des Studierendenparlaments besteht aus bis zu zeh
 - Janina Sthamer (Stellvertreterin)
 - Lokeshwara Venkappa Gollar
 - Pascal Schwerdter
-- Patrick Koenen
 - Sebastian Bender
 - Stephen Valianto
 
 **Kontakt**  
-Studierende, die mit dem Wahlausschuss per E-Mail kommunizieren, nutzen dabei bitte ausschließlich ihre S-Mail-Adresse.
+Studierende, die mit dem Wahlausschuss per E-Mail kommunizieren, nutzen dabei bitte ausschließlich ihre Smail.
 
 Stud. Wahlausschuss des Studierendenparlaments  
 c/o AStA der Technischen Hochschule Köln  

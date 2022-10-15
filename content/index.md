@@ -2,7 +2,7 @@
 title: Studentische Wahlen 2022
 ---
 
-Folgend das :PdfLink{path="/Vorläufiges_Wahlergebnis_2022.pdf" text="vorläufige Wahlergebnis 2022"}
+Folgend das :PdfLink{path="/Vorläufiges_Wahlergebnis_2022.pdf" text="Vorläufige Wahlergebnis 2022"}
 
 Hier findest du die diesjährige Wahlzeitung mit allen Kandidierenden:
 
