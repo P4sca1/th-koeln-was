@@ -5,9 +5,6 @@ title: Studentische Wahlen 2022
 Das diesjährige Wahlergebnis ist da! 
 :PdfLink{path="/Wahlergebnis für die Wahlen zum Studierendenparlament und zu den Fachschaftsräten 2022-2.pdf" text="Wahlergebnis für die Wahlen zum Studierendenparlament und zu den Fachschaftsräten 2022"}
 
-Hier findest du die diesjährige Wahlzeitung mit allen Kandidierenden:
-
-- :PdfLink{path="/Wahlzeitung_2022.pdf" text="Wahlzeitung 2022"}
 
 **!! DU BIST GEFRAGT !!**
 
@@ -68,4 +65,4 @@ https://us05web.zoom.us/j/87861261263?pwd=KzduQkc3OU5YNGJsOXBDVmovVXRpZz09
 Meeting-ID: 878 6126 1263
 Kenncode: WASLST-->
 
-_Amtliche Wahlergebnisse werden unter [Wahlergebnisse](/wahlergebnisse) spätestens ab dem 18. Oktober 2022 zu finden sein._
+<!--_Amtliche Wahlergebnisse werden unter [Wahlergebnisse](/wahlergebnisse) spätestens ab dem 18. Oktober 2022 zu finden sein._-->
