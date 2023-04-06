@@ -1,6 +1,6 @@
 <template>
 	<div
-		class="z-10 flex h-[var(--header-height)] flex-shrink-0 items-center bg-white pt-[env(safe-area-inset-top)] pr-[env(safe-area-inset-right)] shadow transition-[padding-left] duration-500 ease-in dark:bg-gray-800 dark:shadow-gray-900 md:pl-[max(env(safe-area-inset-left),var(--sidebar-width))]"
+		class="z-10 flex h-[var(--header-height)] flex-shrink-0 items-center bg-white pr-[env(safe-area-inset-right)] pt-[env(safe-area-inset-top)] shadow transition-[padding-left] duration-500 ease-in dark:bg-gray-800 dark:shadow-gray-900 md:pl-[max(env(safe-area-inset-left),var(--sidebar-width))]"
 	>
 		<!-- Button to toggle the sidebar -->
 		<button
@@ -19,6 +19,6 @@
 </template>
 
 <script setup lang="ts">
-	import { Bars3BottomLeftIcon } from '@heroicons/vue/24/outline/esm/index.js'
+	import { Bars3BottomLeftIcon } from '@heroicons/vue/24/outline/esm/index'
 	const { toggle } = useSidebar()
 </script>

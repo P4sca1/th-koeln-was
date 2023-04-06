@@ -9,9 +9,9 @@
 		>
 			<div class="fixed inset-0 z-40 flex">
 				<DialogPanel
-					class="relative flex w-full max-w-xs flex-1 flex-col bg-gray-200 pt-5 pb-4 dark:bg-gray-800"
+					class="relative flex w-full max-w-xs flex-1 flex-col bg-gray-200 pb-4 pt-5 dark:bg-gray-800"
 				>
-					<div class="absolute top-0 right-0 pr-2 pt-2">
+					<div class="absolute right-0 top-0 pr-2 pt-2">
 						<button
 							type="button"
 							class="ml-1 flex h-10 w-10 items-center justify-center rounded-full focus:outline-none focus:ring-2 focus:ring-inset focus:ring-gray-900 dark:focus:ring-white"
@@ -50,7 +50,7 @@
 		class="fixed inset-y-0 z-20 hidden w-[var(--sidebar-width)] flex-col transition-[width] duration-500 ease-in md:flex"
 	>
 		<div
-			class="flex flex-grow flex-col overflow-y-auto border-r border-gray-200 bg-gray-100 pt-5 pl-[env(safe-area-inset-left)] dark:border-gray-900 dark:bg-gray-800"
+			class="flex flex-grow flex-col overflow-y-auto border-r border-gray-200 bg-gray-100 pl-[env(safe-area-inset-left)] pt-5 dark:border-gray-900 dark:bg-gray-800"
 		>
 			<div class="flex flex-1 flex-col">
 				<nav class="flex-1 space-y-1 px-2 pb-4 text-gray-900 dark:text-gray-50">
@@ -71,7 +71,7 @@
 
 <script setup lang="ts">
 	import { Dialog, DialogPanel } from '@headlessui/vue'
-	import { XMarkIcon } from '@heroicons/vue/24/outline/esm/index.js'
+	import { XMarkIcon } from '@heroicons/vue/24/outline/esm/index'
 
 	const { isMobileSidebarOpen } = useSidebar()
 

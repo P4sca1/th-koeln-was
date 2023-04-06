@@ -26,7 +26,7 @@
 						:class="[
 							selected && 'text-th-purple',
 							active && 'bg-gray-50 dark:bg-gray-700',
-							'flex cursor-pointer items-center py-1 px-2',
+							'flex cursor-pointer items-center px-2 py-1',
 						]"
 					>
 						<component :is="option.icon" class="mr-2 h-6 w-6" />
@@ -50,7 +50,7 @@
 		SunIcon,
 		MoonIcon,
 		ComputerDesktopIcon,
-	} from '@heroicons/vue/24/outline/esm/index.js'
+	} from '@heroicons/vue/24/outline/esm/index'
 
 	const options = [
 		{ value: 'light', text: 'Hell', icon: SunIcon },
