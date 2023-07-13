@@ -7,6 +7,7 @@ export default defineNuxtConfig({
 		'@nuxt/content',
 		'@nuxtjs/tailwindcss',
 		'@nuxtjs/color-mode',
+		'@nuxthq/studio',
 		'@vueuse/nuxt',
 		'nuxt-progress',
 	],
