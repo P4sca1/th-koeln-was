@@ -1,10 +1,9 @@
 ---
-title: Studentische Wahlen 2022
+title: Studentische Wahlen 2023
 ---
 
-Das diesjährige Wahlergebnis ist da! 
+Das diesjährige Wahlergebnis ist da!
 :PdfLink{path="/Wahlergebnis für die Wahlen zum Studierendenparlament und zu den Fachschaftsräten 2022-2.pdf" text="Wahlergebnis für die Wahlen zum Studierendenparlament und zu den Fachschaftsräten 2022"}
-
 
 **!! DU BIST GEFRAGT !!**
 
@@ -21,13 +20,13 @@ Auch dieses Jahr finden wieder die studentischen Gremienwahlen statt. Gewählt w
 
 ODER-->
 
-Du kannst einem der Wahllokale in der Woche vom **10.10.2022 – 14.10.2022** einen Besuch abstatten und wählst deine:n Kandidierende:n für FSR und StuPa. 
+Du kannst einem der Wahllokale in der Woche vom **10.10.2022 – 14.10.2022** einen Besuch abstatten und wählst deine:n Kandidierende:n für FSR und StuPa.
 
-Während der Wahlwoche tagt der Wahlausschuss jeden Tag öffentlich um 16 Uhr. 
+Während der Wahlwoche tagt der Wahlausschuss jeden Tag öffentlich um 16 Uhr.
 
-*Am 13.10 um 15:30 
+\*Am 13.10 um 15:30
 
-*Am 14.10. im Anschluss an die Auszählung im AStA-Foyer Deutz
+\*Am 14.10. im Anschluss an die Auszählung im AStA-Foyer Deutz
 
 Zoom-Meeting beitreten
 https://th-koeln.zoom.us/j/4845007422
@@ -35,15 +34,15 @@ Meeting ID: 484 500 7422
 
 Passwort: 742324
 
-Die Auszählung beginnt öffentlich am Freitag, 14.10.22 um 13 Uhr im AStA-Foyer in Deutz. 
+Die Auszählung beginnt öffentlich am Freitag, 14.10.22 um 13 Uhr im AStA-Foyer in Deutz.
 
 Kontaktdaten, ausführliche Infos zu Kandidatur, Wahllokalen und Durchführung findest du auf dieser Webseite und in der :PdfLink{path="/Wahlbekanntmachung.pdf" text="PDF Datei zur Wahlbekanntmachung"} .
 Außerdem können wichtige Dokumente in unserem [sciebo](https://th-koeln.sciebo.de/s/q1hXFTRlcU3IFQ5) eingesehen werden.
 
-Zur gleichen Zeit finden die Gremienwahlen der studentischen Vertreter:innen zum Senat und den Fakultätsraten statt. 
+Zur gleichen Zeit finden die Gremienwahlen der studentischen Vertreter:innen zum Senat und den Fakultätsraten statt.
 
-**Hinweis**: 
-In den Fakultäten 01, 02, 03, 04, 07, 09 und 11 wird keine Wahl zum jeweiligen **Fakultätsrat** stattfinden, da die Zahl der Bewerberinnen und Bewerber die Zahl der zu besetzenden Sitze nicht übersteigt. 
+**Hinweis**:
+In den Fakultäten 01, 02, 03, 04, 07, 09 und 11 wird keine Wahl zum jeweiligen **Fakultätsrat** stattfinden, da die Zahl der Bewerberinnen und Bewerber die Zahl der zu besetzenden Sitze nicht übersteigt.
 In der Fakultät 10 wird keine Wahl für die Vertreter:innen der Studierenden im Fakultätsrat stattfinden, da trotz Nachfrist keine Wahlvorschläge eingegangen sind.
 In der Fakultät 12 besteht noch kein Fakultätsrat.
 Die Wahlvorschläge könnt ihr der Wahlbekanntmachung entnehmen.
