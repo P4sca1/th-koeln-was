@@ -1,5 +1,5 @@
 ---
-title: Zeitliche Eckdaten für die studentischen Wahlen 2022
+title: Zeitliche Eckdaten für die studentischen Wahlen 2023
 ---
 
 - _12. August:_ Veröffentlichung der Wahlbekanntmachung

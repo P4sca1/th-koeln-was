@@ -2,16 +2,16 @@
 title: Wahlausschuss
 ---
 
-Der studentische Wahlausschuss des Studierendenparlaments besteht aus bis zu zehn Studierenden, welche gemeinsam die stud. Wahlen eigenständig organisieren.
+Der studentische Wahlausschuss des Studierendenparlaments besteht aus fünf Studierenden, welche gemeinsam die studentischen Wahlen organisieren.
 
 **Mitglieder im stud. Wahlausschuss**
 
-- Clara Ellguth (Wahlleiterin)
-- Janina Sthamer (Stellvertreterin)
-- Lokeshwara Venkappa Gollar
-- Pascal Schwerdter
-- Sebastian Bender
-- Stephen Valianto
+- Daniel Owsiany (Wahlleiter)
+- Tino Passlack (Stellv. Wahlleiter)
+- Laura Schupp (Briefwahl)
+- Sarah Mahlmann (Wahlhelfer:innen)
+- Dandara Ribeiro Wildenberg (Öffentlichkeitsarbeit)
+- Sarah Hahner (Finanzen)
 
 **Kontakt**  
 Studierende, die mit dem Wahlausschuss per E-Mail kommunizieren, nutzen dabei bitte ausschließlich ihre Smail.

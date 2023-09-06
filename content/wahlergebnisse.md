@@ -2,14 +2,15 @@
 title: Wahlergebnisse
 ---
 
-### Aktuelle Wahlergebnisse für 2022
+<!--### Aktuelle Wahlergebnisse für 2022
 
-- :PdfLink{path="/Wahlergebnis für die Wahlen zum Studierendenparlament und zu den Fachschaftsräten 2022-2.pdf" text="Wahlergebnis von 2022"}
+- :PdfLink{path="/Wahlergebnis für die Wahlen zum Studierendenparlament und zu den Fachschaftsräten 2022-2.pdf" text="Wahlergebnis von 2022"}-->‚
 
 ### Wahlergebnisse der vergangenen Jahre
 
 Hinweis zum Wahljahr 2019: Im Nachgang der durchgeführten Studierendenparlamentswahl wurde diese Wahl für ungültig erklärt, da sie vom Präsidenten der Hochschule beanstandet wurde.
 
+- :PdfLink{path="/Wahlergebnis für die Wahlen zum Studierendenparlament und zu den Fachschaftsräten 2022-2.pdf" text="Wahlergebnis von 2022"}
 - :PdfLink{path="/Wahlergebnisse/Wahlergebnis_2021.pdf" text="Wahlergebnis von 2021"}
 - :PdfLink{path="/Wahlergebnisse/Wahlergebnis_2019.pdf" text="Wahlergebnis von 2019"}
 - :PdfLink{path="/Wahlergebnisse/Wahlergebnis_2018.pdf" text="Wahlergebnis von 2018"}

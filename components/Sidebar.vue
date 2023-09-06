@@ -82,7 +82,7 @@
 		{ name: 'Für Wählende', to: '/fuer-waehlende' },
 		{ name: 'Für Kandidierende', to: '/fuer-kandidierende' },
 		{ name: 'Für Wahlhelfende', to: '/fuer-wahlhelfende' },
-		{ name: 'Kandidaturen', to: '/kandidaturen' },
+		//{ name: 'Kandidaturen', to: '/kandidaturen' },
 		{ name: 'Briefwahl', to: '/briefwahl' },
 		{ name: 'Wahlergebnisse', to: '/wahlergebnisse' },
 		{ name: 'Wahlausschuss', to: '/wahlausschuss' },
