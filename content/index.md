@@ -32,11 +32,11 @@ Passwort: 742324
 Die Auszählung beginnt öffentlich am Freitag, 14.10.22 um 13 Uhr im AStA-Foyer in Deutz. -->
 
 Kontaktdaten, ausführliche Infos zu Kandidatur, Wahllokalen und Durchführung findest du auf dieser Webseite und in der :PdfLink{path="/Wahlbekanntmachung.pdf" text="PDF Datei zur Wahlbekanntmachung"} .
-Außerdem können wichtige Dokumente in unserem TODO [sciebo](https://th-koeln.sciebo.de/s/q1hXFTRlcU3IFQ5) eingesehen werden.
+Außerdem können wichtige Dokumente in unserem [Google Drive](https://drive.google.com/drive/folders/1tRwNQmdivWcFby61kiWyUoY8oarHVpbN?usp=sharing) eingesehen werden.
 
 Zur gleichen Zeit finden die Gremienwahlen der studentischen Vertreter:innen zum Senat und den Fakultätsraten statt.
 
-Wenn Ihr nicht nur wählen gehen wollt, sondern auch bei der Wahl mithelfen möchtet, seid Ihr hiermit herzlich zum Informationstreffen für Wahlhelfer:innen am TODO (DATE) eingeladen! Weitere Infos dazu unter [Für Wahlhelfende](/fuer-wahlhelfende).
+Wenn Ihr nicht nur wählen gehen wollt, sondern auch bei der Wahl mithelfen möchtet, seid Ihr hiermit herzlich zum Informationstreffen für Wahlhelfer:innen am **19.10. um 20 Uhr** eingeladen! Weitere Infos dazu unter [Für Wahlhelfende](/fuer-wahlhelfende).
 
 <!--**Hinweis**:
 In den Fakultäten 01, 02, 03, 04, 07, 09 und 11 wird keine Wahl zum jeweiligen **Fakultätsrat** stattfinden, da die Zahl der Bewerberinnen und Bewerber die Zahl der zu besetzenden Sitze nicht übersteigt.

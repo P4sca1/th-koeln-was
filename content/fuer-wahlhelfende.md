@@ -5,7 +5,7 @@ toc: true
 
 ### Wofür werden Wahlhelfer:innen gesucht?
 
-Es werden Studierende gesucht, die den Wahlausschuss bei der Durchführung der studentischen Wahlen vom TODO DATE ? unterstützen.
+Es werden Studierende gesucht, die den Wahlausschuss bei der Durchführung der studentischen Wahlen vom **20.11. bis zum 24.11.** unterstützen.
 
 In deinen Aufgabenbereich würde zum Beispiel fallen,
 
@@ -16,18 +16,18 @@ In deinen Aufgabenbereich würde zum Beispiel fallen,
 
 1. **Wahlhelfer:innen im Wahllokal**
 
-Es gibt insgesamt fünf Wahllokale: zwei am Campus Südstadt (Claudiusstraße 1 sowie Ubierring 48), eins am Campus Deutz, eins am Campus Leverkusen und eins am Campus Gummersbach.
+Es gibt insgesamt fünf Wahllokale: eins am Campus in der Südstadt (Ubierring 48), eins am Campus Deutz, eins am Campus Leverkusen und eins am Campus Gummersbach.
 
-Jedes dieser Wahllokale öffnet Montag bis Donnerstag von 10 bis 15 Uhr und Freitag von 10 bis 12 Uhr. D. h. während dieser Zeiten müssen die Wahllokale jeweils mit mindestens zwei Studierenden besetzt sein.
+Jedes dieser Wahllokale öffnet Montag bis Donnerstag von **10-15 Uhr** und Freitag von **10-12 Uhr**. Das heißt, während dieser Zeit müssen die Wahllokale jeweils mit mindestens zwei Studierenden besetzt sein.
 
 2. **Wahlhelfer:innen bei der Auszählung**
 
-Am letzten Wahltag, also Freitag, den TODO ? beginnt nach Schließung der Wahllokale die Auszählung aller Stimmzettel. Hierfür werden ebenfalls Studierende gesucht, die mithelfen, alle Stimmzettel ordnungsgemäß auszuzählen. Genauere Infos zu Uhrzeit und Ort der Auszählung werden noch bekanntgegeben.
+Am letzten Wahltag, also Freitag, **den 24.11.**, beginnt nach Schließung der Wahllokale die Auszählung aller Stimmzettel. Hierfür werden ebenfalls Studierende gesucht, die mithelfen, alle Stimmzettel ordnungsgemäß auszuzählen. Genauere Infos zu Uhrzeit und Ort der Auszählung werden noch bekanntgegeben.
 
 ### Aufgaben und Arbeitsbedingungen im Detail
 
 - Mindestens zwei Tage in der Wahlwoche verfügbar sein
-- Pünktliches Eröffnen des Wahllokals:Treffpunkt immer 10 Minuten vor Schichtbeginn
+- Pünktliches Eröffnen des Wahllokals (Treffpunkt immer 15 Minuten vor Schichtbeginn)
 - Die Wahlordnung kennen
 - Es müssen immer zwei Wahlhelfende an der Urne sein
 - Bei jeglicher Abwesenheit wird die Wahlurne versiegelt und es erfolgt ein Eintrag in das Wahlprotokoll
@@ -39,13 +39,15 @@ Am letzten Wahltag, also Freitag, den TODO ? beginnt nach Schließung der Wahllo
 
 ### Was bieten wir?
 
-Du erhältst als Aufwandsentschädigung einen Stundenlohn in Höhe von 14 Euro.
+Du erhältst als Aufwandsentschädigung einen Stundenlohn in Höhe von **14 Euro**.
 
 ### Haben wir dein Interesse geweckt?
 
-Dann nimm gerne am TODO ? an unserem Infotreffen für Wahlhelfer:innen teil! Das Infotreffen soll am späten Nachmittag stattfinden, der genaue Ort und die Uhrzeit werden in den nächsten Tagen noch bekannt gegeben. Nutze außerdem gerne das Anmeldeformular über den Anmeldelink weiter unten. Ihr könnt uns im Falle dessen, dass ihr zu dem Treffen nicht kommen könnt, per Smail eine Nachricht mit euren Kontaktdaten (Name, Studiengang, Rufnummer), Tätigkeit (Wahllokal und/oder Stimmauszählung), Tagen (inkl. Uhrzeiten) und dem bevorzugten Standort an unsere unten angegebene E-Mail-Adresse schicken.
+Dann nimm gerne am **19.10. um 20 Uhr** an unserem Infotreffen für Wahlhelfer:innen teil!
+Der genaue Ort und ob die Veranstaltung remote oder hybrid stattfindet, geben wir noch bekannt.
+Nutze außerdem gerne das Anmeldeformular über den Anmeldelink weiter unten. Ihr könnt uns im Falle dessen, dass ihr zu dem Treffen nicht kommen könnt, per Smail eine Nachricht mit euren Kontaktdaten (Name, Studiengang, Rufnummer), Tätigkeit (Wahllokal und/oder Stimmauszählung) und dem bevorzugten Standort an unsere unten angegebene E-Mail-Adresse schicken.
 
 ### Kontaktdaten des Wahlausschusses:
 
 E-Mail: WAS@stupa.th-koeln.de  
-Anmeldungslink: TODO Link
+Anmeldungslink: Link folgt

@@ -9,7 +9,7 @@ Studierende, die mindestens vier Wochen vor der Wahl als Ersthörer:innen zum Fa
 
 ### Wie kandidiere ich?
 
-Zur Kandidatur ist ein korrekt ausgefülltes Wahlvorschlagsformular sowie dazugehöriges Unterstützer:innenformular bis TODO (DATE) **?, 12 Uhr** (Ausschlussfrist) beim Wahlausschuss einzureichen.
+Zur Kandidatur ist ein korrekt ausgefülltes Wahlvorschlagsformular sowie dazugehöriges Unterstützer:innenformular bis **20.10. um 12 Uhr** (Ausschlussfrist) beim Wahlausschuss einzureichen.
 
 Alle erforderlichen Formulare können via Briefpost oder Smail eingereicht werden. Für die Fristwahrung ist der Eingang der ausgefüllten Formulare beim Wahlausschuss maßgebend. Später eingehende Formulare finden keine Berücksichtigung mehr.
 
@@ -23,10 +23,9 @@ Erforderliche Unterschriften auf allen Formularen sind auch bei digitaler Einrei
 
 ### Zulassung der Listen, Auslosung der Reihenfolge
 
-Der Wahlausschuss entscheidet über die Zulassung der eingereichten Wahllisten. Entsprechend der gezogenen Losnummer erscheint die einzelne Wahlliste auf dem Wahlzettel, sowie in der Wahlzeitung, in entsprechender aufsteigender Reihenfolge. Die Auslosung findet öffentlich am TODO (DATE) **? um 14:00** via Zoom statt.
+Der Wahlausschuss entscheidet über die Zulassung der eingereichten Wahllisten. Entsprechend der gezogenen Losnummer erscheint die einzelne Wahlliste auf dem Wahlzettel, sowie in der Wahlzeitung, in entsprechender aufsteigender Reihenfolge. Die Auslosung findet öffentlich am **27.10. um 16:00** via Zoom statt.
 
-Zoom-Link:
-TODO
+Zoom-Link: [Beitreten](https://th-koeln.zoom-x.de/j/69507508122?pwd=VWgxQnVha3VheGo3RzlPWDU1eEpwUT09)
 
 ### Unterstützerinnen und Unterstützer
 
@@ -41,7 +40,7 @@ Für die Studierendenparlamentswahlen können alle Studierenden der Hochschule e
 
 ### Selbstdarstellung in der Wahlzeitung und auf der Webseite
 
-Der Wahlausschuss wird eine Wahlzeitung herausgeben, für die alle zugelassenen Wahllisten eine Selbstdarstellung einreichen können. Selbstdarstellungen sind bis zum TODO (DATE) **? 23:59 Uhr**, via Smail beim Wahlausschuss einzureichen.
+Der Wahlausschuss wird eine Wahlzeitung herausgeben, für die alle zugelassenen Wahllisten eine Selbstdarstellung einreichen können. Selbstdarstellungen sind bis zum **20.10. 23:59 Uhr**, via Smail beim Wahlausschuss einzureichen.
 
 **Für die Wahlzeitung gilt**  
 Dieses Jahr wird die Wahlzeitung als PDF-Dokument in Onlineform erscheinen. Selbstdarstellungen sollten als PDF-Datei im DIN-A4 Format per Mail bei uns eingereicht werden. Für die Selbstdarstellungen der Fachschaftsräte steht eine DIN-A4 Seite zur Verfügung. Die Listen für die Stupa Wahl haben zwei DIN-A4 Seiten Platz. Wir freuen uns auf eure Einsendungen.

@@ -2,13 +2,14 @@
 title: Zeitliche Eckdaten für die studentischen Wahlen 2023
 ---
 
-- _12. August:_ Veröffentlichung der Wahlbekanntmachung
-- _12. September:_ Ausschlussfrist der Wahlvorschläge (12 Uhr)
-- _16. September:_ Frist für das Einreichen der Selbstdarstellungen für die Wahlzeitung
-- _17. September:_ Auslosung der Listennummern über Zoom
-- _19. September:_ Ab diesem Tag ist die Einsicht in das Wähler:innenverzeichnis möglich
-- _19. September:_ Veröffentlichung der Wahlzeitung
-- _23. September:_ Informationstreffen für Wahlhelfer:innen
-- _4. Oktober:_ Frist zur Beantragung der Briefwahl (12 Uhr)
-- _10. bis 14. Oktober:_ Studentische Wahlen
-- _14. Oktober:_ Auszählung der Stimmzettel im Anschluss an die Wahl
+- **22. September:** Veröffentlichung der Wahlbekanntmachung
+- **25. September:** Ab diesem Tag ist die Einsicht in das Wähler:innenverzeichnis möglich
+- **19. Oktober:** Informationstreffen für Wahlhelfer:innen (20 Uhr)
+- **20. Oktober:** Ausschlussfrist der Wahlvorschläge (12 Uhr)
+- **20. Oktober:** Frist für das Einreichen der Selbstdarstellungen für die Wahlzeitung (23:59 Uhr)
+- **27. Oktober:** Auslosung der Listennummern über Zoom (16 Uhr)
+- **28. Oktober:** Bekanntgabe der Listennummern
+- **30. Oktober:** Veröffentlichung der Wahlzeitung
+- **15. November:** Frist zur Beantragung der Briefwahl (12 Uhr)
+- **20. bis 24. November:** Studentische Wahlen
+- **24. November:** Auszählung der Stimmzettel im Anschluss an die Wahl
