@@ -50,4 +50,4 @@ Nutze außerdem gerne das Anmeldeformular über den Anmeldelink weiter unten. Ih
 ### Kontaktdaten des Wahlausschusses:
 
 E-Mail: WAS@stupa.th-koeln.de  
-Anmeldungslink: Link folgt
+:PdfLink{path="/WahlhelferInnen_Stellenanzeige_2023.pdf" text="Stellenanzeige Wahlhelfende"}
