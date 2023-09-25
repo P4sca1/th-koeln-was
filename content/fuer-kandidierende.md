@@ -38,7 +38,11 @@ Eine Wahlvorschlagsliste benötigt die folgende Mindestanzahl an Unterschriften 
 - 24 für die Studierendenparlamentswahl
 - 5 für die Fachschaftsratswahl
 
+<!--
 Für die Unterstützungsunterschriften ist das :PdfLink{path="/Formulare/UnterstuetzerInnenformular.pdf" text="Unterstützer:innenformular"} zu benutzen.
+-->
+
+Für die Unterstützungsunterschriften ist das [Unterstützer:innenformular](https://docs.google.com/document/d/1TkYuqe-iL0dkDtvicqoXPUbBwnM_h8Zy/edit) zu benutzen.
 
 Für die Studierendenparlamentswahlen können alle Studierenden der Hochschule eine beliebige Wahlvorschlagsliste mit ihrer Unterschrift unterstützen. Bei den Fachschaftsratswahlen dürfen nur jene Studierende eine Wahlvorschlagsliste unterstützen, die auch der eigenen Fachschaft angehören.
 
