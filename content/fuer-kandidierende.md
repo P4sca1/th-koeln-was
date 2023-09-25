@@ -13,11 +13,15 @@ Zur Kandidatur ist ein korrekt ausgefülltes Wahlvorschlagsformular sowie dazuge
 
 Alle erforderlichen Formulare können via Briefpost oder Smail eingereicht werden. Für die Fristwahrung ist der Eingang der ausgefüllten Formulare beim Wahlausschuss maßgebend. Später eingehende Formulare finden keine Berücksichtigung mehr.
 
+Alle erforderlichen Dokumente sind in unserem [Google Drive](https://drive.google.com/drive/folders/1LgGy2LFVof3F8iT8QWLZLzNKpiUyg755?ths=true) zu finden.
+
+<!--
 :PdfLink{path="/Formulare/Stupa_Wahlvorschlagsformular.pdf" text="Wahlvorschlagsformular"} für die Kandidatur für das Studierendenparlament
 
 :PdfLink{path="/Formulare/FSR_Wahlvorschlagsformular.pdf" text="Wahlvorschlagsformular"} für die Kandidatur für den Fachschaftsrat
 
 :PdfLink{path="/Formulare/UnterstuetzerInnenformular.pdf" text="Unterstützer:innenformular"} (für beide Wahlen verwendbar)
+-->
 
 Erforderliche Unterschriften auf allen Formularen sind auch bei digitaler Einreichung via Smail **stets handschriftlich** (analog unterschreiben & einscannen) auf den jeweiligen Formularen zu unterschreiben. Elektronische Unterschriften werden nicht anerkannt.
 
