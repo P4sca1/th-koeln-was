@@ -8,7 +8,6 @@ Der studentische Wahlausschuss des Studierendenparlaments besteht aus fünf Stud
 
 - Daniel Owsiany (Wahlleiter)
 - Tino Passlack (Stellv. Wahlleiter)
-- Laura Schupp (Briefwahl)
 - Sarah Mahlmann (Wahlhelfer:innen)
 - Dandara Ribeiro Wildenberg (Öffentlichkeitsarbeit)
 - Sarah Hahner (Finanzen)
