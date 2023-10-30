@@ -18,38 +18,38 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
     </tr>
     <tr>
         <td>1</td>
-        <td>Dominik</td>
-        <td>Ens</td>
+        <td>Voß</td>
+        <td>Carina</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>Carina</td>
-        <td>Voß</td>
+        <td>Ens</td>
+        <td>Dominik</td>
     </tr>
     <tr>
         <td>3</td>
-        <td>Isabelle Katharina</td>
         <td>Strecker</td>
+        <td>Isabelle Katharina</td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Kai</td>
-        <td>Jaeschke</td>
+        <td>Schauer</td>
+        <td>Leon Moses</td>
     </tr>
     <tr>
         <td>5</td>
-        <td>Leon Moses</td>
-        <td>Schauer</td>
+        <td>Hein</td>
+        <td>Andrea Victoria</td>
     </tr>
     <tr>
         <td>6</td>
-        <td>Sebastian</td>
         <td>Rieger</td>
+        <td>Sebastian</td>
     </tr>
     <tr>
         <td>7</td>
-        <td>Andrea Victoria</td>
-        <td>Hein</td>
+        <td>Jaeschke</td>
+        <td>Kai</td>
     </tr>
 </table>
 
@@ -61,58 +61,58 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
     </tr>
     <tr>
         <td>1</td>
-        <td>Philipp</td>
-        <td>Wefringhaus</td>
+        <td>Schramke</td>
+        <td>Elanor Katrin</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>Max Julius</td>
-        <td>Felchner</td>
+        <td>Scheuerer</td>
+        <td>Tim Robert</td>
     </tr>
     <tr>
         <td>3</td>
-        <td>Julius</td>
-        <td>Schuck</td>
+        <td>Vallenthini</td>
+        <td>Tom</td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Alexandra Rose</td>
-        <td>Rischow</td>
+        <td>Felchner</td>
+        <td>Max Julius</td>
     </tr>
     <tr>
         <td>5</td>
-        <td>Elanor Katrin</td>
-        <td>Schramke</td>
+        <td>Rischow</td>
+        <td>Alexandra Rose</td>
     </tr>
     <tr>
         <td>6</td>
-        <td>Tom</td>
-        <td>Vallenthini</td>
+        <td>Wefringhaus</td>
+        <td>Philipp</td>
     </tr>
     <tr>
         <td>7</td>
-        <td>Julian</td>
-        <td>Gosmann</td>
+        <td>Kaden</td>
+        <td>Julien</td>
     </tr>
     <tr>
         <td>8</td>
-        <td>Tim Robert</td>
-        <td>Scheuerer</td>
+        <td>Gosmann</td>
+        <td>Julian</td>
     </tr>
     <tr>
         <td>9</td>
-        <td>Julien</td>
-        <td>Kaden</td>
+        <td>Welschbillig</td>
+        <td>Kassim Fernand Jean</td>
     </tr>
     <tr>
         <td>10</td>
-        <td>Kristina Julia</td>
         <td>Petrusic</td>
+        <td>Kristina Julia</td>
     </tr>
     <tr>
         <td>11</td>
-        <td>Kassim Fernand Jean</td>
-        <td>Welschbillig</td>
+        <td>Schuck</td>
+        <td>Julius</td>
     </tr>
 </table>
 
@@ -124,33 +124,93 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
     </tr>
     <tr>
         <td>1</td>
-        <td>Alexander</td>
-        <td>Banos</td>
+        <td>Kiebler</td>
+        <td>Jonna</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>Nicola Johanna</td>
-        <td>Weibels</td>
+        <td>Tewinkel</td>
+        <td>Anna Katharina</td>
     </tr>
     <tr>
         <td>3</td>
-        <td>Yigithan</td>
-        <td>Yildirim</td>
+        <td>Kovalenko</td>
+        <td>Matthias</td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Lennart Joshua</td>
-        <td>Stein</td>
+        <td>Banos</td>
+        <td>Alexander</td>
     </tr>
     <tr>
         <td>5</td>
-        <td>Sophia Luisa</td>
-        <td>Lötzsch</td>
+        <td>Matei</td>
+        <td>Andreea-Ioana</td>
     </tr>
     <tr>
         <td>6</td>
-        <td>Andreea-Ioana</td>
-        <td>Matei</td>
+        <td>Bretscher</td>
+        <td>Gloria Maria</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>Weißbach</td>
+        <td>Isabel Susan</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>Hüpsel</td>
+        <td>Johanna Elisabeth</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>Langen</td>
+        <td>Lennard Philipp</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>Stein</td>
+        <td>Lennart Joshua</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>Steinert</td>
+        <td>Luca Joel</td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>Gomez Eisgeth</td>
+        <td>Luis Tonatiuh</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>Pistor</td>
+        <td>Sonja Alina Maja</td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>Weibels</td>
+        <td>Nicola Johanna</td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>Klein</td>
+        <td>Nils Henrik Willi</td>
+    </tr>
+    <tr>
+        <td>16</td>
+        <td>Reuten</td>
+        <td>Simon Patrick</td>
+    </tr>
+    <tr>
+        <td>17</td>
+        <td>Lötzsch</td>
+        <td>Sophia Luisa</td>
+    </tr>
+    <tr>
+        <td>18</td>
+        <td>Yildirim</td>
+        <td>Yigithan</td>
     </tr>
 </table>
 
@@ -162,48 +222,48 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
     </tr>
     <tr>
         <td>1</td>
-        <td>Marvin</td>
-        <td>Plate</td>
+        <td>Schulz</td>
+        <td>Timo</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>Alexander</td>
-        <td>Straube</td>
+        <td>Kirch</td>
+        <td>Felix Horst Alfred</td>
     </tr>
     <tr>
         <td>3</td>
-        <td>Felix Horst Alfred</td>
-        <td>Kirch</td>
+        <td>Straube</td>
+        <td>Alexander</td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Theresa</td>
-        <td>Rosenbaum</td>
+        <td>Wolf</td>
+        <td>Natascha</td>
     </tr>
     <tr>
         <td>5</td>
-        <td>Timo</td>
-        <td>Schulz</td>
+        <td>Rosenbaum</td>
+        <td>Theresa</td>
     </tr>
     <tr>
         <td>6</td>
-        <td>Natascha</td>
-        <td>Wolf</td>
+        <td>Tornow</td>
+        <td>Mirco</td>
     </tr>
     <tr>
         <td>7</td>
-        <td>Mirco</td>
-        <td>Tornow</td>
+        <td>Plate</td>
+        <td>Marvin</td>
     </tr>
     <tr>
         <td>8</td>
-        <td>Maximilian Leander</td>
         <td>Groth</td>
+        <td>Maximilian Leander</td>
     </tr>
     <tr>
         <td>9</td>
-        <td>Lars</td>
         <td>Nerking</td>
+        <td>Lars</td>
     </tr>
 </table>
 
@@ -215,53 +275,73 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
     </tr>
     <tr>
         <td>1</td>
-        <td>Ilayda Aleyna Adife</td>
-        <td>Kars</td>
+        <td>Schneeberg</td>
+        <td>Alexander</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>Simon</td>
-        <td>Fromme</td>
+        <td>Kalita</td>
+        <td>Karolina</td>
     </tr>
     <tr>
         <td>3</td>
-        <td>Hendrik</td>
-        <td>Knieps</td>
+        <td>Schneider</td>
+        <td>Ben</td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Alexander</td>
-        <td>Schneeberg</td>
+        <td>Knieps</td>
+        <td>Hendrik</td>
     </tr>
     <tr>
         <td>5</td>
-        <td>Hagen</td>
-        <td>Höpfner</td>
+        <td>Webner</td>
+        <td>Philipp</td>
     </tr>
     <tr>
         <td>6</td>
-        <td>Ben</td>
-        <td>Schneider</td>
+        <td>Sünnen</td>
+        <td>Niklas</td>
     </tr>
     <tr>
         <td>7</td>
-        <td>Linus</td>
-        <td>Kopecki</td>
+        <td>Kars</td>
+        <td>Ilayda Aleyna Adife</td>
     </tr>
     <tr>
         <td>8</td>
-        <td>Karolina</td>
-        <td>Kalita</td>
+        <td>Merk</td>
+        <td>Melanie</td>
     </tr>
     <tr>
         <td>9</td>
-        <td>Valentin</td>
         <td>Brugger</td>
+        <td>Valentin</td>
     </tr>
     <tr>
         <td>10</td>
-        <td>Melanie</td>
-        <td>Merk</td>
+        <td>Fromme</td>
+        <td>Simon</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>Olbrich</td>
+        <td>Jannis Fabian</td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>Höpfner</td>
+        <td>Hagen</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>Kopecki</td>
+        <td>Linus</td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>Niemeyer</td>
+        <td>Felix</td>
     </tr>
 </table>
 
@@ -273,171 +353,186 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
     </tr>
     <tr>
         <td>1</td>
-        <td>Cordelia Nora</td>
-        <td>Fehrenbacher</td>
+        <td>Hunds</td>
+        <td>Daniel Nico</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>Dennis</td>
-        <td>Neumann</td>
+        <td>Groebe</td>
+        <td>Jonas Alexander</td>
     </tr>
     <tr>
         <td>3</td>
-        <td>Daniel Nico</td>
-        <td>Hunds</td>
+        <td>Storm</td>
+        <td>Jesaja</td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Jan Helmut</td>
-        <td>Zager</td>
+        <td>Ganz</td>
+        <td>Jacqueline</td>
     </tr>
     <tr>
         <td>5</td>
-        <td>Marc</td>
-        <td>Cremer</td>
+        <td>Malgadey</td>
+        <td>Nino Maurice</td>
     </tr>
     <tr>
         <td>6</td>
-        <td>Jonas Alexander</td>
-        <td>Groebe</td>
+        <td>Keller</td>
+        <td>David</td>
     </tr>
     <tr>
         <td>7</td>
-        <td>Lisa</td>
-        <td>Reissner</td>
+        <td>Zager</td>
+        <td>Jan Helmut</td>
     </tr>
     <tr>
         <td>8</td>
-        <td>Maximilian Emanuel Vasco</td>
-        <td>Geisbüsch</td>
+        <td>Neumann</td>
+        <td>Dennis</td>
     </tr>
     <tr>
         <td>9</td>
-        <td>Shirina</td>
         <td>Löber</td>
+        <td>Shirina</td>
     </tr>
     <tr>
         <td>10</td>
-        <td>Jacqueline</td>
-        <td>Ganz</td>
+        <td>Cremer</td>
+        <td>Marc</td>
     </tr>
     <tr>
         <td>11</td>
-        <td>Tizian Felix</td>
-        <td>Laut</td>
+        <td>Fehrenbacher</td>
+        <td>Cordelia Nora</td>
     </tr>
     <tr>
         <td>12</td>
-        <td>Jonas</td>
-        <td>Notzon</td>
+        <td>Reissner</td>
+        <td>Lisa</td>
     </tr>
     <tr>
         <td>13</td>
-        <td>David</td>
-        <td>Keller</td>
+        <td>Körner-Schmitz</td>
+        <td>Daniel</td>
     </tr>
     <tr>
         <td>14</td>
-        <td>Daniel</td>
-        <td>Körner-Schmitz</td>
+        <td>Notzon</td>
+        <td>Jonas</td>
     </tr>
     <tr>
         <td>15</td>
-        <td>Nino Maurice</td>
-        <td>Malgadey</td>
+        <td>Laut</td>
+        <td>Tizian Felix</td>
     </tr>
     <tr>
         <td>16</td>
-        <td>Marcel</td>
-        <td>Faßbender</td>
+        <td>Grebe</td>
+        <td>Lisa</td>
     </tr>
     <tr>
         <td>17</td>
-        <td>Lisa</td>
-        <td>Grebe</td>
+        <td>Faßbender</td>
+        <td>Marcel</td>
     </tr>
     <tr>
         <td>18</td>
-        <td>Jesaja</td>
-        <td>Storm</td>
+        <td>Geisbüsch</td>
+        <td>Maximilian Emanuel Vasco</td>
     </tr>
 </table>
 
 <table>
     <tr>
-        <td>#</td>
-        <td>FSR-ASW</td>
-        <td></td>
-    </tr>
-    <tr>
         <td>1</td>
-        <td>Peter</td>
-        <td>Klusmann</td>
+        <td>Reichardt</td>
+        <td>Marco</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>Mohammad</td>
-        <td>Ghizawi</td>
+        <td>Tanrikulu</td>
+        <td>Yaren</td>
     </tr>
     <tr>
         <td>3</td>
-        <td>Merve</td>
         <td>Seckin</td>
+        <td>Merve</td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Julia Rebecca</td>
-        <td>Löhrmann</td>
+        <td>Giebel</td>
+        <td>Timo Michael</td>
     </tr>
     <tr>
         <td>5</td>
-        <td>Robin Oliver</td>
-        <td>Weyand</td>
+        <td>Ghizawi</td>
+        <td>Mohammad</td>
     </tr>
     <tr>
         <td>6</td>
-        <td>Kevin</td>
-        <td>Stachon</td>
+        <td>Löhrmann</td>
+        <td>Julia Rebecca</td>
     </tr>
     <tr>
         <td>7</td>
-        <td>Yaren</td>
-        <td>Tanrikulu</td>
+        <td>Klein</td>
+        <td>Marcel Martin</td>
     </tr>
     <tr>
         <td>8</td>
-        <td>Marco</td>
-        <td>Reichardt</td>
+        <td>Firl</td>
+        <td>Luca Johanna</td>
     </tr>
     <tr>
         <td>9</td>
-        <td>Clara Maria Thu Hang</td>
-        <td>Ellguth</td>
+        <td>Faßbender</td>
+        <td>Bianca Katlin</td>
     </tr>
     <tr>
         <td>10</td>
-        <td>Marcel Martin</td>
-        <td>Klein</td>
+        <td>Mohr</td>
+        <td>Anna</td>
     </tr>
     <tr>
         <td>11</td>
-        <td>Janina</td>
-        <td>Sthamer</td>
+        <td>Bärenheuser</td>
+        <td>Tim Niklas</td>
     </tr>
     <tr>
         <td>12</td>
-        <td>Leah</td>
-        <td>Krieger</td>
+        <td>Heinemann</td>
+        <td>Klara Isabel Manjana</td>
     </tr>
     <tr>
         <td>13</td>
-        <td>Luca Johanna</td>
-        <td>Firl</td>
+        <td>Stachon</td>
+        <td>Kevin</td>
     </tr>
     <tr>
         <td>14</td>
-        <td>Anna</td>
-        <td>Mohr</td>
+        <td>Klusmann</td>
+        <td>Peter</td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>Weyand</td>
+        <td>Robin Oliver</td>
+    </tr>
+    <tr>
+        <td>16</td>
+        <td>Sthamer</td>
+        <td>Janina</td>
+    </tr>
+    <tr>
+        <td>17</td>
+        <td>Ellguth</td>
+        <td>Clara Maria Thu Hang</td>
+    </tr>
+    <tr>
+        <td>18</td>
+        <td>Krieger</td>
+        <td>Leah</td>
     </tr>
 </table>
 
@@ -449,96 +544,106 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
     </tr>
     <tr>
         <td>1</td>
-        <td>Lena</td>
-        <td>Büdenbender</td>
+        <td>von Ditfurth</td>
+        <td>Johanna Veronika Inge</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>Maximilian</td>
-        <td>Faust</td>
+        <td>Dahlem</td>
+        <td>Jacob</td>
     </tr>
     <tr>
         <td>3</td>
-        <td>Nils</td>
         <td>Jülicher</td>
+        <td>Nils</td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Felix</td>
-        <td>Geberzahn</td>
+        <td>Faust</td>
+        <td>Maximilian</td>
     </tr>
     <tr>
         <td>5</td>
-        <td>Marie</td>
-        <td>Schoenen</td>
+        <td>Büdenbender</td>
+        <td>Lena</td>
     </tr>
     <tr>
         <td>6</td>
-        <td>Marius Otto</td>
-        <td>Kleinbach</td>
+        <td>Burgmer</td>
+        <td>Jonas</td>
     </tr>
     <tr>
         <td>7</td>
-        <td>Simon</td>
-        <td>Kuhn</td>
+        <td>Kleinbach</td>
+        <td>Marius Otto</td>
     </tr>
     <tr>
         <td>8</td>
-        <td>Jacob</td>
-        <td>Dahlem</td>
+        <td>Gerlach</td>
+        <td>Simon</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>Geberzahn</td>
+        <td>Felix</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>Schoenen</td>
+        <td>Marie</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>Christiani</td>
+        <td>Matthis Andreas</td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>Kuhn</td>
+        <td>Simon</td>
     </tr>
 </table>
 
 <table>
     <tr>
-        <td>#</td>
-        <td>KIFD</td>
-        <td></td>
-    </tr>
-    <tr>
         <td>1</td>
-        <td>Arda</td>
-        <td>Kertmen</td>
+        <td>Meisel</td>
+        <td>Jutta</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>Katsumi</td>
         <td>Ota</td>
+        <td>Katsumi</td>
     </tr>
     <tr>
         <td>3</td>
-        <td>Yanni</td>
-        <td>Pazmino Morales</td>
+        <td>Yildiran</td>
+        <td>Can Turgut</td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Jutta</td>
-        <td>Meisel</td>
+        <td>Pazmino Morales</td>
+        <td>Yanni</td>
     </tr>
     <tr>
         <td>5</td>
-        <td>(VORLÄUFIG!) Chi-Shen</td>
-        <td>Lin</td>
+        <td>Almaz</td>
+        <td>Ece</td>
     </tr>
     <tr>
         <td>6</td>
-        <td>Emilie Starch</td>
-        <td>Bendsen</td>
+        <td>Kertmen</td>
+        <td>Arda</td>
     </tr>
     <tr>
         <td>7</td>
-        <td>Ece</td>
-        <td>Almaz</td>
+        <td>Bendsen</td>
+        <td>Emilie Starch</td>
     </tr>
     <tr>
         <td>8</td>
-        <td>Julien Louis</td>
         <td>Wolff</td>
-    </tr>
-    <tr>
-        <td>9</td>
-        <td>(VORLÄUFIG!) Can Turgut</td>
-        <td>Yildiran</td>
+        <td>Julien Louis</td>
     </tr>
 </table>
 
@@ -550,91 +655,91 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
     </tr>
     <tr>
         <td>1</td>
-        <td>Annika</td>
-        <td>Zingelmann</td>
+        <td>Liebner</td>
+        <td>Amelie Allegra</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>Ann Jacqueline</td>
-        <td>Schubert</td>
+        <td>Windisch</td>
+        <td>Nissa Michelle</td>
     </tr>
     <tr>
         <td>3</td>
-        <td>Amelie Allegra</td>
-        <td>Liebner</td>
+        <td>Wedel</td>
+        <td>Cora</td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Vivienne</td>
-        <td>Kulik</td>
+        <td>Zingelmann</td>
+        <td>Annika</td>
     </tr>
     <tr>
         <td>5</td>
-        <td>Nissa Michelle</td>
-        <td>Windisch</td>
+        <td>Kulik</td>
+        <td>Vivienne</td>
     </tr>
     <tr>
         <td>6</td>
-        <td>Saray Chiara</td>
         <td>Martin Martin</td>
+        <td>Saray Chiara</td>
     </tr>
     <tr>
         <td>7</td>
-        <td>Cora</td>
-        <td>Wedel</td>
+        <td>Schubert</td>
+        <td>Ann Jacqueline</td>
     </tr>
     <tr>
         <td>8</td>
-        <td>Fabian</td>
         <td>Schmider</td>
+        <td>Fabian</td>
     </tr>
 </table>
 
 <table>
- 	<tr>
+    <tr>
         <td>#</td>
-        <td>(VORLÄUFIG!) FSR Architektur</td>
+        <td>FSR Architektur</td>
         <td></td>
     </tr>
     <tr>
         <td>1</td>
-        <td>Felix Vincent</td>
-        <td>Jahn</td>
+        <td>Schaffrath</td>
+        <td>Larissa</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>Jakob Franz</td>
         <td>Urban</td>
+        <td>Jakob Franz</td>
     </tr>
     <tr>
         <td>3</td>
-        <td>Antonia</td>
-        <td>Fischer</td>
+        <td>Kück</td>
+        <td>Leo</td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Silvan Samuel</td>
-        <td>Stegne</td>
+        <td>Gehrke</td>
+        <td>Moritz</td>
     </tr>
     <tr>
         <td>5</td>
-        <td>Leo</td>
-        <td>Kück</td>
+        <td>Jahn</td>
+        <td>Felix Vincent</td>
     </tr>
     <tr>
         <td>6</td>
-        <td>Larissa</td>
-        <td>Schaffrath</td>
+        <td>Fischer</td>
+        <td>Antonia Caroline</td>
     </tr>
     <tr>
         <td>7</td>
-        <td>Moritz</td>
-        <td>Gehrke</td>
+        <td>Stegne</td>
+        <td>Silvan Samuel</td>
     </tr>
     <tr>
         <td>8</td>
-        <td>Lisa</td>
         <td>Ikonomu</td>
+        <td>Lisa</td>
     </tr>
 </table>
 
@@ -646,166 +751,161 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
     </tr>
     <tr>
         <td>1</td>
-        <td>Yuriy Oleksandrovic</td>
-        <td>Cherkasov</td>
+        <td>Bernards</td>
+        <td>Elena Johanna</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>Szymon Józef</td>
-        <td>Banasiak</td>
+        <td>Noll</td>
+        <td>Lars Eric</td>
     </tr>
     <tr>
         <td>3</td>
-        <td>Arn Jonas</td>
-        <td>Dieterich</td>
+        <td>Cherkasov</td>
+        <td>Yuriy Oleksandrovic</td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Daniel Denis</td>
-        <td>Matzerath</td>
+        <td>Linden</td>
+        <td>Simon Marcel</td>
     </tr>
     <tr>
         <td>5</td>
-        <td>Leonard Alexander</td>
-        <td>Kaluza</td>
+        <td>Dieterich</td>
+        <td>Arn Jonas</td>
     </tr>
     <tr>
         <td>6</td>
-        <td>Simon Marcel</td>
-        <td>Linden</td>
+        <td>Wolf</td>
+        <td>Roman Philipp</td>
     </tr>
     <tr>
         <td>7</td>
-        <td>Lars Eric</td>
-        <td>Noll</td>
+        <td>Kaluza</td>
+        <td>Leonard Alexander</td>
     </tr>
     <tr>
         <td>8</td>
-        <td>Rene</td>
         <td>Arens</td>
+        <td>Rene</td>
     </tr>
     <tr>
         <td>9</td>
-        <td>Clemens Benedict</td>
         <td>Machenbach</td>
+        <td>Clemens Benedict</td>
     </tr>
     <tr>
         <td>10</td>
-        <td>Daniel</td>
-        <td>Pour Bakhsh</td>
+        <td>Matzerath</td>
+        <td>Daniel Denis</td>
     </tr>
     <tr>
         <td>11</td>
-        <td>Elena Johanna</td>
-        <td>Bernards</td>
+        <td>Rambow</td>
+        <td>Florian Jons</td>
     </tr>
     <tr>
         <td>12</td>
-        <td>Roman Philipp</td>
-        <td>Wolf</td>
+        <td>Banasiak</td>
+        <td>Szymon Józef</td>
     </tr>
     <tr>
         <td>13</td>
+        <td>Pour Bakhsh</td>
+        <td>Daniel</td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>Laux</td>
+        <td>Sina</td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>Sorani</td>
+        <td>Omar</td>
+    </tr>
+    <tr>
+        <td>16</td>
+        <td>Falk</td>
+        <td>Björn</td>
+    </tr>
+    <tr>
+        <td>17</td>
         <td>Zimmermann</td>
         <td>Jakob</td>
     </tr>
     <tr>
-        <td>14</td>
+        <td>18</td>
         <td>Zimmermann</td>
         <td>Sarek</td>
-    </tr>
-    <tr>
-        <td>15</td>
-        <td>Omar</td>
-        <td>Sorani</td>
-    </tr>
-    <tr>
-        <td>16</td>
-        <td>Sina</td>
-        <td>Laux</td>
-    </tr>
-    <tr>
-        <td>17</td>
-        <td>Björn</td>
-        <td>Falk</td>
-    </tr>
-    <tr>
-        <td>18</td>
-        <td>Florian Jons</td>
-        <td>Rambow</td>
     </tr>
 </table>
 
 <table>
     <tr>
-        <td>#</td>
-        <td>Wahlvorschlagsliste Pul and Log</td>
-        <td></td>
-    </tr>
-    <tr>
         <td>1</td>
-        <td>Maike</td>
-        <td>Naumann</td>
+        <td>Heimann</td>
+        <td>Dominic Florian</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>Maximilian Franz</td>
-        <td>Eibel</td>
+        <td>Bangemann</td>
+        <td>Felix</td>
     </tr>
     <tr>
         <td>3</td>
-        <td>Jonah Tim</td>
-        <td>Reindl</td>
+        <td>Naumann</td>
+        <td>Maike</td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Simon Alexander</td>
-        <td>Hanf</td>
+        <td>Köppen</td>
+        <td>Paul</td>
     </tr>
     <tr>
         <td>5</td>
-        <td>Felix</td>
         <td>Röttgen</td>
+        <td>Felix</td>
     </tr>
     <tr>
         <td>6</td>
-        <td>Dominic</td>
-        <td>Heimann</td>
+        <td>Schwägerl</td>
+        <td>Lea Alina</td>
     </tr>
     <tr>
         <td>7</td>
-        <td>Marc Luca</td>
-        <td>Jäger</td>
+        <td>Eibel</td>
+        <td>Maximilian Franz</td>
     </tr>
     <tr>
         <td>8</td>
-        <td>Noah</td>
-        <td>Kunisch</td>
+        <td>Hanf</td>
+        <td>Simon Alexander</td>
     </tr>
     <tr>
         <td>9</td>
-        <td>Tamara</td>
-        <td>Kronshagen</td>
+        <td>Reindl</td>
+        <td>Jonah Tim</td>
     </tr>
     <tr>
         <td>10</td>
-        <td>Paul</td>
-        <td>Köppen</td>
+        <td>Kronshagen</td>
+        <td>Tamara</td>
     </tr>
     <tr>
         <td>11</td>
-        <td>Lea Alina</td>
-        <td>Schwägerl</td>
+        <td>Kunisch</td>
+        <td>Noah</td>
     </tr>
     <tr>
         <td>12</td>
-        <td>Felix</td>
-        <td>Bangemann</td>
+        <td>Jäger</td>
+        <td>Marc Luca</td>
     </tr>
     <tr>
         <td>13</td>
-        <td>Ricarda Melina Doreen</td>
         <td>Schulte</td>
+        <td>Ricarda Melina Doreen</td>
     </tr>
 </table>
 
@@ -817,73 +917,83 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
     </tr>
     <tr>
         <td>1</td>
-        <td>Nathalie</td>
-        <td>Feldkötter</td>
+        <td>Zahr</td>
+        <td>Eva Johanna</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>Eva Johanna</td>
-        <td>Zahr</td>
+        <td>Michels</td>
+        <td>Tobias</td>
     </tr>
     <tr>
         <td>3</td>
-        <td>Niels</td>
-        <td>Schulten</td>
+        <td>Fahnenbruck</td>
+        <td>Jakob</td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Joshua</td>
-        <td>Weidler</td>
+        <td>Khouri</td>
+        <td>Michael</td>
     </tr>
     <tr>
         <td>5</td>
-        <td>Vivian Emilia</td>
-        <td>Hasch</td>
+        <td>Kowalska</td>
+        <td>Amelie-Sofie</td>
     </tr>
     <tr>
         <td>6</td>
-        <td>Leonard Martin</td>
-        <td>Kaufhold</td>
+        <td>Feldkötter</td>
+        <td>Nathalie</td>
     </tr>
     <tr>
         <td>7</td>
-        <td>Tobias</td>
-        <td>Michels</td>
+        <td>Kaufhold</td>
+        <td>Leonard Martin</td>
     </tr>
     <tr>
         <td>8</td>
-        <td>Lukas</td>
-        <td>Enders</td>
+        <td>Weidler</td>
+        <td>Joshua</td>
     </tr>
     <tr>
         <td>9</td>
-        <td>Emily</td>
-        <td>Arne</td>
+        <td>Popov</td>
+        <td>Maxim</td>
     </tr>
     <tr>
         <td>10</td>
-        <td>Clemens Philipp</td>
-        <td>Istas</td>
+        <td>Enders</td>
+        <td>Lukas</td>
     </tr>
     <tr>
         <td>11</td>
-        <td>Jakob</td>
-        <td>Fahnenbruck</td>
+        <td>Teneyken</td>
+        <td>Lukas</td>
     </tr>
     <tr>
         <td>12</td>
-        <td>Maxim</td>
-        <td>Popov</td>
+        <td>Arne</td>
+        <td>Emily</td>
     </tr>
     <tr>
         <td>13</td>
-        <td>Barbara</td>
-        <td>Lorang</td>
+        <td>Hasch</td>
+        <td>Vivian Emilia</td>
     </tr>
     <tr>
         <td>14</td>
-        <td>Lukas</td>
-        <td>Teneyken</td>
+        <td>Lorang</td>
+        <td>Barbara</td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>Schulten</td>
+        <td>Niels</td>
+    </tr>
+    <tr>
+        <td>16</td>
+        <td>Istas</td>
+        <td>Clemens Philipp</td>
     </tr>
 </table>
 
@@ -895,43 +1005,43 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
     </tr>
     <tr>
         <td>1</td>
-        <td>Yannik</td>
-        <td>Thul</td>
+        <td>Ivashchenko</td>
+        <td>Yevhen</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>Nicklas</td>
-        <td>Zapp</td>
+        <td>Wronka</td>
+        <td>Hans Raphael</td>
     </tr>
     <tr>
         <td>3</td>
-        <td>Artur</td>
-        <td>Komarowski</td>
+        <td>Meurer</td>
+        <td>Niklas</td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Aarsh Alkeshkumar</td>
-        <td>Rathod</td>
+        <td>Komarowski</td>
+        <td>Artur</td>
     </tr>
     <tr>
         <td>5</td>
-        <td>Marios</td>
         <td>Ntinakis</td>
+        <td>Marios</td>
     </tr>
     <tr>
         <td>6</td>
-        <td>Hans Raphael</td>
-        <td>Wronka</td>
+        <td>Thul</td>
+        <td>Yannik</td>
     </tr>
     <tr>
         <td>7</td>
-        <td>Yevhen</td>
-        <td>Ivashchenko</td>
+        <td>Zapp</td>
+        <td>Nicklas</td>
     </tr>
     <tr>
         <td>8</td>
-        <td>Niklas</td>
-        <td>Meurer</td>
+        <td>Rathod</td>
+        <td>Aarsh Alkeshkumar</td>
     </tr>
 </table>
 
@@ -943,53 +1053,73 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
     </tr>
     <tr>
         <td>1</td>
-        <td>Matthias</td>
-        <td>Zajcev</td>
+        <td>Bethke</td>
+        <td>Marléne Friederike</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>Levi</td>
-        <td>Angenendt</td>
+        <td>Bilko</td>
+        <td>Martin</td>
     </tr>
     <tr>
         <td>3</td>
-        <td>Viktor Johannes</td>
-        <td>Warnke</td>
+        <td>Sollik</td>
+        <td>Maximilian Christian</td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Dalia</td>
-        <td>Al-Shomali</td>
+        <td>Banach</td>
+        <td>Wiktoria Paulina</td>
     </tr>
     <tr>
         <td>5</td>
-        <td>Martin</td>
-        <td>Bilko</td>
+        <td>Marx</td>
+        <td>Lukas Alexander</td>
     </tr>
     <tr>
         <td>6</td>
-        <td>Janina Sophie</td>
-        <td>Janßen</td>
+        <td>Kodalle</td>
+        <td>Estella</td>
     </tr>
     <tr>
         <td>7</td>
-        <td>Danja Isabell</td>
-        <td>Halberstadt</td>
+        <td>Warnke</td>
+        <td>Viktor Johannes</td>
     </tr>
     <tr>
         <td>8</td>
-        <td>Lukas Alexander</td>
-        <td>Marx</td>
+        <td>Zajcev</td>
+        <td>Matthias</td>
     </tr>
     <tr>
         <td>9</td>
-        <td>Malin Zoe</td>
-        <td>Richter</td>
+        <td>Halberstadt</td>
+        <td>Danja Isabell</td>
     </tr>
     <tr>
         <td>10</td>
-        <td>Wiktoria Paulina</td>
-        <td>Banach</td>
+        <td>Janßen</td>
+        <td>Janina Sophie</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>Küppers</td>
+        <td>Lina</td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>Richter</td>
+        <td>Malin Zoe</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>Al-Shomali</td>
+        <td>Dalia</td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>Angenendt</td>
+        <td>Levi</td>
     </tr>
 </table>
 
@@ -1001,58 +1131,58 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
     </tr>
     <tr>
         <td>1</td>
-        <td>Nicole</td>
-        <td>Weiser</td>
+        <td>Brauer</td>
+        <td>Janina</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>Sebastian</td>
-        <td>Mölk</td>
+        <td>Tewinkel</td>
+        <td>Lena</td>
     </tr>
     <tr>
         <td>3</td>
-        <td>Lena</td>
-        <td>Tewinkel</td>
+        <td>Weiser</td>
+        <td>Nicole</td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Oskar Friedrich Lee Lücke</td>
-        <td>Lüers</td>
+        <td>Fouad</td>
+        <td>Salat</td>
     </tr>
     <tr>
         <td>5</td>
-        <td>Jean-Pierre Manfred</td>
-        <td>Baltes</td>
+        <td>Maier</td>
+        <td>Christoph</td>
     </tr>
     <tr>
         <td>6</td>
-        <td>Lama</td>
         <td>Haidar</td>
+        <td>Lama</td>
     </tr>
     <tr>
         <td>7</td>
-        <td>Florian Felix</td>
-        <td>Hein</td>
+        <td>Baltes</td>
+        <td>Jean-Pierre Manfred</td>
     </tr>
     <tr>
         <td>8</td>
-        <td>Noah Henrik</td>
-        <td>Deselaers</td>
+        <td>Hein</td>
+        <td>Florian Felix</td>
     </tr>
     <tr>
         <td>9</td>
-        <td>Christoph</td>
-        <td>Maier</td>
+        <td>Deselaers</td>
+        <td>Noah Henrik</td>
     </tr>
     <tr>
         <td>10</td>
-        <td>Salat</td>
-        <td>Fouad</td>
+        <td>Lüers</td>
+        <td>Oskar Friedrich Lee Lücke</td>
     </tr>
     <tr>
         <td>11</td>
-        <td>Janina</td>
-        <td>Brauer</td>
+        <td>Mölk</td>
+        <td>Sebastian</td>
     </tr>
 </table>
 
@@ -1064,43 +1194,53 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
     </tr>
     <tr>
         <td>1</td>
-        <td>Jan</td>
-        <td>Arenz</td>
+        <td>Schäfer</td>
+        <td>Franz Anton</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>Wiebke</td>
         <td>Hardering</td>
+        <td>Wiebke</td>
     </tr>
     <tr>
         <td>3</td>
-        <td>Jan Erik</td>
-        <td>Fromm</td>
+        <td>Oberpriller</td>
+        <td>Leonie Thérèse</td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Tim</td>
-        <td>Steinhaus</td>
+        <td>Linscheidt</td>
+        <td>Ilka Lorea</td>
     </tr>
     <tr>
         <td>5</td>
-        <td>Leonie Thérèse</td>
-        <td>Oberpriller</td>
+        <td>Becker</td>
+        <td>Paul Felix</td>
     </tr>
     <tr>
         <td>6</td>
-        <td>Till Hagen</td>
         <td>Suchardt</td>
+        <td>Till Hagen</td>
     </tr>
     <tr>
         <td>7</td>
-        <td>Paul Felix</td>
-        <td>Becker</td>
+        <td>Steinhaus</td>
+        <td>Tim</td>
     </tr>
     <tr>
         <td>8</td>
-        <td>Magnus</td>
         <td>Knüppel</td>
+        <td>Magnus</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>Fromm</td>
+        <td>Jan Erik</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>Arenz</td>
+        <td>Jan</td>
     </tr>
 </table>
 
@@ -1112,33 +1252,33 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
     </tr>
     <tr>
         <td>1</td>
-        <td>Helene Therese</td>
-        <td>Schönbach</td>
+        <td>Schöpp</td>
+        <td>Sarah Marie</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>Lea Antonia Ruth</td>
-        <td>Michalk</td>
+        <td>Marks</td>
+        <td>Domenika Sarah</td>
     </tr>
     <tr>
         <td>3</td>
-        <td>Paula</td>
-        <td>Steinborn</td>
+        <td>Haas</td>
+        <td>Johanna Monika</td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Johanna Monika</td>
-        <td>Haas</td>
+        <td>Schönbach</td>
+        <td>Helene Therese</td>
     </tr>
     <tr>
         <td>5</td>
-        <td>Sarah Marie</td>
-        <td>Schöpp</td>
+        <td>Michalk</td>
+        <td>Lea Antonia Ruth</td>
     </tr>
     <tr>
         <td>6</td>
-        <td>Domenika Sarah</td>
-        <td>Marks</td>
+        <td>Steinborn</td>
+        <td>Paula</td>
     </tr>
 </table>
 
@@ -1150,212 +1290,126 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
     </tr>
     <tr>
         <td>1</td>
-        <td>Finn</td>
-        <td>Pickart</td>
+        <td>Haseloh</td>
+        <td>Joelina Marleen</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>Joelina Marleen</td>
-        <td>Haseloh</td>
+        <td>Busiah</td>
+        <td>Sarah</td>
     </tr>
     <tr>
         <td>3</td>
-        <td>Kai Maximilian</td>
         <td>Götte</td>
+        <td>Kai Maximilian</td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Sarah</td>
-        <td>Busiah</td>
+        <td>Pickart</td>
+        <td>Finn</td>
     </tr>
     <tr>
         <td>5</td>
-        <td>Sila Aleyna</td>
         <td>Kayis</td>
+        <td>Sila Aleyna</td>
     </tr>
 </table>
 
 <table>
     <tr>
         <td>#</td>
-        <td>Vorschläge Fachschaft Versicherungswesen</td>
+        <td>Fachschaft Versicherungswesen (Risk and Insurance)</td>
         <td></td>
     </tr>
     <tr>
         <td>1</td>
-        <td>Helene Elisabeth Jutta</td>
-        <td>Dirrigl</td>
+        <td>Cramer</td>
+        <td>Steffen</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>Frederik</td>
-        <td>Jennert</td>
+        <td>Vonderbank</td>
+        <td>Marcel</td>
     </tr>
     <tr>
         <td>3</td>
-        <td>Marcel</td>
-        <td>Vonderbank</td>
+        <td>Jennert</td>
+        <td>Frederik</td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Paul Henri</td>
-        <td>Winter</td>
+        <td>Fuchs</td>
+        <td>Eva</td>
     </tr>
     <tr>
         <td>5</td>
-        <td>Georgiana Alexandra</td>
-        <td>Luchian</td>
+        <td>Winter</td>
+        <td>Paul Henri</td>
     </tr>
     <tr>
         <td>6</td>
-        <td>Leonie</td>
-        <td>Nuphaus</td>
+        <td>Dirrigl</td>
+        <td>Helene Elisabeth Jutta</td>
     </tr>
     <tr>
         <td>7</td>
-        <td>Eva</td>
-        <td>Fuchs</td>
+        <td>Anzaldi</td>
+        <td>Danilo</td>
     </tr>
     <tr>
         <td>8</td>
-        <td>Bahadir Efe</td>
         <td>Gözel</td>
+        <td>Bahadir Efe</td>
     </tr>
     <tr>
         <td>9</td>
-        <td>Steffen</td>
-        <td>Cramer</td>
+        <td>Nuphaus</td>
+        <td>Leonie</td>
     </tr>
     <tr>
         <td>10</td>
-        <td>Danilo</td>
-        <td>Anzaldi</td>
+        <td>Luchian</td>
+        <td>Georgiana Alexandra</td>
     </tr>
 </table>
 
-## StuPa Listen
+## StuPa Listen (Reihenfolge auf Stimmzettel wird gelost in der 4. WAS Sitzung am 06.11.)
 
 <table>
     <tr>
         <td>#</td>
-        <td>Juso-Hochschulgruppe TH Köln</td>
+        <td>BIPoC Liste</td>
         <td></td>
     </tr>
     <tr>
         <td>1</td>
-        <td>Marco</td>
-        <td>Reichardt</td>
-    </tr>
-    <tr>
-        <td>2</td>
-        <td>Paolo</td>
-        <td>Cairoli Torres</td>
-    </tr>
-    <tr>
-        <td>3</td>
-        <td>Hans Raphael</td>
-        <td>Wronka</td>
-    </tr>
-    <tr>
-        <td>4</td>
-        <td>Yigithan</td>
-        <td>Yildirim</td>
-    </tr>
-    <tr>
-        <td>5</td>
-        <td>Stephanie Gabriele</td>
-        <td>Krause</td>
-    </tr>
-</table>
-
-<table>
-    <tr>
-        <td>#</td>
-        <td>BIPoc</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>1</td>
-        <td>Emily Elisabeth</td>
-        <td>Vu</td>
-    </tr>
-    <tr>
-        <td>2</td>
-        <td>Aysegül Ceren</td>
-        <td>Akhanli</td>
-    </tr>
-    <tr>
-        <td>3</td>
-        <td>Yaren</td>
         <td>Tanrikulu</td>
-    </tr>
-    <tr>
-        <td>4</td>
-        <td>Thien Vuong</td>
-        <td>Nguyên</td>
-    </tr>
-    <tr>
-        <td>5</td>
-        <td>Merve</td>
-        <td>Seckin</td>
-    </tr>
-    <tr>
-        <td>6</td>
-        <td>Mira</td>
-        <td>Sen</td>
-    </tr>
-</table>
-
-<table>
-    <tr>
-        <td>#</td>
-        <td>Linke Liste</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>1</td>
-        <td>Timo Michael</td>
-        <td>Giebel</td>
+        <td>Yaren</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>Daniel Nico</td>
-        <td>Hunds</td>
+        <td>Vu</td>
+        <td>Emily Elisabeth</td>
     </tr>
     <tr>
         <td>3</td>
-        <td>Peter</td>
-        <td>Klusmann</td>
+        <td>Nguyên</td>
+        <td>Thien Vuong</td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Lara</td>
-        <td>Maushake</td>
+        <td>Akhanli</td>
+        <td>Aysegül Ceren</td>
     </tr>
     <tr>
         <td>5</td>
-        <td>Felicia Anais</td>
-        <td>Gruber</td>
+        <td>Sen</td>
+        <td>Mira</td>
     </tr>
     <tr>
         <td>6</td>
-        <td>Bengin</td>
-        <td>Sternas</td>
-    </tr>
-    <tr>
-        <td>7</td>
-        <td>Benedikt</td>
-        <td>Cosler</td>
-    </tr>
-    <tr>
-        <td>8</td>
-        <td>Robin Oliver</td>
-        <td>Weyand</td>
-    </tr>
-    <tr>
-        <td>9</td>
-        <td>Klara Isabel Manjana</td>
-        <td>Heinemann</td>
+        <td>Seckin</td>
+        <td>Merve</td>
     </tr>
 </table>
 
@@ -1367,38 +1421,38 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
     </tr>
     <tr>
         <td>1</td>
-        <td>Marcel</td>
-        <td>Mattes</td>
+        <td>Gomez Eisgeth</td>
+        <td>Luis Tonatiuh</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>Lotta Marie</td>
-        <td>Meurer</td>
+        <td>Kiebler</td>
+        <td>Jonna</td>
     </tr>
     <tr>
         <td>3</td>
-        <td>Andreea-Ioana</td>
         <td>Matei</td>
+        <td>Andreea-Ioana</td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Isabel Susan</td>
-        <td>Weißbach</td>
+        <td>Meurer</td>
+        <td>Lotta Marie</td>
     </tr>
     <tr>
         <td>5</td>
-        <td>Jonna</td>
-        <td>Kiebler</td>
+        <td>Mattes</td>
+        <td>Marcel</td>
     </tr>
     <tr>
         <td>6</td>
-        <td>Sonja Alina Maja</td>
-        <td>Pistor</td>
+        <td>Weißbach</td>
+        <td>Isabel Susan</td>
     </tr>
     <tr>
         <td>7</td>
-        <td>Luis Tonatiuh</td>
-        <td>Gomez Eisgeth</td>
+        <td>Pistor</td>
+        <td>Sonja Alina Maja</td>
     </tr>
 </table>
 
@@ -1410,97 +1464,183 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
     </tr>
     <tr>
         <td>1</td>
-        <td>Pascal Tobias</td>
-        <td>Michaelis</td>
+        <td>Mohajer</td>
+        <td>Saeed</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>Ena Sofie</td>
-        <td>Hohendorf</td>
+        <td>Machulla-Szczurkowska</td>
+        <td>Aleksandra Maria</td>
     </tr>
     <tr>
         <td>3</td>
-        <td>Finn Moritz</td>
-        <td>Juhl</td>
+        <td>Gosmann</td>
+        <td>Julian</td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Sarek</td>
-        <td>Zimmermann</td>
+        <td>Fischer</td>
+        <td>Antonia Caroline</td>
     </tr>
     <tr>
         <td>5</td>
-        <td>Lukas</td>
-        <td>Kleinberg</td>
+        <td>Rohrbach</td>
+        <td>Felix Isodor Jose</td>
     </tr>
     <tr>
         <td>6</td>
-        <td>Julian</td>
-        <td>Gosmann</td>
+        <td>Vocke</td>
+        <td>Ann-Kathrin</td>
     </tr>
     <tr>
         <td>7</td>
-        <td>Tom</td>
-        <td>Jansen</td>
+        <td>Michaelis</td>
+        <td>Pascal Tobias</td>
     </tr>
     <tr>
         <td>8</td>
-        <td>Felix Isodor Jose</td>
-        <td>Rohrbach</td>
+        <td>Kleinberg</td>
+        <td>Lukas</td>
     </tr>
     <tr>
         <td>9</td>
-        <td>Yann</td>
-        <td>Walsdorf</td>
+        <td>Hohendorf</td>
+        <td>Ena Sofie</td>
     </tr>
     <tr>
         <td>10</td>
-        <td>Ann-Kathrin</td>
-        <td>Vocke</td>
+        <td>Jansen</td>
+        <td>Tom</td>
     </tr>
     <tr>
         <td>11</td>
-        <td>(VORLÄUFIG!) Simon Marcel</td>
-        <td>Linden</td>
+        <td>Beckers</td>
+        <td>Daniel</td>
     </tr>
     <tr>
         <td>12</td>
-        <td>Daniel</td>
-        <td>Beckers</td>
+        <td>Welschbillig</td>
+        <td>Kassim Fernand Jean</td>
     </tr>
     <tr>
         <td>13</td>
-        <td>Antonia Caroline</td>
-        <td>Fischer</td>
+        <td>Linden</td>
+        <td>Simon Marcel</td>
     </tr>
     <tr>
         <td>14</td>
-        <td>Kassim Fernand Jean</td>
-        <td>Welschbillig</td>
+        <td>Walsdorf</td>
+        <td>Yann</td>
     </tr>
     <tr>
         <td>15</td>
-        <td>Saeed</td>
-        <td>Mohajer</td>
+        <td>Juhl</td>
+        <td>Finn Moritz</td>
     </tr>
     <tr>
         <td>16</td>
-        <td>Lars Eric</td>
-        <td>Noll</td>
+        <td>Lindenmeier</td>
+        <td>Felix</td>
     </tr>
     <tr>
         <td>17</td>
-        <td>Felix</td>
-        <td>Lindenmeier</td>
+        <td>Cherkasov</td>
+        <td>Yuriy Oleksandrovic</td>
     </tr>
     <tr>
         <td>18</td>
-        <td>Aleksandra Maria</td>
-        <td>Machulla-Szczurkowska</td>
+        <td>Zimmermann</td>
+        <td>Sarek</td>
     </tr>
     <tr>
         <td>19</td>
-        <td>Yuriy Oleksandrovic</td>
-        <td>Cherkasov</td>
+        <td>Noll</td>
+        <td>Lars Eric</td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td>#</td>
+        <td>Linke Liste</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Giebel</td>
+        <td>Timo Michael</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Hunds</td>
+        <td>Daniel Nico</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Heinemann</td>
+        <td>Klara Isabel Manjana</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>Cosler</td>
+        <td>Benedikt</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>Weyand</td>
+        <td>Robin Oliver</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>Maushake</td>
+        <td>Lara</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>Klusmann</td>
+        <td>Peter</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>Sternas</td>
+        <td>Bengin</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>Gruber</td>
+        <td>Felicia Anais</td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td>#</td>
+        <td>Juso-Hochschulgruppe TH Köln</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Yildirim</td>
+        <td>Yigithan</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Krause</td>
+        <td>Stephanie Gabriele</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Reichardt</td>
+        <td>Marco</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>Wronka</td>
+        <td>Hans Raphael</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>Cairoli Torres</td>
+        <td>Paolo</td>
     </tr>
 </table>
