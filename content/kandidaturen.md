@@ -4,7 +4,7 @@ title: Kandidaturen für die Wahlen 2023
 
 <!--Alle zugelassenen Kandidat:innen und deren Selbstdarstellungen sind in der :PdfLink{path="/Wahlzeitung_2023.pdf" text="Wahlzeitung 2023"} zu finden.-->
 
-Alle Listen werden auch in der Wahlzeitung mit der Selbstdarstellung der jeweiligen Kandidat:innen veröffentlicht.
+Alle Listen mit der Selbstdarstellung der jeweiligen Kandidat:innen sind auch in der Wahlzeitung veröffentlicht: [Wahlzeitung](https://drive.google.com/file/d/1f5P7ChwiiuRZJF2L-rpN3zvMPZPXb88H/view?usp=share_link)
 
 Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
 
@@ -444,6 +444,11 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
 </table>
 
 <table>
+	<tr>
+        <td>#</td>
+        <td>FSR-ASW</td>
+        <td></td>
+    </tr>
     <tr>
         <td>1</td>
         <td>Reichardt</td>
@@ -605,6 +610,11 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
 </table>
 
 <table>
+	<tr>
+        <td>#</td>
+        <td>KIFD</td>
+        <td></td>
+    </tr>
     <tr>
         <td>1</td>
         <td>Meisel</td>
@@ -842,6 +852,11 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
 </table>
 
 <table>
+	<tr>
+        <td>#</td>
+        <td>Wahlvorschlagsliste Pul and Log</td>
+        <td></td>
+    </tr>
     <tr>
         <td>1</td>
         <td>Heimann</td>
