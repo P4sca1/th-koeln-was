@@ -1567,28 +1567,28 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
     </tr>
     <tr>
         <td>1</td>
-        <td>Giebel</td>
-        <td>Timo Michael</td>
-    </tr>
-    <tr>
-        <td>2</td>
         <td>Hunds</td>
         <td>Daniel Nico</td>
     </tr>
     <tr>
-        <td>3</td>
+        <td>2</td>
         <td>Heinemann</td>
         <td>Klara Isabel Manjana</td>
     </tr>
     <tr>
+        <td>3</td>
+        <td>Giebel</td>
+        <td>Timo Michael</td>
+    </tr>
+    <tr>
         <td>4</td>
-        <td>Cosler</td>
-        <td>Benedikt</td>
+        <td>Gruber</td>
+        <td>Felicia Anais</td>
     </tr>
     <tr>
         <td>5</td>
-        <td>Weyand</td>
-        <td>Robin Oliver</td>
+        <td>Sternas</td>
+        <td>Bengin</td>
     </tr>
     <tr>
         <td>6</td>
@@ -1597,18 +1597,18 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
     </tr>
     <tr>
         <td>7</td>
-        <td>Klusmann</td>
-        <td>Peter</td>
+        <td>Cosler</td>
+        <td>Benedikt</td>
     </tr>
     <tr>
         <td>8</td>
-        <td>Sternas</td>
-        <td>Bengin</td>
+        <td>Weyand</td>
+        <td>Robin Oliver</td>
     </tr>
     <tr>
         <td>9</td>
-        <td>Gruber</td>
-        <td>Felicia Anais</td>
+        <td>Klusmann</td>
+        <td>Peter</td>
     </tr>
 </table>
 
