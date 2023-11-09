@@ -1388,7 +1388,7 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
     </tr>
 </table>
 
-## StuPa Listen (Reihenfolge auf Stimmzettel wird gelost in der 4. WAS Sitzung am 06.11.)
+## StuPa Listen (Reihenfolge auf Stimmzettel, von zuerst bis zuletzt: Die Unabhängigen, Linke Liste, Juso Hochschulgruppe, BIPoC Liste, Fachschaft Wirtschaft)
 
 <table>
     <tr>
