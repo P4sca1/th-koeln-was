@@ -13,8 +13,8 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
 <table>
     <tr>
         <td>#</td>
-        <td>Fachschaft Cologne Game Lab</td>
-        <td></td>
+		<td>FSR CGL</td>
+        <td>Liste: Fachschaft Cologne Game Lab</td>
     </tr>
     <tr>
         <td>1</td>
@@ -56,8 +56,8 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
 <table>
     <tr>
         <td>#</td>
-        <td>Fachschaft RIW/AEV</td>
-        <td></td>
+        <td>FSR RIW/AEV</td>
+        <td>Liste: Fachschaft RIW/AEV</td>
     </tr>
     <tr>
         <td>1</td>
@@ -119,8 +119,8 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
 <table>
     <tr>
         <td>#</td>
-        <td>Fachschaft Wirtschaft</td>
-        <td></td>
+        <td>FSR WI</td>
+        <td>Liste: Fachschaft Wirtschaft</td>
     </tr>
     <tr>
         <td>1</td>
@@ -217,8 +217,8 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
 <table>
     <tr>
         <td>#</td>
-        <td>IMP-Liste-Cool</td>
-        <td></td>
+        <td>FSR IMP</td>
+        <td>Liste: IMP-Liste-Cool</td>
     </tr>
     <tr>
         <td>1</td>
@@ -270,8 +270,8 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
 <table>
     <tr>
         <td>#</td>
-        <td>Fachschaftsrat Maschinenbau</td>
-        <td></td>
+        <td>FSR KT/AM</td>
+        <td>Liste: Fachschaftsrat Maschinenbau</td>
     </tr>
     <tr>
         <td>1</td>
@@ -348,8 +348,8 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
 <table>
     <tr>
         <td>#</td>
-        <td>Gummersbacher Liste</td>
-        <td></td>
+        <td>FSR GM</td>
+        <td>Liste: Gummersbacher Liste</td>
     </tr>
     <tr>
         <td>1</td>
@@ -446,8 +446,8 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
 <table>
 	<tr>
         <td>#</td>
-        <td>FSR-ASW</td>
-        <td></td>
+        <td>FSR ASW</td>
+        <td>Liste: FSR-ASW</td>
     </tr>
     <tr>
         <td>1</td>
@@ -544,8 +544,8 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
 <table>
     <tr>
         <td>#</td>
-        <td>Fachschaftsrat Erneuerbare Energien</td>
-        <td></td>
+        <td>FSR EE</td>
+        <td>Liste: Fachschaftsrat Erneuerbare Energien</td>
     </tr>
     <tr>
         <td>1</td>
@@ -612,8 +612,8 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
 <table>
 	<tr>
         <td>#</td>
-        <td>KIFD</td>
-        <td></td>
+        <td>FSR KIFD</td>
+        <td>Liste: KIFD</td>
     </tr>
     <tr>
         <td>1</td>
@@ -660,8 +660,8 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
 <table>
     <tr>
         <td>#</td>
-        <td>Fachschaft Sprachen</td>
-        <td></td>
+        <td>FSR SPR</td>
+        <td>Liste: Fachschaft Sprachen</td>
     </tr>
     <tr>
         <td>1</td>
@@ -708,8 +708,8 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
 <table>
     <tr>
         <td>#</td>
-        <td>FSR Architektur</td>
-        <td></td>
+        <td>FSR AR</td>
+        <td>Liste: FSR Architektur</td>
     </tr>
     <tr>
         <td>1</td>
@@ -756,8 +756,8 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
 <table>
     <tr>
         <td>#</td>
-        <td>Fachschaft Wahllost</td>
-        <td></td>
+        <td>FSR ET</td>
+        <td>Liste: Fachschaft Wahllost</td>
     </tr>
     <tr>
         <td>1</td>
@@ -854,8 +854,8 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
 <table>
 	<tr>
         <td>#</td>
-        <td>Wahlvorschlagsliste Pul and Log</td>
-        <td></td>
+        <td>FSR PT</td>
+        <td>Liste: Wahlvorschlagsliste Pul and Log</td>
     </tr>
     <tr>
         <td>1</td>
@@ -927,8 +927,8 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
 <table>
     <tr>
         <td>#</td>
-        <td>Bauingenieurwesen</td>
-        <td></td>
+        <td>FSR BI</td>
+        <td>Liste: Bauingenieurwesen</td>
     </tr>
     <tr>
         <td>1</td>
@@ -1015,8 +1015,8 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
 <table>
     <tr>
         <td>#</td>
-        <td>Fachschaft Fahrzeugentwicklung / Fahrzeugtechnik</td>
-        <td></td>
+        <td>FSR FT</td>
+        <td>Liste: Fachschaft Fahrzeugentwicklung / Fahrzeugtechnik</td>
     </tr>
     <tr>
         <td>1</td>
@@ -1063,8 +1063,8 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
 <table>
     <tr>
         <td>#</td>
-        <td>Fachschaftsrat IWS</td>
-        <td></td>
+        <td>FSR IWS</td>
+        <td>Liste: Fachschaftsrat IWS</td>
     </tr>
     <tr>
         <td>1</td>
@@ -1141,8 +1141,8 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
 <table>
     <tr>
         <td>#</td>
-        <td>Fachschaft AnNa</td>
-        <td></td>
+        <td>FSR AnNa</td>
+        <td>Liste: Fachschaft AnNa</td>
     </tr>
     <tr>
         <td>1</td>
@@ -1204,8 +1204,8 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
 <table>
     <tr>
         <td>#</td>
-        <td>Fachschaftsrat TGA</td>
-        <td></td>
+        <td>FSR TGA</td>
+        <td>Liste: Fachschaftsrat TGA</td>
     </tr>
     <tr>
         <td>1</td>
@@ -1262,8 +1262,8 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
 <table>
     <tr>
         <td>#</td>
-        <td>Fachschaft CICS</td>
-        <td></td>
+        <td>FSR CICS</td>
+        <td>Liste: Fachschaft CICS</td>
     </tr>
     <tr>
         <td>1</td>
@@ -1333,8 +1333,8 @@ Hier (in Textform) die detaillierten Listen der FSR und StuPa Kandidierenden:
 <table>
     <tr>
         <td>#</td>
-        <td>Fachschaft Versicherungswesen (Risk and Insurance)</td>
-        <td></td>
+        <td>FSR VW</td>
+        <td>Liste: Fachschaft Versicherungswesen (Risk and Insurance)</td>
     </tr>
     <tr>
         <td>1</td>
