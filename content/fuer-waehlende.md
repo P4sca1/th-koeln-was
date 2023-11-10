@@ -21,10 +21,10 @@ Die Wahl wird standortunabhängig abgehalten. Studierende mit Wahlrecht können 
    Betzdorfer Straße 2, Foyer
 
 3. **Campus Gummersbach**  
-   Steinmüllerallee 1, Foyer
+   Steinmüllerallee 1, Foyer im Mensagebäude
 
 4. **Campus Leverkusen**
-   Campusplatz 1, Foyer
+   Campusplatz 1, Bibliothek
 
 **Öffnungszeiten**  
 Montag bis Donnerstag: 10 bis 15 Uhr  
