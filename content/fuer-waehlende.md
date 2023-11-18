@@ -14,7 +14,7 @@ Die Wahl wird standortunabhängig abgehalten. Studierende mit Wahlrecht können 
 **Wahllokalstandorte**
 
 1. **Campus Südstadt**  
-   Ubierring 48, Raum 32
+   Ubierring 48, Foyer
    Claudiusstraße 1, Foyer
 
 2. **Campus Deutz**  
