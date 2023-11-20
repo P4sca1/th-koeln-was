@@ -13,6 +13,9 @@ Auch dieses Jahr finden wieder die studentischen Gremienwahlen statt. Gewählt w
   Es ist das höchste beschlussfassende Wahlgremium der Studierendenschaft und für die Selbstverwaltung der Studierenden zuständig.
   Weitere Infos auf www.stupa.th-koeln.de
 
+- **Der Senat**  
+  Die studentischen Vertreter:innen des Senats können hier gewählt werden: [https://www.th-koeln.de/onlinewahlen/](https://www.th-koeln.de/onlinewahlen/)
+
 Du kannst dich selbst zur Wahl stellen und deine Wünsche und Forderungen in das Hochschulleben einbringen.
 
 <!--Du kannst einem der Wahllokale in der Woche vom **10.10.2022 – 14.10.2022** einen Besuch abstatten und wählst deine:n Kandidierende:n für FSR und StuPa.
