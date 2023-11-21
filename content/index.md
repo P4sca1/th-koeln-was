@@ -28,7 +28,7 @@ Meeting ID: 641 2414 0367
 
 Die Auszählung beginnt öffentlich am Freitag, 24.11.23 um 13 Uhr im AStA-Foyer in Deutz.
 
-Kontaktdaten, ausführliche Infos zu Kandidatur, Wahllokalen und Durchführung findest du auf dieser Webseite und in der :PdfLink{path="/Wahlbekanntmachung.pdf" text="PDF Datei zur Wahlbekanntmachung"} .
+Kontaktdaten, ausführliche Infos zu Kandidatur, Wahllokalen und Durchführung findest du auf dieser Webseite und in der [Wahlbekanntmachung](https://drive.google.com/file/d/151i-xTCpYQXMjVPXusvqbTsWth9uu7Qi/view?usp=share_link).
 Außerdem können wichtige Dokumente in unserem [Google Drive](https://drive.google.com/drive/folders/1tRwNQmdivWcFby61kiWyUoY8oarHVpbN?usp=sharing) eingesehen werden.
 
 Zur gleichen Zeit finden die Gremienwahlen der studentischen Vertreter:innen zum Senat und den Fakultätsraten statt.

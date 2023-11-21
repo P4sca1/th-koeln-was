@@ -11,6 +11,7 @@ Der studentische Wahlausschuss des Studierendenparlaments besteht aus fünf Stud
 - Sarah Mahlmann (Wahlhelfer:innen)
 - Dandara Ribeiro Wildenberg (Öffentlichkeitsarbeit)
 - Sarah Hahner (Finanzen)
+- Naomi Milbers (Briefwahl)
 
 **Kontakt**  
 Studierende, die mit dem Wahlausschuss per E-Mail kommunizieren, nutzen dabei bitte ausschließlich ihre Smail.
