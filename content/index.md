@@ -20,7 +20,7 @@ Du kannst dich selbst zur Wahl stellen und deine Wünsche und Forderungen in das
 
 <!--Du kannst einem der Wahllokale in der Woche vom **10.10.2022 – 14.10.2022** einen Besuch abstatten und wählst deine:n Kandidierende:n für FSR und StuPa.-->
 
-Während der Wahlwoche tagt der Wahlausschuss jeden Tag öffentlich um 15:30 Uhr.
+Während der Wahlwoche tagt der Wahlausschuss jeden Tag öffentlich um 15:30 Uhr. (Am 24.11. tagt der WAS erst nach der Auszählung.)
 
 Zoom-Meeting beitreten
 https://th-koeln.zoom-x.de/j/64124140367?pwd=d0pNYnVTZ2ZHaWgydDB5MkpyM0tuZz09
