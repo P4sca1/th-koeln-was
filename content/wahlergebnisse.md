@@ -2,46 +2,11 @@
 title: Wahlergebnisse
 ---
 
-## Vorläufige Ergebnisse der studentischen Wahlen 2023
+## Wahlergebnis 2023
 
-Das vorläufige Ergebnis ist nicht endgültig. Es wurde am 24.11. 23:30 Uhr erstellt.
+:PdfLink{path="/Wahlergebnisse/2023/Ergebnisse_Wahlen_2023.pdf" text="Wahlergebnis von 2023"}
 
----
-
-## FSR Wahlen
-
-:PdfLink{path="/Wahlergebnisse/2023/Ergebnisse_FSR_Wahl_vorlauf.pdf" text="Vorläufiges FSR Wahlergebnis von 2023"}
-
-## Studierendenparlament
-
-:PdfLink{path="/Wahlergebnisse/2023/Ergebnisse_StuPa_Wahl_vorlauf.pdf" text="Vorläufiges StuPa Wahlergebnis von 2023"}
-
-## Urabstimmung Semesterticket
-
-<table>
-    <tr>
-        <td>Ja</td>
-        <td>456</td>
-    </tr>
-    <tr>
-        <td>Nein</td>
-        <td>397</td>
-    </tr>
-    <tr>
-        <td>Enthaltung</td>
-        <td>85</td>
-    </tr>
-    <tr>
-        <td>Gültig</td>
-        <td>938</td>
-    </tr>
-    <tr>
-        <td>Ungültig</td>
-        <td>3</td>
-    </tr>
-</table>
-
-### Wahlergebnisse der vergangenen Jahre
+## Wahlergebnisse der vergangenen Jahre
 
 Hinweis zum Wahljahr 2019: Im Nachgang der durchgeführten Studierendenparlamentswahl wurde diese Wahl für ungültig erklärt, da sie vom Präsidenten der Hochschule beanstandet wurde.
 
