@@ -2,16 +2,16 @@
 title: Wahlausschuss
 ---
 
-Der studentische Wahlausschuss des Studierendenparlaments besteht aus fünf Studierenden, welche gemeinsam die studentischen Wahlen organisieren.
+Der studentische Wahlausschuss des Studierendenparlaments besteht aus fünf Studierenden, sowie einem Vertreter, welche gemeinsam die studentischen Wahlen organisieren.
 
 **Mitglieder im stud. Wahlausschuss**
 
-- Daniel Owsiany (Wahlleiter)
-- Tino Passlack (Stellv. Wahlleiter)
-- Sarah Mahlmann (Wahlhelfer:innen)
-- Dandara Ribeiro Wildenberg (Öffentlichkeitsarbeit)
-- Sarah Hahner (Finanzen)
-- Naomi Milbers (Briefwahl)
+- Tizian Laut (Wahlleiter)
+- Oliver Hoffmann (Stellv. Wahlleiter)
+- Ayse Gülhan (Wahlhelfer:innen)
+- Yusuf Akti (Wahlhelfer:innen)
+- Dilan Asutay (Öffentlichkeitsarbeit)
+- Ibrahim Tuzhaev (Stellvertretung)
 
 **Kontakt**  
 Studierende, die mit dem Wahlausschuss per E-Mail kommunizieren, nutzen dabei bitte ausschließlich ihre Smail.
