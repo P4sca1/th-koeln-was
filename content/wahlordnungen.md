@@ -10,4 +10,4 @@ title: Wahlordnungen
 
 <br>
 
-:PdfLink{path="/Wahlordnungen/Durchführungsbestimmung.pdf" text="Durchführungsbestimmung im Wahllokal"}
+:PdfLink{path="/Wahlordnungen/Durchfuehrungsbestimmung24.pdf" text="Durchführungsbestimmung im Wahllokal"}
