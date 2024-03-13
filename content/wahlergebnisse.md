@@ -2,14 +2,15 @@
 title: Wahlergebnisse
 ---
 
-## Wahlergebnis 2023
+## Wahlergebnis 2024
 
-:PdfLink{path="/Wahlergebnisse/2023/Ergebnisse_Wahlen_2023.pdf" text="Wahlergebnis von 2023"}
+Das Wahlergebnis 2024 wird an dieser Stelle veröffentlicht.
 
 ## Wahlergebnisse der vergangenen Jahre
 
-Hinweis zum Wahljahr 2019: Im Nachgang der durchgeführten Studierendenparlamentswahl wurde diese Wahl für ungültig erklärt, da sie vom Präsidenten der Hochschule beanstandet wurde.
+Hinweis zum Wahljahr 2019 sowie 2023: Im Nachgang der durchgeführten Studierendenparlamentswahl wurde diese Wahl für ungültig erklärt, da sie vom Präsidenten der Hochschule beanstandet wurde.
 
+- :PdfLink{path="/Wahlergebnisse/2023/Ergebnisse_Wahlen_2023.pdf" text="Wahlergebnis von 2023"}
 - :PdfLink{path="/Wahlergebnis für die Wahlen zum Studierendenparlament und zu den Fachschaftsräten 2022-2.pdf" text="Wahlergebnis von 2022"}
 - :PdfLink{path="/Wahlergebnisse/Wahlergebnis_2021.pdf" text="Wahlergebnis von 2021"}
 - :PdfLink{path="/Wahlergebnisse/Wahlergebnis_2019.pdf" text="Wahlergebnis von 2019"}
