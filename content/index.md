@@ -6,15 +6,9 @@ title: Studentische Wahlen 2024
 
 Auch dieses Jahr finden wieder die studentischen Gremiedfdnwahlen statt. Gewählt wird:
 
-- **Dein Fachschaftsrat (kurz FSR)**  
-  Er vertritt deine Interessen gegenüber dem Institut, der Fakultät und der Hochschule.
-
 - **Dein Studierendenparlament (kurz StuPa)**  
   Es ist das höchste beschlussfassende Wahlgremium der Studierendenschaft und für die Selbstverwaltung der Studierenden zuständig.
   Weitere Infos auf www.stupa.th-koeln.de
-
-- **Der Senat**  
-  Die studentischen Vertreter:innen des Senats können hier gewählt werden: [https://www.th-koeln.de/onlinewahlen/](https://www.th-koeln.de/onlinewahlen/)
 
 Du kannst dich selbst zur Wahl stellen und deine Wünsche und Forderungen in das Hochschulleben einbringen.
 
