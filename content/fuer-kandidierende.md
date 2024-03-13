@@ -9,46 +9,46 @@ Studierende, die mindestens vier Wochen vor der Wahl als Ersthörer:innen zum Fa
 
 ### Wie kandidiere ich?
 
-Zur Kandidatur ist ein korrekt ausgefülltes Wahlvorschlagsformular sowie dazugehöriges Unterstützer:innenformular bis **20.10. um 12 Uhr** (Ausschlussfrist) beim Wahlausschuss einzureichen.
+Zur Kandidatur ist ein korrekt ausgefülltes Wahlvorschlagsformular sowie dazugehöriges Unterstützer:innenformular bis **12.04. um 12 Uhr** (Ausschlussfrist) beim Wahlausschuss einzureichen.
 
 Alle erforderlichen Formulare können via Briefpost oder Smail eingereicht werden. Für die Fristwahrung ist der Eingang der ausgefüllten Formulare beim Wahlausschuss maßgebend. Später eingehende Formulare finden keine Berücksichtigung mehr.
 
-Alle erforderlichen Dokumente sind in unserem [Google Drive](https://drive.google.com/drive/folders/1LgGy2LFVof3F8iT8QWLZLzNKpiUyg755?ths=true) zu finden.
+Alle erforderlichen Dokumente sind in unserem [Sciebo-Ordner](https://th-koeln.sciebo.de/s/tl45UsTiS54FtaQ) zu finden.
 
 <!--
 :PdfLink{path="/Formulare/Stupa_Wahlvorschlagsformular.pdf" text="Wahlvorschlagsformular"} für die Kandidatur für das Studierendenparlament
 
-:PdfLink{path="/Formulare/FSR_Wahlvorschlagsformular.pdf" text="Wahlvorschlagsformular"} für die Kandidatur für den Fachschaftsrat
-
-:PdfLink{path="/Formulare/UnterstuetzerInnenformular.pdf" text="Unterstützer:innenformular"} (für beide Wahlen verwendbar)
+:PdfLink{path="/Formulare/UnterstuetzerInnenformular.pdf" text="Unterstützer:innenformular"} 
 -->
 
 Erforderliche Unterschriften auf allen Formularen sind auch bei digitaler Einreichung via Smail **stets handschriftlich** (analog unterschreiben & einscannen) auf den jeweiligen Formularen zu unterschreiben. Elektronische Unterschriften werden nicht anerkannt.
 
 ### Zulassung der Listen, Auslosung der Reihenfolge
 
-Der Wahlausschuss entscheidet über die Zulassung der eingereichten Wahllisten. Entsprechend der gezogenen Losnummer erscheint die einzelne Wahlliste auf dem Wahlzettel, sowie in der Wahlzeitung, in entsprechender aufsteigender Reihenfolge. Die Auslosung findet öffentlich am **27.10. um 16:00** via Zoom statt.
+Der Wahlausschuss entscheidet über die Zulassung der eingereichten Wahllisten. Entsprechend der gezogenen Losnummer erscheint die einzelne Wahlliste auf dem Wahlzettel, sowie in der Wahlzeitung, in entsprechender aufsteigender Reihenfolge. Die Auslosung findet öffentlich am **20.04. um 16:00** via Zoom statt.
 
-Zoom-Link: [Beitreten](https://th-koeln.zoom-x.de/j/69507508122?pwd=VWgxQnVha3VheGo3RzlPWDU1eEpwUT09)
+Zoom-Link: [Beitreten](https://th-koeln.zoom-x.de/j/9485612725)
+Meeting-ID: 948 561 2725
+Kenncode: 788504
+
 
 ### Unterstützerinnen und Unterstützer
 
 Eine Wahlvorschlagsliste benötigt die folgende Mindestanzahl an Unterschriften von Unterstützer:innen:
 
-- 24 für die Studierendenparlamentswahl
-- 5 für die Fachschaftsratswahl
+- 20 für die Studierendenparlamentswahl
 
 <!--
 Für die Unterstützungsunterschriften ist das :PdfLink{path="/Formulare/UnterstuetzerInnenformular.pdf" text="Unterstützer:innenformular"} zu benutzen.
 -->
 
-Für die Unterstützungsunterschriften ist das [Unterstützer:innenformular](https://docs.google.com/document/d/1TkYuqe-iL0dkDtvicqoXPUbBwnM_h8Zy/edit) zu benutzen.
+Für die Unterstützungsunterschriften ist das [Unterstützer:innenformular](https://th-koeln.sciebo.de/s/Hj46TURV5dqSL9m) zu benutzen.
 
-Für die Studierendenparlamentswahlen können alle Studierenden der Hochschule eine beliebige Wahlvorschlagsliste mit ihrer Unterschrift unterstützen. Bei den Fachschaftsratswahlen dürfen nur jene Studierende eine Wahlvorschlagsliste unterstützen, die auch der eigenen Fachschaft angehören.
+Für die Studierendenparlamentswahlen können alle Studierenden der Hochschule eine beliebige Wahlvorschlagsliste mit ihrer Unterschrift unterstützen. 
 
 ### Selbstdarstellung in der Wahlzeitung und auf der Webseite
 
-Der Wahlausschuss wird eine Wahlzeitung herausgeben, für die alle zugelassenen Wahllisten eine Selbstdarstellung einreichen können. Selbstdarstellungen sind bis zum **25.10. 23:59 Uhr**, via Smail beim Wahlausschuss einzureichen.
+Der Wahlausschuss wird eine Wahlzeitung herausgeben, für die alle zugelassenen Wahllisten eine Selbstdarstellung einreichen können. Selbstdarstellungen sind bis zum **16.04. 23:59 Uhr**, via Smail beim Wahlausschuss einzureichen.
 
 **Für die Wahlzeitung gilt**  
 Dieses Jahr wird die Wahlzeitung als PDF-Dokument in Onlineform erscheinen. Selbstdarstellungen sollten als PDF-Datei im DIN-A4 Format per Mail bei uns eingereicht werden. Für die Selbstdarstellungen der Fachschaftsräte steht eine DIN-A4 Seite zur Verfügung. Die Listen für die Stupa Wahl haben zwei DIN-A4 Seiten Platz. Wir freuen uns auf eure Einsendungen.
