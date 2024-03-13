@@ -5,7 +5,7 @@ toc: true
 
 ### Wofür werden Wahlhelfer:innen gesucht?
 
-Es werden Studierende gesucht, die den Wahlausschuss bei der Durchführung der studentischen Wahlen vom **20.11. bis zum 24.11.** unterstützen.
+Es werden Studierende gesucht, die den Wahlausschuss bei der Durchführung der studentischen Wahlen vom **13.05. bis zum 17.05.** unterstützen.
 
 In deinen Aufgabenbereich würde zum Beispiel fallen,
 
@@ -16,13 +16,13 @@ In deinen Aufgabenbereich würde zum Beispiel fallen,
 
 1. **Wahlhelfer:innen im Wahllokal**
 
-Es gibt insgesamt fünf Wahllokale: eins am Campus in der Südstadt (Ubierring 48), eins am Campus Deutz, eins am Campus Leverkusen und eins am Campus Gummersbach.
+Es gibt insgesamt fünf Wahllokale: zwei am Campus in der Südstadt (Ubierring 48,Claudiusstr.), eins am Campus Deutz, eins am Campus Leverkusen und eins am Campus Gummersbach.
 
 Jedes dieser Wahllokale öffnet Montag bis Donnerstag von **10-15 Uhr** und Freitag von **10-12 Uhr**. Das heißt, während dieser Zeit müssen die Wahllokale jeweils mit mindestens zwei Studierenden besetzt sein.
 
 2. **Wahlhelfer:innen bei der Auszählung**
 
-Am letzten Wahltag, also Freitag, **den 24.11.**, beginnt nach Schließung der Wahllokale die Auszählung aller Stimmzettel. Hierfür werden ebenfalls Studierende gesucht, die mithelfen, alle Stimmzettel ordnungsgemäß auszuzählen. Genauere Infos zu Uhrzeit und Ort der Auszählung werden noch bekanntgegeben.
+Am letzten Wahltag, also Freitag, **den 17.05.**, beginnt nach Schließung der Wahllokale die Auszählung aller Stimmzettel. Hierfür werden ebenfalls Studierende gesucht, die mithelfen, alle Stimmzettel ordnungsgemäß auszuzählen. Genauere Infos zu Uhrzeit und Ort der Auszählung werden noch bekanntgegeben.
 
 ### Aufgaben und Arbeitsbedingungen im Detail
 
@@ -43,7 +43,7 @@ Du erhältst als Aufwandsentschädigung einen Stundenlohn in Höhe von **14 Euro
 
 ### Haben wir dein Interesse geweckt?
 
-Dann nimm gerne am **19.10. um 20 Uhr** an unserem Infotreffen für Wahlhelfer:innen teil!
+Dann nimm gerne am **10.04. um 19 Uhr** an unserem Infotreffen für Wahlhelfer:innen teil!
 Der genaue Ort und ob die Veranstaltung remote oder hybrid stattfindet, geben wir noch bekannt.
 Nutze außerdem gerne das Anmeldeformular über den Anmeldelink weiter unten. Ihr könnt uns im Falle dessen, dass ihr zu dem Treffen nicht kommen könnt, per Smail eine Nachricht mit euren Kontaktdaten (Name, Studiengang, Rufnummer), Tätigkeit (Wahllokal und/oder Stimmauszählung) und dem bevorzugten Standort an unsere unten angegebene E-Mail-Adresse schicken.
 
