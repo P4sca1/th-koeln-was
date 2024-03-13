@@ -1,10 +1,10 @@
 ---
-title: Studentische Wahlen 2023
+title: Studentische Wahlen 2024
 ---
 
 <!-- **!! DU BIST GEFRAGT !!** -->
 
-Auch dieses Jahr finden wieder die studentischen Gremienwahlen statt. Gewählt wird:
+Auch dieses Jahr finden wieder die studentischen Gremiedfdnwahlen statt. Gewählt wird:
 
 - **Dein Fachschaftsrat (kurz FSR)**  
   Er vertritt deine Interessen gegenüber dem Institut, der Fakultät und der Hochschule.
