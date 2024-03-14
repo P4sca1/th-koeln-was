@@ -2,10 +2,11 @@
 title: Zeitliche Eckdaten für die studentischen Wahlen 2024
 ---
 
-- **11. März:** Veröffentlichung der Wahlbekanntmachung
+- **14. März:** Veröffentlichung der Wahlbekanntmachung
 - **10. April:** Informationstreffen für Wahlhelfer:innen (20 Uhr)
 - **12. April:** Ausschlussfrist der Wahlvorschläge (12 Uhr)
 - **16. April:** Frist für das Einreichen der Selbstdarstellungen für die Wahlzeitung (23:59 Uhr)
+- **20. April:** Auslosung der Listennummern (Öffentlich)
 - **21. April:** Bekanntgabe der Listennummern
 - **22. April:** Ab diesem Tag ist die Einsicht in das Wähler:innenverzeichnis möglich
 - **23. April:** Veröffentlichung der Wahlzeitung
