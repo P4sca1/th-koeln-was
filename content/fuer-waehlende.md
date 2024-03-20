@@ -5,7 +5,7 @@ toc: true
 
 ### Wer darf wählen ?
 
-Alle Studierende der TH Köln, sofern sie vier Wochen vor der Wahl als Ersthörer:innen zum Fachstudium eingeschrieben sind. Wahlberechtigte Studierende sind außerdem im Wähler:innenverzeichnis eingetragen. Die Verzeichnisse können in allen Fakultätssekretariaten, in den Bibliotheken des Campus Südstadt, Campus Deutz, Campus Gummersbach und des Campus Leverkusen im Sekretariat des Sprachlernzentrums, im Institut für Technologie in den Tropen (ITT), dem Cologne Game Lab und in der Geschäftsstelle der Wahlleitung **ab dem 22.04.** eingesehen werden. Es darf nur für die eigene Person angefragt werden. Einsprüche gegen die Richtigkeit dieser Verzeichnisse können bis zum **12.05.** bei der Wahlleitung schriftlich per Smail, Briefpost oder zur Niederschrift erklärt werden. Zweit- und Gasthörer:innen haben kein Wahlrecht.
+Alle Studierende der TH Köln, sofern sie vier Wochen vor der Wahl als Ersthörer:innen zum Fachstudium eingeschrieben sind. Wahlberechtigte Studierende sind außerdem im Wähler:innenverzeichnis eingetragen. Die Verzeichnisse können in allen Fakultätssekretariaten, in den Bibliotheken des Campus Südstadt, Campus Deutz, Campus Gummersbach und des Campus Leverkusen im Sekretariat des Sprachlernzentrums, im Institut für Technologie in den Tropen (ITT), dem Cologne Game Lab und in der Geschäftsstelle der Wahlleitung **ab dem 30.04.** eingesehen werden. Es darf nur für die eigene Person angefragt werden. Einsprüche gegen die Richtigkeit dieser Verzeichnisse können bis zum **20.05.** bei der Wahlleitung schriftlich per Smail, Briefpost oder zur Niederschrift erklärt werden. Zweit- und Gasthörer:innen haben kein Wahlrecht.
 
 ### Wo kann man wählen?
 
@@ -32,11 +32,11 @@ Freitag: 10 bis 12 Uhr
 
 ### Briefwahl
 
-Für Studierende mit Wahlrecht, die aufgrund der Corona-Pandemie oder aus anderen Gründen nicht vor Ort wählen möchten/können, ist es möglich, Briefwahlunterlagen bis spätestens zum **08.05. um 12 Uhr** beim studentischen Wahlausschuss zu beantragen. Die formlose Beantragung erfolgt, bitte möglichst frühzeitig, schriftlich oder per Smail für die eigene Person. Weitere Informationen siehe Rubrik Briefwahl. Die Beantragung der Briefwahlunterlagen für die gleichzeitig stattfindenden Gremienwahlen zum Senat und den Fakultätsräten erfolgt separat. Mehr Infos dazu im Wahlausschreiben der Gremienwahlen.
+Für Studierende mit Wahlrecht, die aufgrund der Corona-Pandemie oder aus anderen Gründen nicht vor Ort wählen möchten/können, ist es möglich, Briefwahlunterlagen bis spätestens zum **15.05. um 12 Uhr** beim studentischen Wahlausschuss zu beantragen. Die formlose Beantragung erfolgt, bitte möglichst frühzeitig, schriftlich oder per Smail für die eigene Person. Weitere Informationen siehe Rubrik Briefwahl. Die Beantragung der Briefwahlunterlagen für die gleichzeitig stattfindenden Gremienwahlen zum Senat und den Fakultätsräten erfolgt separat. Mehr Infos dazu im Wahlausschreiben der Gremienwahlen.
 
 ### Wahlzeitung und Videos
 
-Die Wahlzeitung erscheint am **23.04.** in digitaler Form. Eine Print-Ausgabe ist nicht geplant. Die digitale Form wird über mehrere Kanäle allen Studierenden bereitgestellt.
+Die Wahlzeitung erscheint am **01.05.** in digitaler Form. Eine Print-Ausgabe ist nicht geplant. Die digitale Form wird über mehrere Kanäle allen Studierenden bereitgestellt.
 
 ### Unterstützer:in werden
 
