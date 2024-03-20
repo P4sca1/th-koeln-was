@@ -5,7 +5,7 @@ toc: true
 
 ### Wofür werden Wahlhelfer:innen gesucht?
 
-Es werden Studierende gesucht, die den Wahlausschuss bei der Durchführung der studentischen Wahlen vom **13.05. bis zum 17.05.** unterstützen.
+Es werden Studierende gesucht, die den Wahlausschuss bei der Durchführung der studentischen Wahlen vom **21.05. bis zum 25.05.** unterstützen.
 
 In deinen Aufgabenbereich würde zum Beispiel fallen,
 
@@ -18,11 +18,11 @@ In deinen Aufgabenbereich würde zum Beispiel fallen,
 
 Es gibt insgesamt fünf Wahllokale: zwei am Campus in der Südstadt (Ubierring 48,Claudiusstr.), eins am Campus Deutz, eins am Campus Leverkusen und eins am Campus Gummersbach.
 
-Jedes dieser Wahllokale öffnet Montag bis Donnerstag von **10-15 Uhr** und Freitag von **10-12 Uhr**. Das heißt, während dieser Zeit müssen die Wahllokale jeweils mit mindestens zwei Studierenden besetzt sein.
+Jedes dieser Wahllokale öffnet Dienstags bis Freitags von **10-15 Uhr** und Samstag von **10-12 Uhr**. Das heißt, während dieser Zeit müssen die Wahllokale jeweils mit mindestens zwei Studierenden besetzt sein.
 
 2. **Wahlhelfer:innen bei der Auszählung**
 
-Am letzten Wahltag, also Freitag, **den 17.05.**, beginnt nach Schließung der Wahllokale die Auszählung aller Stimmzettel. Hierfür werden ebenfalls Studierende gesucht, die mithelfen, alle Stimmzettel ordnungsgemäß auszuzählen. Genauere Infos zu Uhrzeit und Ort der Auszählung werden noch bekanntgegeben.
+Am letzten Wahltag, also Samstag, **den 25.05.**, beginnt nach Schließung der Wahllokale die Auszählung aller Stimmzettel. Hierfür werden ebenfalls Studierende gesucht, die mithelfen, alle Stimmzettel ordnungsgemäß auszuzählen. Genauere Infos zu Uhrzeit und Ort der Auszählung werden noch bekanntgegeben.
 
 ### Aufgaben und Arbeitsbedingungen im Detail
 
