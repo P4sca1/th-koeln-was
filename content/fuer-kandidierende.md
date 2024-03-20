@@ -9,7 +9,7 @@ Studierende, die mindestens vier Wochen vor der Wahl als Ersthörer:innen zum Fa
 
 ### Wie kandidiere ich?
 
-Zur Kandidatur ist ein korrekt ausgefülltes Wahlvorschlagsformular sowie dazugehöriges Unterstützer:innenformular bis **12.04. um 12 Uhr** (Ausschlussfrist) beim Wahlausschuss einzureichen.
+Zur Kandidatur ist ein korrekt ausgefülltes Wahlvorschlagsformular sowie dazugehöriges Unterstützer:innenformular bis **22.04. um 12 Uhr** (Ausschlussfrist) beim Wahlausschuss einzureichen.
 
 Alle erforderlichen Formulare können via Briefpost oder Smail eingereicht werden. Für die Fristwahrung ist der Eingang der ausgefüllten Formulare beim Wahlausschuss maßgebend. Später eingehende Formulare finden keine Berücksichtigung mehr.
 
@@ -25,7 +25,7 @@ Erforderliche Unterschriften auf allen Formularen sind auch bei digitaler Einrei
 
 ### Zulassung der Listen, Auslosung der Reihenfolge
 
-Der Wahlausschuss entscheidet über die Zulassung der eingereichten Wahllisten. Entsprechend der gezogenen Losnummer erscheint die einzelne Wahlliste auf dem Wahlzettel, sowie in der Wahlzeitung, in entsprechender aufsteigender Reihenfolge. Die Auslosung findet öffentlich am **20.04. um 16:00** via Zoom statt.
+Der Wahlausschuss entscheidet über die Zulassung der eingereichten Wahllisten. Entsprechend der gezogenen Losnummer erscheint die einzelne Wahlliste auf dem Wahlzettel, sowie in der Wahlzeitung, in entsprechender aufsteigender Reihenfolge. Die Auslosung findet öffentlich am **27.04. um 16:00** via Zoom statt.
 
 Zoom-Link: [Beitreten](https://th-koeln.zoom-x.de/j/9485612725)
 Meeting-ID: 948 561 2725
