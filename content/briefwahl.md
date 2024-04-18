@@ -5,7 +5,7 @@ toc: true
 
 ### Briefwahlunterlagen beantragen
 
-Briefwahlunterlagen müssen beim Wahlausschuss bis spätestens **15.05. um 12 Uhr** schriftlich beantragt werden. Dies geht entweder auf postalischem Wege oder per E-Mail für die eigene Person. Bei Beantragung via E-Mail wird als Absender ausschließlich eure Hochschulmailadresse akzeptiert. Zusätzlich muss der Name und die Anschrift mitangegeben werden.
+Briefwahlunterlagen müssen beim Wahlausschuss bis spätestens **15.05. um 12 Uhr** schriftlich beantragt werden. Dies geht entweder auf postalischem Wege oder per E-Mail für die eigene Person. Bei Beantragung via E-Mail wird als Absender ausschließlich eure Hochschulmailadresse akzeptiert. Zusätzlich muss der Name und die Anschrift, sowie Studiengang und Matrikelnummer mitangegeben werden.
 
 Nach erfolgreicher Beantragung der Briefwahl bekommt ihr die Briefwahlunterlagen zu der angegebenen Anschrift zugeschickt, was euch die Möglichkeit bietet, von Zuhause aus zu wählen. Ein frankierter Rückumschlag liegt den Briefwahlunterlagen bei, mit dem ihr euren Stimmzettel-Umschlag und den Wahlschein zurückschicken könnt.
 
