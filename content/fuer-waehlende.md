@@ -36,7 +36,8 @@ Für Studierende mit Wahlrecht, die aufgrund der Corona-Pandemie oder aus andere
 
 ### Wahlzeitung und Videos
 
-Die Wahlzeitung erscheint am **29.04.** in digitaler Form. Eine Print-Ausgabe ist nicht geplant. Die digitale Form wird über mehrere Kanäle allen Studierenden bereitgestellt.
+Die Wahlzeitung findet ihr in unserem Sciebo Ordner unter folgendem Link: https://th-koeln.sciebo.de/s/gbwHfv oder hier als Download. [Wahlzeitung_24.pdf](https://github.com/P4sca1/th-koeln-was/files/15175925/Wahlzeitung_24.pdf)
+hYqgalNNR
 
 ### Unterstützer:in werden
 
