@@ -34,9 +34,10 @@ Samstag: 10 bis 12 Uhr
 
 Für Studierende mit Wahlrecht, die aufgrund der Corona-Pandemie oder aus anderen Gründen nicht vor Ort wählen möchten/können, ist es möglich, Briefwahlunterlagen bis spätestens zum **15.05. um 12 Uhr** beim studentischen Wahlausschuss zu beantragen. Die formlose Beantragung erfolgt, bitte möglichst frühzeitig, schriftlich oder per Smail für die eigene Person. Weitere Informationen siehe Rubrik Briefwahl. Die Beantragung der Briefwahlunterlagen für die gleichzeitig stattfindenden Gremienwahlen zum Senat und den Fakultätsräten erfolgt separat. Mehr Infos dazu im Wahlausschreiben der Gremienwahlen.
 
-### Wahlzeitung und Videos
+### Wahlzeitung
 
-Die Wahlzeitung findet ihr in unserem Sciebo Ordner unter folgendem Link: https://th-koeln.sciebo.de/s/gbwHfvhYqgalNNR oder hier als Download. [Wahlzeitung_2024.pdf](https://github.com/P4sca1/th-koeln-was/files/15188917/Wahlzeitung_240502.pdf)
+Die Wahlzeitung findet ihr hier als Download: [Wahlzeitung_2024.pdf](https://github.com/P4sca1/th-koeln-was/files/15189040/Wahlzeitung_240502.pdf)
+
 
 
 
