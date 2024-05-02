@@ -36,7 +36,8 @@ Für Studierende mit Wahlrecht, die aufgrund der Corona-Pandemie oder aus andere
 
 ### Wahlzeitung und Videos
 
-Die Wahlzeitung findet ihr in unserem Sciebo Ordner unter folgendem Link: https://th-koeln.sciebo.de/s/gbwHfvhYqgalNNR oder hier als Download. [Wahlzeitung_24.pdf](https://github.com/P4sca1/th-koeln-was/files/15175925/Wahlzeitung_24.pdf)
+Die Wahlzeitung findet ihr in unserem Sciebo Ordner unter folgendem Link: https://th-koeln.sciebo.de/s/gbwHfvhYqgalNNR oder hier als Download. [Wahlzeitung_2024.pdf](https://github.com/P4sca1/th-koeln-was/files/15188917/Wahlzeitung_240502.pdf)
+
 
 
 ### Unterstützer:in werden
