@@ -19,7 +19,7 @@ Während der Wahlwoche tagt der Wahlausschuss jeden Tag öffentlich um 15:30 Uhr
 Meeting ID: 948 561 2725
 Kenncode: 788504
 
-Die Auszählung beginnt öffentlich am Freitag, 25.05.24 um 13 Uhr im Asta Foyer in Deutz.
+Die Auszählung beginnt öffentlich am Samstag, 25.05.24 um 13 Uhr im Asta Foyer in Deutz.
 
 Kontaktdaten, ausführliche Infos zu Kandidatur, Wahllokalen und Durchführung findest du auf dieser Webseite und in der [Wahlbekanntmachung](https://th-koeln.sciebo.de/s/tl45UsTiS54FtaQ).
 Außerdem können wichtige Dokumente in unserem [Sciebo-Ordner](https://th-koeln.sciebo.de/s/tl45UsTiS54FtaQ) eingesehen werden.
