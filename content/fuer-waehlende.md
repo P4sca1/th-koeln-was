@@ -27,8 +27,8 @@ Die Wahl wird standortunabhängig abgehalten. Studierende mit Wahlrecht können 
    Campusplatz 1, Bibliothek
 
 **Öffnungszeiten**  
-Montag bis Donnerstag: 10 bis 15 Uhr  
-Freitag: 10 bis 12 Uhr
+Dienstag bis Freitag: 10 bis 15 Uhr  
+Samstag: 10 bis 12 Uhr
 
 ### Briefwahl
 
