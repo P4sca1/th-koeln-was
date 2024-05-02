@@ -1,10 +1,12 @@
 ---
 title: Kandidaturen für die Wahlen 2024
 ---
-![Bewerberlisten (1)](https://github.com/P4sca1/th-koeln-was/assets/162597180/f9011b74-2422-496e-bca0-a5e38f0b5f5a)
+
+![Screenshot 2024-05-02 200410](https://github.com/P4sca1/th-koeln-was/assets/162597180/fbab54f5-0cff-42d1-a111-73e2332d2758)
 
 
 
 Die Wahlzeitung findet ihr hier: 
 
-[Wahlzeitung.pdf](https://github.com/P4sca1/th-koeln-was/files/15189601/Wahlzeitung.pdf)
+
+[Wahlzeitung.pdf](https://github.com/P4sca1/th-koeln-was/files/15192287/Wahlzeitung.pdf)
