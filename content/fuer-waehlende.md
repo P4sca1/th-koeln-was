@@ -36,7 +36,7 @@ Für Studierende mit Wahlrecht, die aufgrund der Corona-Pandemie oder aus andere
 
 ### Wahlzeitung
 
-Die Wahlzeitung findet ihr hier als Download: [Wahlzeitung.pdf](https://github.com/P4sca1/th-koeln-was/files/15189601/Wahlzeitung.pdf)
+Die Wahlzeitung findet ihr hier als Download: [Wahlzeitung](https://github.com/P4sca1/th-koeln-was/files/15192287/Wahlzeitung.pdf)
 
 
 
