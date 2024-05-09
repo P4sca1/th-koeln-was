@@ -9,6 +9,7 @@ title: Kandidaturen für die Wahlen 2024
 
 Die Wahlzeitung findet ihr hier: 
 
-[Wahlzeitung.pdf](https://github.com/P4sca1/th-koeln-was/files/15251088/WahlzeitungOhneListenVerbindung.pdf)
+
+[Wahlzeitung.pdf](https://github.com/P4sca1/th-koeln-was/files/15266564/Wahlzeitung_240509.pdf)
 
 
