@@ -4,7 +4,10 @@ title: Wahlergebnisse
 
 ## Wahlergebnis 2024
 
-Das Wahlergebnis 2024 wird an dieser Stelle veröffentlicht.
+Das vorläufige Wahlergebnis zur Neuwahl des Studierendenparlaments 2024 ist:
+
+[VorläufigesWahlergebnis.pdf](https://github.com/P4sca1/th-koeln-was/files/15445051/VorlaufigesWahlergebnis.pdf)
+
 
 ## Wahlergebnisse der vergangenen Jahre
 
