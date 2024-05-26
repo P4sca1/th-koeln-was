@@ -51,7 +51,7 @@ Für die Studierendenparlamentswahlen können alle Studierenden der Hochschule e
 Der Wahlausschuss wird eine Wahlzeitung herausgeben, für die alle zugelassenen Wahllisten eine Selbstdarstellung einreichen können. Selbstdarstellungen sind bis zum **26.04. 23:59 Uhr**, via Smail beim Wahlausschuss einzureichen.
 26
 **Für die Wahlzeitung gilt**  
-Dieses Jahr wird die Wahlzeitung als PDF-Dokument in Onlineform erscheinen. Selbstdarstellungen sollten als PDF-Datei im DIN-A4 Format per Mail bei uns eingereicht werden. Für die Selbstdarstellungen der Fachschaftsräte steht eine DIN-A4 Seite zur Verfügung. Die Listen für die Stupa Wahl haben zwei DIN-A4 Seiten Platz. Wir freuen uns auf eure Einsendungen.
+Dieses Jahr wird die Wahlzeitung als PDF-Dokument in Onlineform erscheinen. Selbstdarstellungen sollten als PDF-Datei im DIN-A4 Format per Mail bei uns eingereicht werden. Die Listen für die Stupa Wahl haben zwei DIN-A4 Seiten Platz. Wir freuen uns auf eure Einsendungen.
 
 ### Beschluss zur Listenwerbung
 
