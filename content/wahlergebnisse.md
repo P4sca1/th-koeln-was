@@ -6,8 +6,9 @@ title: Wahlergebnisse
 
 Das vorläufige Wahlergebnis zur Neuwahl des Studierendenparlaments 2024 ist:
 
-![Vorläufiges1](https://github.com/P4sca1/th-koeln-was/assets/162597180/822ef293-7c41-466d-89c9-59cbf6d4a720)
-![Vorläufiges2](https://github.com/P4sca1/th-koeln-was/assets/162597180/9711b3a4-1006-4de9-a34e-9516319d87ee)
+
+![Vorläufiges1](https://github.com/P4sca1/th-koeln-was/assets/162597180/58578311-744a-4410-985e-7f93373ad760)
+![Vorläufiges2](https://github.com/P4sca1/th-koeln-was/assets/162597180/b4152330-f9c5-4a75-a978-ba36918bc2b9)
 
 
 
