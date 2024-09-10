@@ -14,7 +14,7 @@ Du kannst dich selbst zur Wahl stellen und deine Wünsche und Forderungen in das
 
 <!--Du kannst einem der Wahllokale in der Woche vom **21.05.24 - 25.05.24** einen Besuch abstatten und wählst deine:n Kandidierende:n für das StuPa.-->
 
-Während der Wahlwoche tagt der Wahlausschuss jeden Tag öffentlich um 15:30 Uhr. (Am 25.05.24 tagt der WAS erst nach der Auszählung.)
+Während der Wahlwoche tagt der Wahlausschuss jeden Tag öffentlich um 14:30 Uhr. (Am 25.05.24 tagt der WAS erst nach der Auszählung.)
 
 Meeting ID: 948 561 2725
 Kenncode: 788504
