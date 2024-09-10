@@ -1,21 +1,21 @@
 <!-- This example requires Tailwind CSS v2.0+ -->
 <template>
-	<Listbox v-model="$colorMode.preference" as="div" class="relative">
-		<ListboxLabel class="sr-only">Theme</ListboxLabel>
-		<ListboxButton class="flex justify-center">
+	<HeadlessListbox v-model="$colorMode.preference" as="div" class="relative">
+		<HeadlessListboxLabel class="sr-only">Theme</HeadlessListboxLabel>
+		<HeadlessListboxButton class="flex justify-center">
 			<SunIcon class="h-6 w-6 dark:hidden" />
 			<MoonIcon class="hidden h-6 w-6 dark:inline" />
-		</ListboxButton>
+		</HeadlessListboxButton>
 
 		<transition
 			leave-active-class="transition ease-in duration-100"
 			leave-from-class="opacity-100"
 			leave-to-class="opacity-0"
 		>
-			<ListboxOptions
+			<HeadlessListboxOptions
 				class="absolute right-0 z-50 mt-6 w-36 origin-top-right overflow-hidden rounded-lg bg-white py-1 text-sm font-semibold text-gray-700 shadow-lg dark:bg-gray-800 dark:text-gray-300"
 			>
-				<ListboxOption
+				<HeadlessListboxOption
 					v-for="option in options"
 					v-slot="{ active, selected }"
 					:key="option.value"
@@ -32,20 +32,13 @@
 						<component :is="option.icon" class="mr-2 h-6 w-6" />
 						{{ option.text }}
 					</li>
-				</ListboxOption>
-			</ListboxOptions>
+				</HeadlessListboxOption>
+			</HeadlessListboxOptions>
 		</transition>
-	</Listbox>
+	</HeadlessListbox>
 </template>
 
 <script setup lang="ts">
-	import {
-		Listbox,
-		ListboxLabel,
-		ListboxButton,
-		ListboxOption,
-		ListboxOptions,
-	} from '@headlessui/vue'
 	import {
 		SunIcon,
 		MoonIcon,

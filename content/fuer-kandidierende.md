@@ -18,7 +18,7 @@ Alle erforderlichen Dokumente sind in unserem [Sciebo-Ordner](https://th-koeln.s
 <!--
 :PdfLink{path="/Formulare/Stupa_Wahlvorschlagsformular.pdf" text="Wahlvorschlagsformular"} für die Kandidatur für das Studierendenparlament
 
-:PdfLink{path="/Formulare/UnterstuetzerInnenformular.pdf" text="Unterstützer:innenformular"} 
+:PdfLink{path="/Formulare/UnterstuetzerInnenformular.pdf" text="Unterstützer:innenformular"}
 -->
 
 Erforderliche Unterschriften auf allen Formularen sind auch bei digitaler Einreichung via Smail **stets handschriftlich** (analog unterschreiben & einscannen) auf den jeweiligen Formularen zu unterschreiben. Elektronische Unterschriften werden nicht anerkannt.
@@ -30,7 +30,6 @@ Der Wahlausschuss entscheidet über die Zulassung der eingereichten Wahllisten. 
 Zoom-Link: [Beitreten](https://th-koeln.zoom-x.de/j/9485612725)
 Meeting-ID: 948 561 2725
 Kenncode: 788504
-
 
 ### Unterstützerinnen und Unterstützer
 
@@ -44,7 +43,7 @@ Für die Unterstützungsunterschriften ist das :PdfLink{path="/Formulare/Unterst
 
 Für die Unterstützungsunterschriften ist das [Unterstützer:innenformular](https://th-koeln.sciebo.de/s/Hj46TURV5dqSL9m) zu benutzen.
 
-Für die Studierendenparlamentswahlen können alle Studierenden der Hochschule eine beliebige Wahlvorschlagsliste mit ihrer Unterschrift unterstützen. 
+Für die Studierendenparlamentswahlen können alle Studierenden der Hochschule eine beliebige Wahlvorschlagsliste mit ihrer Unterschrift unterstützen.
 
 ### Selbstdarstellung in der Wahlzeitung und auf der Webseite
 
@@ -66,6 +65,5 @@ Betzdorfer Str. 2, 50679 Köln
 
 Die erhaltenen Pakete werden versiegelt und bis zum 30. April vom Wahlorganisationsteam an die einzelnen FSR verschickt. Bitte sendet uns eine gesonderte E-Mail an was@stupa.th-koeln.de, um anzugeben, wie viele eurer Infomaterialien an welchen FSR gehen sollen.
 Wir danken euch für eure Kooperation und Unterstützung bei der Umsetzung dieser Maßnahme.
-
 
 In der :PdfLink{path="/Wahlzeitung_2021.pdf" text="Wahlzeitung 2021"} sind beispielhaft die Selbstdarstellung aller Kandidierenden aus 2021 zu finden.

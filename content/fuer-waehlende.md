@@ -38,11 +38,6 @@ Für Studierende mit Wahlrecht, die aufgrund der Corona-Pandemie oder aus andere
 
 Die Wahlzeitung findet ihr hier als Download: [Wahlzeitung.pdf](https://github.com/P4sca1/th-koeln-was/files/15266557/Wahlzeitung_240509.pdf)
 
-
-
-
-
-
 ### Unterstützer:in werden
 
 Du willst nicht selbst kandidieren? Dann unterstütze eine Wahlvorschlagsliste auf deren Unterstützer:innenliste mit deiner Unterschrift. Dabei ist zu beachten, dass Du nur eine Wahlvorschlagsliste pro Gremium unterstützen darfst.

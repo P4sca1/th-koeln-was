@@ -33,7 +33,7 @@ pnpm dev
 Die Webseite generieren
 
 ```bash
-pnpm build
+pnpm generate
 ```
 
 Vorschau der Webseite nach der Generierung anzeigen

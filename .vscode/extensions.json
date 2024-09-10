@@ -3,7 +3,8 @@
 		"dbaeumer.vscode-eslint",
 		"esbenp.prettier-vscode",
 		"bradlc.vscode-tailwindcss",
-		"nuxt.mdc"
+		"nuxt.mdc",
+		"Vue.volar"
 	],
 	"unwantedRecommendations": ["octref.vetur"]
 }
