@@ -1,45 +1,25 @@
 {
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.formatOnPaste": true,
-    "editor.formatOnSave": true,
-    "eslint.enable": true,
-    "eslint.useESLintClass": true,
-    "eslint.validate": ["javascript", "typescript", "vue"],
-    "editor.detectIndentation": false,
-    "editor.insertSpaces": false,
-    "editor.codeActionsOnSave": {
-            "source.fixAll.eslint": true
-    },
-    "[javascript]": {
-            "editor.formatOnSave": false
-    },
-    "[typescript]": {
-            "editor.formatOnSave": false
-    },
-    "[vue]": {
-            "editor.formatOnSave": false
-    },
-
-    "search.exclude": {
-            "**/node_modules": true,
-            "**/.yarn": true,
-            "**/.nuxt": true,
-            "**/.output": true
-    },
-    "files.exclude": {
-            "**/.git": true,
-            "**/.svn": true,
-            "**/.hg": true,
-            "**/CVS": true,
-            "**/.DS_Store": true,
-            "**/Thumbs.db": true,
-            "**/node_modules": true,
-            "**/.yarn/cache": true,
-            "**/.nuxt": true,
-            "**/.output": true
-    },
-
-    "files.associations": {
-            "*.css": "tailwindcss"
-    }
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": true,
+	"eslint.enable": true,
+	"eslint.useESLintClass": true,
+	"eslint.validate": ["javascript", "typescript", "vue"],
+	"editor.detectIndentation": false,
+	"editor.insertSpaces": false,
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": "explicit"
+	},
+	"[javascript]": {
+		"editor.formatOnSave": false
+	},
+	"[typescript]": {
+		"editor.formatOnSave": false
+	},
+	"[vue]": {
+		"editor.formatOnSave": false
+	},
+	"files.associations": {
+		"*.css": "tailwindcss"
+	}
 }

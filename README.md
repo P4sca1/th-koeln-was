@@ -4,11 +4,7 @@ Enthält Informationen über aktuelle Wahlen, sowie die Wahlergebnisse der letzt
 
 ## Für Mitglieder des Wahlausschusses
 
-Im Folgenden wird erklärt, wie die Webseite bearbeitet werden kann.
-
-### Voraussetzungen
-
-TODO
+Im Sciebo des Wahlausschusses befindet sich die Anleitung zur Website im Ordner Handbuch & Planungsdokumente.
 
 ## Für Entwickler
 
@@ -23,13 +19,13 @@ TODO
 Dependencies installieren
 
 ```bash
-yarn install
+pnpm install
 ```
 
 ### Entwicklungs Server
 
 ```bash
-yarn dev
+pnpm dev
 ```
 
 ### Produktion
@@ -37,11 +33,11 @@ yarn dev
 Die Webseite generieren
 
 ```bash
-yarn build
+pnpm build
 ```
 
 Vorschau der Webseite nach der Generierung anzeigen
 
 ```bash
-yarn preview
+pnpm preview
 ```
