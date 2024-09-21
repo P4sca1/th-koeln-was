@@ -5,7 +5,7 @@ toc: true
 
 ### Wofür werden Wahlhelfer:innen gesucht?
 
-Es werden Studierende gesucht, die den Wahlausschuss bei der Durchführung der studentischen Wahlen vom **21.05. bis zum 25.05.** unterstützen.
+Es werden Studierende gesucht, die den Wahlausschuss bei der Durchführung der studentischen Wahlen vom **25.09. bis zum 29.09.** unterstützen.
 
 In deinen Aufgabenbereich würde zum Beispiel fallen,
 

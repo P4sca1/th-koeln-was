@@ -4,7 +4,7 @@ title: Studentische Wahlen 2024
 
 <!-- **!! DU BIST GEFRAGT !!** -->
 
-Auch dieses Jahr finden wieder die studentischen Gremienwahlen vom 21.05.24 - 25.05.24 statt. Gewählt wird:
+Auch dieses Jahr finden wieder die studentischen Gremienwahlen vom 25.09.24 - 29.09.24 statt. Gewählt wird:
 
 - **Dein Studierendenparlament (kurz StuPa)**  
   Es ist das höchste beschlussfassende Wahlgremium der Studierendenschaft und für die Selbstverwaltung der Studierenden zuständig.
