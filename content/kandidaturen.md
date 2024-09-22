@@ -6,4 +6,4 @@ title: Kandidaturen für die Wahlen 2024
 
 Die Wahlzeitung findet ihr hier:
 
-:ContentLink{path="/wahlzeitungen/wahlzeitung_2024.pdf"}
+:ContentLink{path="/wahlzeitungen/wahlzeitung_2024.pdf" text="Wahlzeitung 2024"}

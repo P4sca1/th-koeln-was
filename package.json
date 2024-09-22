@@ -20,6 +20,7 @@
 		"@nuxt/image": "1.8.0",
 		"@nuxthq/studio": "2.1.1",
 		"@nuxtjs/color-mode": "3.5.1",
+		"@nuxtjs/seo": "2.0.0-rc.21",
 		"@nuxtjs/tailwindcss": "6.12.1",
 		"@nuxtjs/web-vitals": "0.2.7",
 		"@tailwindcss/forms": "0.5.9",
