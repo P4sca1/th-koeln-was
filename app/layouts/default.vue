@@ -50,20 +50,14 @@
 							class="relative mb-4 xl:hidden"
 							aria-label="Inhaltsverzeichnis Menü"
 						>
-							<HeadlessMenuButton
-								type="button"
-								class="flex gap-2"
-							>
+							<HeadlessMenuButton type="button" class="flex gap-2">
 								<ChevronDownIcon class="h-6 w-6" />
 								Inhaltsverzeichnis
 							</HeadlessMenuButton>
 							<HeadlessMenuItems
 								class="absolute left-2 z-10 mt-2 flex h-64 w-56 origin-top-left flex-col gap-1 overflow-y-auto rounded-lg bg-white p-2 text-sm font-medium shadow-lg ring-1 ring-black/5 focus-visible:outline-orange-500 dark:bg-gray-800 dark:ring-gray-700"
 							>
-								<HeadlessMenuItem
-									v-for="link of toc"
-									:key="link.id"
-								>
+								<HeadlessMenuItem v-for="link of toc" :key="link.id">
 									<NuxtLink
 										:href="`#${link.id}`"
 										class="group flex items-center rounded-md p-2 text-start text-gray-600 hover:bg-gray-100 hover:text-gray-900 ui-active:bg-gray-100 ui-active:text-gray-900 dark:text-gray-300 dark:hover:bg-gray-700 dark:hover:text-white dark:ui-active:bg-gray-700 dark:ui-active:text-white"
@@ -134,9 +128,7 @@
 		// Wait until ContentRenderer has rendered the content
 		await nextTick()
 
-		const headings = document.querySelectorAll(
-			'h1, h2, h3, h4'
-		)
+		const headings = document.querySelectorAll('h1, h2, h3, h4')
 
 		for (const heading of headings) {
 			observer.value?.observe(heading)

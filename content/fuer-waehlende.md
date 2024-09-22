@@ -23,7 +23,6 @@ Die Wahl wird standortunabhängig abgehalten. Studierende mit Wahlrecht können 
 3. **Campus Gummersbach**  
    Steinmüllerallee 1, Foyer im Mensagebäude
 
-
 **Öffnungszeiten**  
 Dienstag bis Freitag: 10 bis 15 Uhr  
 Samstag: 10 bis 12 Uhr
