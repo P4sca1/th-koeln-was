@@ -41,3 +41,9 @@ Vorschau der Webseite nach der Generierung anzeigen
 ```bash
 pnpm preview
 ```
+
+## Dokumente
+
+Zum Beispiel Bilder und PDF Dateien. Diese gehören in den Ordner `public/dokumente`.
+Leerzeichen mit `_` ersetzen und Sonderzeichen vermeiden. Zum Beispiel `wahlverkuendung_2024.pdf` statt `Wahlverkündung 2024.pdf`.
+Zur Verlinkung auf Seiten bitte `ContentLink` nutzen und keine Standard-Markdown-Links.

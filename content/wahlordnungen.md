@@ -2,12 +2,8 @@
 title: Wahlordnungen
 ---
 
-:PdfLink{path="/Wahlordnungen/Stupa_Wahlordnung24.pdf" text="Wahlordnung für die Wahl zum Studierendenparlament"}
+:ContentLink{path="/wahlordnungen/stupa_wahlordnung.pdf" text="Wahlordnung für die Wahl zum Studierendenparlament"}
 
-<br>
+:ContentLink{path="/wahlordnungen/stupe_aenderungssatzungen.pdf" text="Änderungssatzungen für die Wahl zum Studierendenparlament"}
 
-:PdfLink{path="/Wahlordnungen/Stupa_Änderungssatzungen.pdf" text="Änderungssatzungen für die Wahl zum Studierendenparlament"}
-
-<br>
-
-:PdfLink{path="/Wahlordnungen/Durchfuehrungsbestimmung24.pdf" text="Durchführungsbestimmung im Wahllokal"}
+:ContentLink{path="/wahlordnungen/durchfuehrungsbestimmung.pdf" text="Durchführungsbestimmung im Wahllokal"}

@@ -57,10 +57,8 @@ export default defineNuxtConfig({
 		classSuffix: '',
 	},
 
-	// progress: {
-	// 	color: '#af368c',
-	// 	options: {
-	// 		showSpinner: false,
-	// 	},
-	// },
+	image: {
+		provider: 'ipx',
+		format: ['webp'],
+	},
 })

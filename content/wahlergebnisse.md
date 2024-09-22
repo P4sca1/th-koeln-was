@@ -6,18 +6,18 @@ title: Wahlergebnisse
 
 Das vorläufige Wahlergebnis zur Neuwahl des Studierendenparlaments 2024 ist:
 
-![Vorläufiges1](https://github.com/P4sca1/th-koeln-was/assets/162597180/d8a886ff-b6a0-411a-a651-d873bd8114e5)
-![Vorläufiges2](https://github.com/P4sca1/th-koeln-was/assets/162597180/2ee511ab-49fa-4c2d-8df5-ad17e4f5e7fc)
+:ContentLink{path="/wahlergebnisse/2024/wahlergebnisse_2024_part1.png" text="Wahlergebnisse 2024 Teil 1"}
+:ContentLink{path="/wahlergebnisse/2024/wahlergebnisse_2024_part2.png" text="Wahlergebnisse 2024 Teil 2"}
 
 ## Wahlergebnisse der vergangenen Jahre
 
 Hinweis zum Wahljahr 2019 sowie 2023: Im Nachgang der durchgeführten Studierendenparlamentswahl wurde diese Wahl für ungültig erklärt, da sie vom Präsidenten der Hochschule beanstandet wurde.
 
-- :PdfLink{path="/Wahlergebnisse/2023/Ergebnisse_Wahlen_2023.pdf" text="Wahlergebnis von 2023"}
-- :PdfLink{path="/Wahlergebnis für die Wahlen zum Studierendenparlament und zu den Fachschaftsräten 2022-2.pdf" text="Wahlergebnis von 2022"}
-- :PdfLink{path="/Wahlergebnisse/Wahlergebnis_2021.pdf" text="Wahlergebnis von 2021"}
-- :PdfLink{path="/Wahlergebnisse/Wahlergebnis_2019.pdf" text="Wahlergebnis von 2019"}
-- :PdfLink{path="/Wahlergebnisse/Wahlergebnis_2018.pdf" text="Wahlergebnis von 2018"}
+- :ContentLink{path="/wahlergebnisse/2023/ergebnisse_wahlen_2023.pdf" text="Wahlergebnis von 2023"}
+- :ContentLink{path="/wahlergebnisse/2022/wahlergebnis_stupa_fsr_2022.pdf" text="Wahlergebnis von 2022"}
+- :ContentLink{path="/wahlergebnisse/2021/wahlergebnis_2021.pdf" text="Wahlergebnis von 2021"}
+- :ContentLink{path="/wahlergebnisse/2019/wahlergebnis_2019.pdf" text="Wahlergebnis von 2019"}
+- :ContentLink{path="/wahlergebnisse/2018/wahlergebnis_2018.pdf" text="Wahlergebnis von 2018"}
 - [Wahlergebnis von 2016](/wahlergebnisse/2016)
 - [Wahlergebnis von 2015](/wahlergebnisse/2015)
 - [Wahlergebnis von 2014](/wahlergebnisse/2014)
