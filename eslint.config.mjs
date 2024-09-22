@@ -1,9 +1,4 @@
-import withNuxt from './.nuxt/eslint.config.mjs'
-import eslintConfigPrettier from 'eslint-config-prettier'
+import withNuxt from "./.nuxt/eslint.config.mjs";
+import eslintConfigPrettier from "eslint-config-prettier";
 
-export default withNuxt([
-	{
-		ignores: ['graphql/generated', '_components', '_pages'],
-	},
-	eslintConfigPrettier,
-])
+export default withNuxt([eslintConfigPrettier]);
