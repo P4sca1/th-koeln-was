@@ -9,7 +9,7 @@ Alle Studierende der TH Köln, sofern sie vier Wochen vor der Wahl als Ersthöre
 
 ### Wo kann man wählen?
 
-Die Wahl wird standortunabhängig abgehalten. Studierende mit Wahlrecht können unter Vorlage ihrer MultiCa in jedem Wahllokal ihre Stimme abgeben. Alternativ ist es möglich, Briefwahl für sich zu beantragen.
+Die Wahl wird standortunabhängig abgehalten. Studierende mit Wahlrecht können unter Vorlage ihrer MultiCa oder einer aktuellen Studienbescheinigung in jedem Wahllokal ihre Stimme abgeben. Alternativ ist es möglich, Briefwahl für sich zu beantragen.
 
 **Wahllokalstandorte**
 
@@ -24,12 +24,12 @@ Die Wahl wird standortunabhängig abgehalten. Studierende mit Wahlrecht können 
    Steinmüllerallee 1, Foyer im Mensagebäude
 
 **Öffnungszeiten**  
-Dienstag bis Freitag: 10 bis 15 Uhr  
-Samstag: 10 bis 12 Uhr
+Dienstag bis Freitag: 09:30 bis 15:30 Uhr  
+Samstag: 09:30 bis 12:30 Uhr
 
 ### Briefwahl
 
-Für Studierende mit Wahlrecht, die aufgrund der Corona-Pandemie oder aus anderen Gründen nicht vor Ort wählen möchten/können, ist es möglich, Briefwahlunterlagen bis spätestens zum **15.05. um 12 Uhr** beim studentischen Wahlausschuss zu beantragen. Die formlose Beantragung erfolgt, bitte möglichst frühzeitig, schriftlich oder per Smail für die eigene Person. Weitere Informationen siehe Rubrik Briefwahl. Die Beantragung der Briefwahlunterlagen für die gleichzeitig stattfindenden Gremienwahlen zum Senat und den Fakultätsräten erfolgt separat. Mehr Infos dazu im Wahlausschreiben der Gremienwahlen.
+Für Studierende mit Wahlrecht, die nicht vor Ort wählen möchten/können, ist es möglich, Briefwahlunterlagen bis spätestens zum **19.11.2024 um 12 Uhr mittags** beim studentischen Wahlausschuss zu beantragen. Die formlose Beantragung erfolgt, bitte möglichst frühzeitig, schriftlich oder per Smail für die eigene Person. Weitere Informationen siehe Rubrik Briefwahl. Die Beantragung der Briefwahlunterlagen für die gleichzeitig stattfindenden Gremienwahlen zum Senat und den Fakultätsräten erfolgt separat. Mehr Infos dazu im Wahlausschreiben der Gremienwahlen.
 
 ### Wahlzeitung
 

@@ -4,10 +4,7 @@ title: Wahlergebnisse
 
 ## Wahlergebnis 2024
 
-Das vorläufige Wahlergebnis zur Neuwahl des Studierendenparlaments 2024 ist:
-
-:ContentLink{path="/wahlergebnisse/2024/wahlergebnisse_2024_part1.png" text="Wahlergebnisse 2024 Teil 1"}
-:ContentLink{path="/wahlergebnisse/2024/wahlergebnisse_2024_part2.png" text="Wahlergebnisse 2024 Teil 2"}
+Das Wahlergebnis wird auf dieser Seite veröffentlicht.
 
 ## Wahlergebnisse der vergangenen Jahre
 

@@ -5,7 +5,7 @@ toc: true
 
 ### Wofür werden Wahlhelfer:innen gesucht?
 
-Es werden Studierende gesucht, die den Wahlausschuss bei der Durchführung der studentischen Wahlen vom **25.09. bis zum 29.09.** unterstützen.
+Es werden Studierende gesucht, die den Wahlausschuss bei der Durchführung der studentischen Wahlen vom **25.11. bis zum 29.11.** unterstützen.
 
 In deinen Aufgabenbereich würde zum Beispiel fallen,
 
@@ -16,13 +16,13 @@ In deinen Aufgabenbereich würde zum Beispiel fallen,
 
 1. **Wahlhelfer:innen im Wahllokal**
 
-Es gibt insgesamt fünf Wahllokale: zwei am Campus in der Südstadt (Ubierring 48,Claudiusstr.), eins am Campus Deutz, eins am Campus Leverkusen und eins am Campus Gummersbach.
+Es gibt insgesamt vier Wahllokale: zwei am Campus in der Südstadt (Ubierring 48,Claudiusstr.), eins am Campus Deutz und eins am Campus Gummersbach.
 
-Jedes dieser Wahllokale öffnet Dienstags bis Freitags von **10-15 Uhr** und Samstag von **10-12 Uhr**. Das heißt, während dieser Zeit müssen die Wahllokale jeweils mit mindestens zwei Studierenden besetzt sein.
+Jedes dieser Wahllokale öffnet Monatgs bis Donnerstags von **09:30 - 15:30 Uhr** und Freitag von **09:30 - 12:30 Uhr**. Das bedeutet, während dieser Zeit müssen die Wahllokale jeweils mit mindestens zwei Wahlhelfer:innen besetzt sein.
 
 2. **Wahlhelfer:innen bei der Auszählung**
 
-Am letzten Wahltag, also Samstag, **den 25.05.**, beginnt nach Schließung der Wahllokale die Auszählung aller Stimmzettel. Hierfür werden ebenfalls Studierende gesucht, die mithelfen, alle Stimmzettel ordnungsgemäß auszuzählen. Genauere Infos zu Uhrzeit und Ort der Auszählung werden noch bekanntgegeben.
+Am letzten Wahltag, also Freitag, **den 29.11.**, beginnt nach Schließung der Wahllokale die Auszählung aller Stimmzettel. Hierfür werden ebenfalls Studierende gesucht, die mithelfen, alle Stimmzettel ordnungsgemäß auszuzählen. Genauere Infos zu Uhrzeit und Ort der Auszählung werden noch bekanntgegeben.
 
 ### Aufgaben und Arbeitsbedingungen im Detail
 
@@ -34,7 +34,7 @@ Am letzten Wahltag, also Samstag, **den 25.05.**, beginnt nach Schließung der W
 - Es erfolgt keine Stimmabgabe, wenn nur ein:e Wahlhelfer:in im Wahllokal ist
 - Am Ende des Wahltages wird die Urne von einem Mitglied des Wahlausschusses versiegelt und weggeschlossen
 - Bei Problemen bitte sofort den Wahlausschuss kontaktieren
-- Im Krankheitsfall bis spätestens 8 Uhr morgens beim Wahlausschuss melden
+- Im Krankheitsfall bis spätestens 07:30 Uhr morgens beim Wahlausschuss melden
 - Auch bei Verspätung bitte so schnell wie möglich Bescheid geben
 
 ### Was bieten wir?
@@ -43,8 +43,8 @@ Du erhältst als Aufwandsentschädigung einen Stundenlohn in Höhe von **14 Euro
 
 ### Haben wir dein Interesse geweckt?
 
-Dann nimm gerne am **10.04. um 19 Uhr** an unserem Infotreffen für Wahlhelfer:innen teil!
-Der genaue Ort und ob die Veranstaltung remote oder hybrid stattfindet, geben wir noch bekannt.
+Dann nimm gerne am **24.10. um 19 Uhr** an unserem Infotreffen für Wahlhelfer:innen teil!
+Die veranstaltung findet über Zoom statt, der Link zum Sitzungsraum folgt in Kürze noch.
 Nutze außerdem gerne das Anmeldeformular über den Anmeldelink weiter unten. Ihr könnt uns im Falle dessen, dass ihr zu dem Treffen nicht kommen könnt, per Smail eine Nachricht mit euren Kontaktdaten (Name, Studiengang, Rufnummer), Tätigkeit (Wahllokal und/oder Stimmauszählung) und dem bevorzugten Standort an unsere unten angegebene E-Mail-Adresse schicken.
 
 ### Kontaktdaten des Wahlausschusses:

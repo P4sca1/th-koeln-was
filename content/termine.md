@@ -1,16 +1,17 @@
+
 ---
 title: Zeitliche Eckdaten für die studentischen Wahlen 2024
 ---
 
-- **22. März:** Veröffentlichung der Wahlbekanntmachung
-- **10. April:** Informationstreffen für Wahlhelfer:innen (20 Uhr)
-- **22. April:** Ausschlussfrist der Wahlvorschläge (12 Uhr)
-- **26. April:** Frist für das Einreichen der Selbstdarstellungen für die Wahlzeitung (23:59 Uhr)
-- **27. April:** Auslosung der Listennummern (Öffentlich)
-- **28. April:** Bekanntgabe der Listennummern
-- **29. April:** Ab diesem Tag ist die Einsicht in das Wähler:innenverzeichnis möglich
-- **01. Mai:** Veröffentlichung der Wahlzeitung
-- **15. Mai:** Frist zur Beantragung der Briefwahl (12 Uhr)
-- **20. Mai:** Frist für Einsprüche gegen Richtigkeit des Wähler:innenverzeichnisses (23:59 Uhr)
-- **21. bis 25. Mai:** Studentische Wahlen
-- **25. Mai:** Auszählung der Stimmzettel im Anschluss an die Wahl
+- **27. September:** Veröffentlichung der Wahlbekanntmachung
+- **24. Oktober:** Informationstreffen für Wahlhelfer:innen (20 Uhr)
+- **25. Oktober:** Ausschlussfrist der Wahlvorschläge (12 Uhr)
+- **26. Oktober:** Frist für das Einreichen der Selbstdarstellungen für die Wahlzeitung (23:59 Uhr)
+- **31. Oktober:** Auslosung der Listennummern (Öffentlich)
+- **01. November:** Bekanntgabe der Listennummern
+- **04. November:** Ab diesem Tag ist die Einsicht in das Wähler:innenverzeichnis möglich
+- **Bekanntgabe folgt noch:** Veröffentlichung der Wahlzeitung
+- **19. November:** Frist zur Beantragung der Briefwahl (12 Uhr)
+- **24. November:** Frist für Einsprüche gegen Richtigkeit des Wähler:innenverzeichnisses (23:59 Uhr)
+- **25. bis 29. November:** Studentische Wahlen
+- **25. November:** Auszählung der Stimmzettel im Anschluss an die Wahl
