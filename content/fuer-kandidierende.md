@@ -27,21 +27,21 @@ Erforderliche Unterschriften auf allen Formularen sind auch bei digitaler Einrei
 
 Der Wahlausschuss entscheidet über die Zulassung der eingereichten Wahllisten. Entsprechend der gezogenen Losnummer erscheint die einzelne Wahlliste auf dem Wahlzettel, sowie in der Wahlzeitung, in entsprechender aufsteigender Reihenfolge. Die Auslosung findet öffentlich am **31.10. um 13:30** via Zoom statt.
 
-Zoom-Link: [Beitreten](https://th-koeln.zoom-x.de/j/9485612725)
-Meeting-ID: 948 561 2725
-Kenncode: 788504
+Zoom-Link: [Beitreten](https://th-koeln.zoom-x.de/j/68318310538)
+Meeting-ID: 683 1831 0538
+Kenncode: 25687
 
 ### Unterstützerinnen und Unterstützer
 
 Eine Wahlvorschlagsliste benötigt die folgende Mindestanzahl an Unterschriften von Unterstützer:innen:
 
-- 20 für die Studierendenparlamentswahl
+- 21 für die Studierendenparlamentswahl
 
 <!--
 Für die Unterstützungsunterschriften ist das :ContentLink{path="/formulare/unterstuetzer_formular.pdf" text="Unterstützer:innenformular"} zu benutzen.
 -->
 
-Für die Unterstützungsunterschriften ist das [Unterstützer:innenformular](https://th-koeln.sciebo.de/s/Hj46TURV5dqSL9m) zu benutzen.
+Für die Unterstützungsunterschriften ist das [Unterstützer:innenformular](https://th-koeln.sciebo.de/apps/files/?dir=/Wahlen/Wahlausschuss_TH_Koeln/WAS_202X/WAS_2024.2/Info%20Ordner%20%C3%96ffentlichkeit/Infos%20f%C3%BCr%20Kandidat%3Ainnen&fileid=863630614#pdfviewer) zu benutzen.
 
 Für die Studierendenparlamentswahlen können alle Studierenden der Hochschule eine beliebige Wahlvorschlagsliste mit ihrer Unterschrift unterstützen.
 

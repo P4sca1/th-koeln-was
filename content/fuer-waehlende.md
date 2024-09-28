@@ -5,7 +5,7 @@ toc: true
 
 ### Wer darf wählen ?
 
-Alle Studierende der TH Köln, sofern sie vier Wochen vor der Wahl als Ersthörer:innen zum Fachstudium eingeschrieben sind. Wahlberechtigte Studierende sind außerdem im Wähler:innenverzeichnis eingetragen. Die Verzeichnisse können in allen Fakultätssekretariaten, in den Bibliotheken des Campus Südstadt, Campus Deutz, Campus Gummersbach und des Campus Leverkusen im Sekretariat des Sprachlernzentrums, im Institut für Technologie in den Tropen (ITT), dem Cologne Game Lab und in der Geschäftsstelle der Wahlleitung **ab dem 29.04.** eingesehen werden. Es darf nur für die eigene Person angefragt werden. Einsprüche gegen die Richtigkeit dieser Verzeichnisse können bis zum **20.05.** bei der Wahlleitung schriftlich per Smail, Briefpost oder zur Niederschrift erklärt werden. Zweit- und Gasthörer:innen haben kein Wahlrecht.
+Alle Studierende der TH Köln, sofern sie vier Wochen vor der Wahl als Ersthörer:innen zum Fachstudium eingeschrieben sind. Wahlberechtigte Studierende sind außerdem im Wähler:innenverzeichnis eingetragen. Die Verzeichnisse können in allen Fakultätssekretariaten, in den Bibliotheken des Campus Südstadt, Campus Deutz, Campus Gummersbach und des Campus Leverkusen im Sekretariat des Sprachlernzentrums, im Institut für Technologie in den Tropen (ITT), dem Cologne Game Lab und in der Geschäftsstelle der Wahlleitung **ab dem 04.11.** eingesehen werden. Es darf nur für die eigene Person angefragt werden. Einsprüche gegen die Richtigkeit dieser Verzeichnisse können bis zum **24.11.** bei der Wahlleitung schriftlich per Smail, Briefpost oder zur Niederschrift erklärt werden. Zweit- und Gasthörer:innen haben kein Wahlrecht.
 
 ### Wo kann man wählen?
 
@@ -14,14 +14,14 @@ Die Wahl wird standortunabhängig abgehalten. Studierende mit Wahlrecht können 
 **Wahllokalstandorte**
 
 1. **Campus Südstadt**  
-   Ubierring 48, Foyer
-   Claudiusstraße 1, Foyer
+   Ubierring 48
+   Claudiusstraße 1
 
 2. **Campus Deutz**  
-   Betzdorfer Straße 2, Foyer
+   Betzdorfer Straße 2
 
 3. **Campus Gummersbach**  
-   Steinmüllerallee 1, Foyer im Mensagebäude
+   Steinmüllerallee 1
 
 **Öffnungszeiten**  
 Dienstag bis Freitag: 09:30 bis 15:30 Uhr  
@@ -33,7 +33,7 @@ Für Studierende mit Wahlrecht, die nicht vor Ort wählen möchten/können, ist 
 
 ### Wahlzeitung
 
-Die Wahlzeitung findet ihr hier als Download: [Wahlzeitung.pdf](https://github.com/P4sca1/th-koeln-was/files/15266557/Wahlzeitung_240509.pdf)
+Die Wahlzeitung findet ihr hier bald als Download: [Wahlzeitung.pdf]()
 
 ### Unterstützer:in werden
 

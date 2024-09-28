@@ -14,4 +14,4 @@ title: Zeitliche Eckdaten für die studentischen Wahlen 2024
 - **19. November:** Frist zur Beantragung der Briefwahl (12 Uhr)
 - **24. November:** Frist für Einsprüche gegen Richtigkeit des Wähler:innenverzeichnisses (23:59 Uhr)
 - **25. bis 29. November:** Studentische Wahlen
-- **25. November:** Auszählung der Stimmzettel im Anschluss an die Wahl
+- **29. November:** Auszählung der Stimmzettel im Anschluss an die Wahl

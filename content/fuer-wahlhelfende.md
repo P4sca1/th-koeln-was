@@ -47,6 +47,12 @@ Dann nimm gerne am **24.10. um 19 Uhr** an unserem Infotreffen für Wahlhelfer:i
 Die veranstaltung findet über Zoom statt, der Link zum Sitzungsraum folgt in Kürze noch.
 Nutze außerdem gerne das Anmeldeformular über den Anmeldelink weiter unten. Ihr könnt uns im Falle dessen, dass ihr zu dem Treffen nicht kommen könnt, per Smail eine Nachricht mit euren Kontaktdaten (Name, Studiengang, Rufnummer), Tätigkeit (Wahllokal und/oder Stimmauszählung) und dem bevorzugten Standort an unsere unten angegebene E-Mail-Adresse schicken.
 
+Zoom-Link: [Beitreten](https://th-koeln.zoom-x.de/j/63138495807)
+Meeting-ID: 631 1384 5807
+Kenncode: 032887
+
+Anmeldelink: https://t1p.de/ff9l7
+
 ### Kontaktdaten des Wahlausschusses:
 
 E-Mail: WAS@stupa.th-koeln.de

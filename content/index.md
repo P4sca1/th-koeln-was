@@ -19,8 +19,8 @@ Du kannst dich selbst zur Wahl stellen und deine Wünsche und Forderungen in das
 
 Während der Wahlwoche tagt der Wahlausschuss jeden Tag öffentlich um 16 Uhr. (Am 29.11.24 tagt der WAS erst nach der Auszählung.)
 
-Meeting ID: 948 561 2725
-Kenncode: 788504
+Meeting ID: 
+Kenncode: 
 
 Die Auszählung beginnt öffentlich am Freitag, 29.11.24 um 13:30 Uhr im Asta Foyer, am Campus Deutz.
 
@@ -31,7 +31,7 @@ Wenn Ihr nicht nur wählen gehen wollt, sondern auch bei der Wahl mithelfen möc
 
 <!--Die Auslosung der Listenreihenfolge findet am **31.10.24 um 13:30** via Zoom statt.
 
-Meeting ID: 948 561 2725
-Kenncode: 788504-->
+Meeting ID: 683 1831 0538
+Kenncode: -->  25687
 
 <!--_Amtliche Wahlergebnisse werden unter [Wahlergebnisse](/wahlergebnisse) spätestens ab dem 03. Dezember 2024 zu finden sein._-->
