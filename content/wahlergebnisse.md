@@ -8,7 +8,7 @@ Das Wahlergebnis wird auf dieser Seite veröffentlicht.
 
 ## Wahlergebnisse der vergangenen Jahre
 
-Hinweis zum Wahljahr 2019 sowie 2023: Im Nachgang der durchgeführten Studierendenparlamentswahl wurde diese Wahl für ungültig erklärt, da sie vom Präsidenten der Hochschule beanstandet wurde.
+Hinweis zum Wahljahr 2019, sowie 2023: Im Nachgang der durchgeführten Studierendenparlamentswahl wurde diese Wahl für ungültig erklärt, da sie vom Präsidenten der Hochschule beanstandet wurde.
 
 - 
 - :ContentLink{path="/wahlergebnisse/2023/ergebnisse_wahlen_2023.pdf" text="Wahlergebnis von 2023"}

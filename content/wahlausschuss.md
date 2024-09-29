@@ -11,15 +11,15 @@ Der studentische Wahlausschuss des Studierendenparlaments besteht aus fünf Stud
 - Ayse Nur Kirbas (Öffentlichkeitsarbeit)
 - Wiebke Meyer zu Lenzinghausen (Wahlhelfer:innen)
 - Parwaneh Greta Dauner (Briefwahlbeauftragte)
-- Yusuf Akti
-- Levin Löb
+- Yusuf Akti (Stellvertretung)
+- Levin Löb (Stellvertretung)
 
 **Kontakt**  
-Studierende, die mit dem Wahlausschuss per E-Mail kommunizieren, nutzen dabei bitte ausschließlich ihre Smail.
+Studierende, die mit dem Wahlausschuss per E-Mail kommunizieren, nutzen dabei bitte ausschließlich ihre S-mail.
 
 Stud. Wahlausschuss des Studierendenparlaments  
 c/o AStA der Technischen Hochschule Köln
 Betzdorfer Str. 2
 50679 Köln
 
-E-Mail: was@stupa.th-koeln.de
+**E-Mail:** WAS@stupa.th-koeln.de
