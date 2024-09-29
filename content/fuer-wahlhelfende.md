@@ -16,7 +16,7 @@ In deinen Aufgabenbereich würde zum Beispiel fallen,
 
 1. **Wahlhelfer:innen im Wahllokal**
 
-Es gibt insgesamt vier Wahllokale: zwei am Campus in der Südstadt (Ubierring 48,Claudiusstr.), eins am Campus Deutz und eins am Campus Gummersbach.
+Es gibt insgesamt vier Wahllokale: zwei am Campus in der Südstadt (Ubierring 48, Claudiusstr.), eins am Campus Deutz und eins am Campus Gummersbach.
 
 Jedes dieser Wahllokale öffnet Monatgs bis Donnerstags von **09:30 - 15:30 Uhr** und Freitag von **09:30 - 12:30 Uhr**. Das bedeutet, während dieser Zeit müssen die Wahllokale jeweils mit mindestens zwei Wahlhelfer:innen besetzt sein.
 
