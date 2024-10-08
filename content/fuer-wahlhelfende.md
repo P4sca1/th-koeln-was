@@ -56,4 +56,4 @@ Anmeldelink: https://t1p.de/ff9l7
 ### Kontaktdaten des Wahlausschusses:
 
 E-Mail: WAS@stupa.th-koeln.de
-:ContentLink{path="WahlhelferInnen_Stellenanzeigen_2024.2.pdf" text="Stellenanzeige Wahlhelfende"}
+:ContentLink{path="/WahlhelferInnen_Stellenanzeige_2024.2.pdf" text="Stellenanzeige WahlhelferInnen"}
