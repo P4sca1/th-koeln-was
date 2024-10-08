@@ -23,7 +23,7 @@ Zoom Link: https://th-koeln.zoom-x.de/j/65771794913
 Meeting ID: 657 7179 4913
 Kenncode: 743425
 
-Die Auszählung beginnt öffentlich am Freitag, 29.11.2024 **um 13:30 Uhr** im **Asta Foyer, am Campus Deutz**.
+Die Auszählung beginnt öffentlich am Freitag, 29.11.2024 **um 13:30 Uhr** im **Raum HN1-48 in der Halle Nord am Campus Deutz**.
 
 Kontaktdaten, ausführliche Infos zu Kandidatur, Wahllokalen und Durchführung findest du auf dieser Webseite unter den verschiedenen Rubriken und in der [Wahlbekanntmachung] 
 :ContentLink{path="/wahlbekanntmachung_2024.pdf" text="Wahlbekanntmachung"}

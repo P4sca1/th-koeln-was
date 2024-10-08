@@ -27,7 +27,7 @@ Am letzten Wahltag, am Freitag, **den 29.11.2024**, beginnt nach Schließung der
 ### Aufgaben und Arbeitsbedingungen im Detail
 
 - Mindestens zwei Tage in der Wahlwoche verfügbar sein
-- Pünktliches Eröffnen des Wahllokals (Treffpunkt immer 30 Minuten vor Schichtbeginn)
+- Pünktliches Eröffnen des Wahllokals
 - Die Wahlordnung kennen
 - Es müssen immer zwei Wahlhelfende an der Urne sein
 - Bei jeglicher Abwesenheit wird die Wahlurne versiegelt und es erfolgt ein Eintrag in das Wahlprotokoll
@@ -45,7 +45,7 @@ Du erhältst als Aufwandsentschädigung einen Stundenlohn in Höhe von **14,00 E
 
 Dann nimm gerne am **24.10.2024, um 19 Uhr** an unserem Infotreffen für Wahlhelfer:innen teil!
 Die Veranstaltung findet über Zoom statt, der Link zum Sitzungsraum folgt in Kürze.
-Nutze außerdem gerne das Anmeldeformular über den Anmeldelink weiter unten. Ihr könnt uns im Falle dessen, dass ihr zu dem Treffen nicht kommen könnt, per S-mail eine E-mail mit euren **Kontaktdaten** (Name, Studiengang, Rufnummer), **Tätigkeit** (am Wahllokal und/oder Stimmauszählung) und dem **bevorzugten Standort** an unsere unten angegebene E-Mail-Adresse schicken.
+Nutze außerdem gerne das Anmeldeformular über den Anmeldelink weiter unten. Ihr könnt uns im Falle dessen, dass ihr zu dem Treffen nicht kommen könnt, per S-mail eine E-mail mit euren **Kontaktdaten** (Name, Studiengang, Rufnummer, Matrikelnummer), **Tätigkeit** (am Wahllokal und/oder Stimmauszählung) und dem **bevorzugten Standort** an unsere unten angegebene E-Mail-Adresse schicken.
 
 **Die Anmeldung stellt noch keine endgültige Zusage dar; die Auswahl der WahlhelferInnen erfolgt nach dem Ablauf der Anmeldefrist.**
 
