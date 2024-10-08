@@ -15,13 +15,15 @@ Alle erforderlichen Formulare können via Briefpost oder S-mail eingereicht werd
 
 Alle erforderlichen Dokumente sind in unserem [Sciebo-Ordner](https://th-koeln.sciebo.de/s/uHg1Q0XoAGedJBX) zu finden.
 
-<!--
+
 :ContentLink{path="/formulare/wahlvorschlagsformular_stupa_2024.pdf" text="Wahlvorschlagsformular StuPa"} für die Kandidatur für das Studierendenparlament
+
 
 :ContentLink{path="/formulare/wahlvorschlagsformular_fsr_2024.pdf" text="Wahlforschlagsformular FSR"} für die Kandidatur für den Fachschaftsrat
 
+
 :ContentLink{path="/formulare/unterstuetzerinnenformular_2024.pdf" text="Unterstützer:innenformular"}
--->
+
 
 Erforderliche Unterschriften auf allen Formularen sind auch bei digitaler Einreichung via S-mail **stets handschriftlich** (analog unterschreiben & einscannen) auf den jeweiligen Formularen zu unterschreiben. Elektronische Unterschriften werden **nicht** anerkannt.
 
