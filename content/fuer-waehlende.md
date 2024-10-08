@@ -35,7 +35,7 @@ Die Beantragung der Briefwahlunterlagen für die gleichzeitig stattfindenden Gre
 
 ### Wahlzeitung
 
-Die Wahlzeitung findet ihr hier bald als Download: [Wahlzeitung.pdf]()
+Die Wahlzeitung findet ihr hier bald als Download.
 
 ### Unterstützer:in werden
 
