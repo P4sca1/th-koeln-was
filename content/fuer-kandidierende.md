@@ -16,9 +16,11 @@ Alle erforderlichen Formulare können via Briefpost oder S-mail eingereicht werd
 Alle erforderlichen Dokumente sind in unserem [Sciebo-Ordner](https://th-koeln.sciebo.de/s/uHg1Q0XoAGedJBX) zu finden.
 
 <!--
-:ContentLink{path="/formulare/stupa_wahlvorschlagsformular.pdf" text="Wahlvorschlagsformular"} für die Kandidatur für das Studierendenparlament
+:ContentLink{path="/formulare/wahlvorschlagsformular_stupa_2024.pdf" text="Wahlvorschlagsformular StuPa"} für die Kandidatur für das Studierendenparlament
 
-:ContentLink{path="/formulare/unterstuetzer_formular.pdf" text="Unterstützer:innenformular"}
+:ContentLink{path="/formulare/wahlvorschlagsformular_fsr_2024.pdf" text="Wahlforschlagsformular FSR"} für die Kandidatur für den Fachschaftsrat
+
+:ContentLink{path="/formulare/unterstuetzerinnenformular_2024.pdf" text="Unterstützer:innenformular"}
 -->
 
 Erforderliche Unterschriften auf allen Formularen sind auch bei digitaler Einreichung via S-mail **stets handschriftlich** (analog unterschreiben & einscannen) auf den jeweiligen Formularen zu unterschreiben. Elektronische Unterschriften werden **nicht** anerkannt.
@@ -38,10 +40,9 @@ Eine Wahlvorschlagsliste benötigt die folgende Mindestanzahl an Unterschriften 
 - 21 für die Studierendenparlamentswahl
 
 <!--
-Für die Unterstützungsunterschriften ist das :ContentLink{path="/formulare/unterstuetzer_formular.pdf" text="Unterstützer:innenformular"} zu benutzen.
+Für die Unterstützungsunterschriften ist das :ContentLink{path="/formulare/unterstuetzerinnenformular_2024.pdf" text="Unterstützer:innenformular"} zu benutzen.
 -->
 
-Für die Unterstützungsunterschriften ist das [Unterstützer:innenformular](https://th-koeln.sciebo.de/apps/files/?dir=/Wahlen/Wahlausschuss_TH_Koeln/WAS_202X/WAS_2024.2/Info%20Ordner%20%C3%96ffentlichkeit/Infos%20f%C3%BCr%20Kandidat%3Ainnen&fileid=863630614#pdfviewer) zu benutzen.
 
 Für die Studierendenparlamentswahlen können alle Studierenden der Hochschule eine beliebige Wahlvorschlagsliste mit ihrer Unterschrift unterstützen.
 

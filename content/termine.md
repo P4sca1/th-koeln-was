@@ -12,7 +12,7 @@ title: Zeitliche Eckdaten für die studentischen Wahlen 2024
 - **31. Oktober:** Auslosung der Listennummern (Öffentlich, 13:30 Uhr)
 - **01. November:** Bekanntgabe der Listennummern
 - **04. November:** Ab diesem Tag ist die Einsicht in das Wähler:innenverzeichnis möglich
-- **Bekanntgabe folgt noch:** Veröffentlichung der Wahlzeitung
+- **04. November:** Veröffentlichung der Wahlzeitung
 - **19. November:** Frist zur Beantragung der Briefwahl (12 Uhr mittags)
 - **24. November:** Frist für Einsprüche gegen Richtigkeit des Wähler:innenverzeichnisses (23:59 Uhr)
 - **25. bis 29. November:** Studentische Wahlen

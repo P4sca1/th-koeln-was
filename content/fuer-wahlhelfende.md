@@ -47,6 +47,8 @@ Dann nimm gerne am **24.10.2024, um 19 Uhr** an unserem Infotreffen für Wahlhel
 Die Veranstaltung findet über Zoom statt, der Link zum Sitzungsraum folgt in Kürze.
 Nutze außerdem gerne das Anmeldeformular über den Anmeldelink weiter unten. Ihr könnt uns im Falle dessen, dass ihr zu dem Treffen nicht kommen könnt, per S-mail eine E-mail mit euren **Kontaktdaten** (Name, Studiengang, Rufnummer), **Tätigkeit** (am Wahllokal und/oder Stimmauszählung) und dem **bevorzugten Standort** an unsere unten angegebene E-Mail-Adresse schicken.
 
+**Die Anmeldung stellt noch keine endgültige Zusage dar; die Auswahl der WahlhelferInnen erfolgt nach dem Ablauf der Anmeldefrist.**
+
 Zoom-Link: [Beitreten](https://th-koeln.zoom-x.de/j/63138495807)
 Meeting-ID: 631 1384 5807
 Kenncode: 032887
