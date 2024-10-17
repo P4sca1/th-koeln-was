@@ -19,8 +19,9 @@ Alle erforderlichen Dokumente sind in unserem [Sciebo-Ordner](https://th-koeln.s
 :ContentLink{path="/formulare/wahlvorschlagsformular_stupa_2024.pdf" text="Wahlvorschlagsformular StuPa"} für die Kandidatur für das Studierendenparlament
 
 
-:ContentLink{path="/formulare/wahlvorschlagsformular_fsr_2024.pdf" text="Wahlforschlagsformular FSR"} für die Kandidatur für den Fachschaftsrat
+:ContentLink{path="/formulare/wahlvorschlagsformular_fsr_2024.pdf" text="Wahlvorschlagsformular FSR"} für die Kandidatur für den Fachschaftsrat
 
+:ContentLink{path="/formulare/wahlvorschlagsformular_2_fsr_2024.pdf" text="Wahlvorschlagsformular FSR (bei mehr als 12 Wahlvorschlägen)"} für die Kandidatur für den Fachschaftsrat
 
 :ContentLink{path="/formulare/unterstuetzerinnenformular_2024.pdf" text="Unterstützer:innenformular"}
 
