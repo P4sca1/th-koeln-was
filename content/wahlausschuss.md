@@ -11,7 +11,7 @@ Der studentische Wahlausschuss des Studierendenparlaments besteht aus fünf Stud
 - Ayse Nur Kirbas (Öffentlichkeitsarbeit)
 - Wiebke Meyer zu Lenzinghausen (Wahlhelfer:innen)
 - Parwaneh Greta Dauner (Briefwahlbeauftragte)
-- Yusuf Akti (Stellvertretung)
+- Yusuf Akti (Stellvertretung Wahlhelfer:innen)
 - Levin Löb (Stellvertretung)
 
 **Kontakt**  

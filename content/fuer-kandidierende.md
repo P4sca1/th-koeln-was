@@ -50,7 +50,7 @@ Für die Studierendenparlamentswahlen können alle Studierenden der Hochschule e
 
 ### Selbstdarstellung in der Wahlzeitung und auf der Webseite
 
-Der Wahlausschuss wird eine Wahlzeitung herausgeben, für die alle zugelassenen Wahllisten eine Selbstdarstellung einreichen können. Selbstdarstellungen sind bis zum **26.10.2024, um 23:59 Uhr**, via Smail beim Wahlausschuss einzureichen.
+Der Wahlausschuss wird eine Wahlzeitung herausgeben, für die alle zugelassenen Wahllisten eine Selbstdarstellung einreichen können. Selbstdarstellungen sind bis zum **28.10.2024, um 15 Uhr**, via Smail beim Wahlausschuss einzureichen.
 
 **Für die Wahlzeitung gilt**
 Dieses Jahr wird die Wahlzeitung als PDF-Dokument in Onlineform erscheinen. Selbstdarstellungen sollten als **PDF-Datei im DIN-A4 Format** per S-Mail bei uns eingereicht werden. Die Listen für die Stupa-Wahl haben **zwei DIN-A4** Seiten Platz. Wir freuen uns auf eure Einsendungen!
@@ -61,12 +61,12 @@ Gemäß dem Beschluss des Wahlausschusses ist es den Fachschaften **untersagt**,
 
 Um sicherzustellen, dass dieser Beschluss reibungslos umgesetzt wird, wurden folgende Fristen festgelegt:
 
-Wahlwerbung der Listen muss bis zum **26. Oktober 2024** beim Wahlausschuss eingehen:
+Wahlwerbung der Listen muss bis zum **28. Oktober 2024** beim Wahlausschuss eingehen:
 Stud. Wahlausschuss des Studierendenparlaments
 c/o AStA der TH Köln
 Betzdorfer Str. 2, 50679 Köln
 
-Die erhaltenen Pakete werden versiegelt und bis zum **30. Oktober 2024** vom Wahlorganisationsteam an die einzelnen FSR verschickt. Bitte sendet uns eine **gesonderte S-Mail** an WAS@stupa.th-koeln.de, um anzugeben, wie viele eurer Infomaterialien an welchen FSR gehen sollen.
+Die erhaltenen Pakete werden versiegelt und bis zum **04. November 2024** vom Wahlorganisationsteam an die einzelnen FSR verschickt. Bitte sendet uns eine **gesonderte S-Mail** an WAS@stupa.th-koeln.de, um anzugeben, wie viele eurer Infomaterialien an welchen FSR gehen sollen.
 Wir danken euch für eure Kooperation und Unterstützung bei der Umsetzung dieser Maßnahme.
 
 In der :ContentLink{path="/wahlzeitungen/wahlzeitung_2021.pdf" text="Wahlzeitung 2021"} sind beispielhaft die Selbstdarstellung aller Kandidierenden aus 2021 zu finden.
