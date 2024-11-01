@@ -1,6 +1,6 @@
 
 ---
-Zeitliche Eckdaten für die studentischen Wahlen 2024
+title: Zeitliche Eckdaten für die studentischen Wahlen 2024
 ---
 
 [alle Termine finden im Jahr 2024 statt]
