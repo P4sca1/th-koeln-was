@@ -35,7 +35,7 @@ Zoom-Link: [Beitreten](https://th-koeln.zoom-x.de/j/68318310538)
 Meeting-ID: 683 1831 0538
 Kenncode: 25687
 
-
+:ContentLink{path="/ergebnis_listennummern_2024.pdf" text="Ergebnis der Auslosung"}
 
 ### Unterstützerinnen und Unterstützer
 
