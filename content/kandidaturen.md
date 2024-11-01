@@ -1,7 +1,7 @@
 ---
 title: Kandidaturen für die Wahlen 2024
 ---
- Die Kandidaturen findet ihr in Kürze hier:
+ Die Kandidaturen findet ihr hier:
 
 :ContentLink{path="/kandidatenlisten_fsr_stupa_2024.pdf" text="Kandidaturen FSR und StuPa 2024"}
 
