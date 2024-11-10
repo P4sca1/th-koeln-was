@@ -2,7 +2,7 @@
 title: Wahlausschuss
 ---
 
-Der studentische Wahlausschuss des Studierendenparlaments besteht aus fünf Studierenden und zwei Stellvertretern, welche gemeinsam die studentischen Wahlen organisieren.
+Der studentische Wahlausschuss des Studierendenparlaments besteht aus fünf Studierenden und einer Stellvertretung, welche gemeinsam die studentischen Wahlen organisieren.
 
 **Mitglieder im stud. Wahlausschuss**
 
@@ -10,8 +10,7 @@ Der studentische Wahlausschuss des Studierendenparlaments besteht aus fünf Stud
 - Naomi Stefanie Milbers (stellvertretende Wahlleitung)
 - Ayse Nur Kirbas (Öffentlichkeitsarbeit)
 - Wiebke Meyer zu Lenzinghausen (Wahlhelfer:innen)
-- Parwaneh Greta Dauner (Briefwahlbeauftragte)
-- Yusuf Akti (Stellvertretung Wahlhelfer:innen)
+- Yusuf Akti (Wahlhelfer:innen)
 - Levin Löb (Stellvertretung)
 
 **Kontakt**  
