@@ -17,13 +17,13 @@ Du kannst dich selbst zur Wahl stellen und deine Wünsche und Forderungen in das
 
 <!--Du kannst einem der Wahllokale in der Woche vom **25.11.24 - 29.11.24** einen Besuch abstatten und wählst deine:n Kandidierende:n für das StuPa und FSR.-->
 
-Während der Wahlwoche tagt der Wahlausschuss jeden Tag öffentlich um **16 Uhr**. (Am 29.11.2024 tagt der WAS erst nach der Auszählung.)
+Während der Wahlwoche tagt der Wahlausschuss jeden Tag öffentlich um **16 Uhr**. (Am 29.11.2024 tagt der WAS erst nach der Stimmenauszählung.)
 
 Zoom Link: https://th-koeln.zoom-x.de/j/65771794913
 Meeting ID: 657 7179 4913
 Kenncode: 743425
 
-Die Auszählung beginnt öffentlich am Freitag, 29.11.2024 **um 13:30 Uhr** im **Raum HN1-48 in der Halle Nord am Campus Deutz**.
+Die Auszählung beginnt öffentlich am Freitag, den 29.11.2024 **um 13:30 Uhr** im **Raum ZN4-1 im Zentralgebäude, auf der Ebene 4 am Campus Deutz**.
 
 Kontaktdaten, ausführliche Infos zu Kandidatur, Wahllokalen und Durchführung findest du auf dieser Webseite unter den verschiedenen Rubriken und in der [Wahlbekanntmachung] 
 :ContentLink{path="/wahlbekanntmachung_2024.pdf" text="Wahlbekanntmachung"}
