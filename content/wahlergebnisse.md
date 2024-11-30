@@ -4,7 +4,7 @@ title: Wahlergebnisse
 
 ## Wahlergebnis 2024
 
-Das Wahlergebnis wird auf dieser Seite veröffentlicht.
+- :ContentLink{path="/wahlergebnisse/2024/vorlaeufiges_wahlergebnis_2024.pdf" text="vorläufiges Wahlergebnis von 2024"}
 
 ## Wahlergebnisse der vergangenen Jahre
 
