@@ -9,8 +9,8 @@ Der studentische Wahlausschuss des Studierendenparlaments besteht aus fünf Stud
 - Tiffany Reimer (Wahlleitung)
 - Naomi Stefanie Milbers (stellvertretende Wahlleitung)
 - Ayse Nur Kirbas (Öffentlichkeitsarbeit)
-- Wiebke Meyer zu Lenzinghausen (Wahlhelfer:innen)
-- Yusuf Akti (Wahlhelfer:innen)
+- Wiebke Meyer zu Lenzinghausen (Wahlhelfer:innen Organisation)
+- Yusuf Akti (Wahlhelfer:innen Organisation)
 - Levin Löb (Stellvertretung)
 
 **Kontakt**  

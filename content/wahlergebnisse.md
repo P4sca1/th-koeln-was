@@ -4,7 +4,7 @@ title: Wahlergebnisse
 
 ## Wahlergebnis 2024
 
-- :ContentLink{path="/wahlergebnisse/2024/vorlaeufiges_wahlergebnis_2024.pdf" text="vorläufiges Wahlergebnis von 2024"}
+- :ContentLink{path="/wahlergebnisse/2024/wahlergebnisse_2024.pdf" text="Wahlergebnis von 2024"}
 
 ## Wahlergebnisse der vergangenen Jahre
 
