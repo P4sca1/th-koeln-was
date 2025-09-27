@@ -33,7 +33,7 @@ jobs:
         run: pnpm generate
 
       - name: Upload generated Website
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: www.stupa.th-koeln.de
           path: .output/public
