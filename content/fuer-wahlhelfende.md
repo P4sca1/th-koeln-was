@@ -3,6 +3,8 @@ title: Für Wahlhelfende
 toc: true
 ---
 
+Infos folgen
+<!--
 ### Wofür werden Wahlhelfer:innen gesucht?
 
 Es werden Studierende gesucht, die den Wahlausschuss bei der Durchführung der studentischen Wahlen vom **25.11. bis zum 29.11.2024** unterstützen.
@@ -58,4 +60,4 @@ Anmeldelink: https://t1p.de/ff9l7
 ### Kontaktdaten des Wahlausschusses:
 
 E-Mail: WAS@stupa.th-koeln.de
-:ContentLink{path="/wahlhelferinnen_stellenanzeigen_2024.pdf" text="Stellenanzeige WahlhelferInnen"}
+:ContentLink{path="/wahlhelferinnen_stellenanzeigen_2024.pdf" text="Stellenanzeige WahlhelferInnen"} -->
