@@ -1,10 +1,10 @@
 ---
-title: Studentische Wahlen 2024
+title: Studentische Wahlen 2025
 ---
 
 <!-- **!! DU BIST GEFRAGT !!** -->
 
-Auch dieses Jahr finden wieder die studentischen Gremienwahlen vom **25.11. - 29.11.2024** statt. Gewählt wird:
+Auch dieses Jahr finden wieder die studentischen Gremienwahlen vom **01.12. - 05.12.2025** statt. Die Wahl findet elektronisch statt. Gewählt wird:
 
 - **Dein Studierendenparlament (kurz StuPa)**  
   Es ist das höchste beschlussfassende Wahlgremium der Studierendenschaft und für die Selbstverwaltung der Studierenden zuständig.
@@ -15,26 +15,29 @@ Auch dieses Jahr finden wieder die studentischen Gremienwahlen vom **25.11. - 29
 
 Du kannst dich selbst zur Wahl stellen und deine Wünsche und Forderungen in das Hochschulleben einbringen.
 
-<!--Du kannst einem der Wahllokale in der Woche vom **25.11.24 - 29.11.24** einen Besuch abstatten und wählst deine:n Kandidierende:n für das StuPa und FSR.-->
+-Du kannst online wählen oder in einem der Wahllokale in der Woche vom **01.12.25 - 05.12.25** einen Besuch abstatten und wählst deine:n Kandidierende:n für das StuPa und FSR.
 
-Während der Wahlwoche tagt der Wahlausschuss jeden Tag öffentlich um **16 Uhr**. (Am 29.11.2024 tagt der WAS erst nach der Stimmenauszählung.)
+Während der Wahlwoche tagt der Wahlausschuss jeden Tag öffentlich um **15 Uhr**. (Am 05.12.2025 tagt der WAS erst nach der Stimmenauszählung.)
 
-Zoom Link: https://th-koeln.zoom-x.de/j/65771794913
-Meeting ID: 657 7179 4913
-Kenncode: 743425
+Zoom Link: https://th-koeln.zoom-x.de/j/64960871407
 
-Die Auszählung beginnt öffentlich am Freitag, den 29.11.2024 **um 13:30 Uhr** im **Raum ZN4-1 im Zentralgebäude, auf der Ebene 4 am Campus Deutz**.
+Meeting ID: 649 6087 1407
+
+Kenncode: 481897 
+
+Die Auszählung beginnt öffentlich am Freitag, den 05.12.2025 am **Campus Deutz**.
 
 Kontaktdaten, ausführliche Infos zu Kandidatur, Wahllokalen und Durchführung findest du auf dieser Webseite unter den verschiedenen Rubriken und in der [Wahlbekanntmachung] 
 :ContentLink{path="/wahlbekanntmachung_2024.pdf" text="Wahlbekanntmachung"}
 
 Außerdem können wichtige Dokumente in unserem [Sciebo-Ordner](https://th-koeln.sciebo.de/s/uHg1Q0XoAGedJBX) eingesehen werden.
 
-Wenn Ihr nicht nur wählen gehen wollt, sondern auch bei der Wahl mithelfen möchtet, seid Ihr hiermit herzlich zum Informationstreffen für Wahlhelfer:innen am **24.10.2024, um 19 Uhr** eingeladen! Weitere Infos dazu unter [Für Wahlhelfende](/fuer-wahlhelfende).
+-Die Auslosung der Listenreihenfolge findet am **06.11.25 um 13 Uhr** via Zoom statt.
 
-<!--Die Auslosung der Listenreihenfolge findet am **31.10.24 um 13:30** via Zoom statt.
+Zoom Link: https://th-koeln.zoom-x.de/j/62898756681
 
-Meeting ID: 683 1831 0538
-Kenncode: -->  25687
+Meeting ID: 628 9875 6681
 
-<!--_Amtliche Wahlergebnisse werden unter [Wahlergebnisse](/wahlergebnisse) spätestens ab dem 03. Dezember 2024 zu finden sein._-->
+Kenncode: 481098
+
+-Amtliche Wahlergebnisse werden unter [Wahlergebnisse](/wahlergebnisse) spätestens ab dem 09. Dezember 2025 zu finden sein.
