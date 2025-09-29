@@ -1,5 +1,5 @@
 ---
-title: Wahlausschuss
+title: Wahlausschuss 2025
 ---
 
 Der studentische Wahlausschuss des Studierendenparlaments besteht aus fünf Studierenden und drei Stellvertretungen, welche gemeinsam die studentischen Wahlen organisieren.
