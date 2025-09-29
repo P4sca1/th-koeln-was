@@ -1,7 +1,9 @@
 ---
-title: Kandidaturen für die Wahlen 2024
+title: Kandidaturen für die Wahlen 2025
 ---
- Die Kandidaturen findet ihr hier:
+
+Wird im November nach der jeweiligen Fristen veröffentlicht
+<!-- Die Kandidaturen findet ihr hier:
 
 - :ContentLink{path="/kandidatenlisten_fsr_stupa_2024.pdf" text="Kandidaturen FSR und StuPa 2024"}
 
@@ -9,4 +11,4 @@ title: Kandidaturen für die Wahlen 2024
 
 Die Wahlzeitung findet ihr hier:
 
-:ContentLink{path="/wahlzeitungen/wahlzeitung_2024.pdf" text="Wahlzeitung 2024"}
+:ContentLink{path="/wahlzeitungen/wahlzeitung_2024.pdf" text="Wahlzeitung 2024"} -->
