@@ -1,5 +1,5 @@
 ---
-title: Kandidaturen für die Wahlen 2025
+title: Kandidaturen für die Wahlen 2024
 ---
  Die Kandidaturen findet ihr hier:
 
