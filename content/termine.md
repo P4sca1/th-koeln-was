@@ -1,11 +1,11 @@
 
 ---
-Zeitliche Eckdaten für die studentischen Wahlen 2024
+Zeitliche Eckdaten für die studentischen Wahlen 2025
 ---
 
-[alle Termine finden im Jahr 2024 statt]
+[alle Termine finden im Jahr 2025 statt]
 
-- **27. September:** Veröffentlichung der Wahlbekanntmachung
+- **29. September:** Veröffentlichung der Wahlbekanntmachung
 - **24. Oktober:** Informationstreffen für Wahlhelfer:innen (20 Uhr)
 - **25. Oktober:** Ausschlussfrist der Wahlvorschläge (12 Uhr mittags)
 - **28. Oktober:** Frist für das Einreichen der Selbstdarstellungen für die Wahlzeitung (15 Uhr)
