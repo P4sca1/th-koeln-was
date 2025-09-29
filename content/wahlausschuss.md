@@ -2,7 +2,7 @@
 title: Wahlausschuss
 ---
 
-Der studentische Wahlausschuss des Studierendenparlaments besteht aus fünf Studierenden und drei Stellvertreter, welche gemeinsam die studentischen Wahlen organisieren.
+Der studentische Wahlausschuss des Studierendenparlaments besteht aus fünf Studierenden und drei Stellvertretungen, welche gemeinsam die studentischen Wahlen organisieren.
 
 **Mitglieder im stud. Wahlausschuss**
 
