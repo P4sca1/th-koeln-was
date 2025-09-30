@@ -29,14 +29,14 @@ Freitag: 10 bis 12:30 Uhr
 
 ### Briefwahl
 
-Für Studierende mit Wahlrecht, die nicht vor Ort wählen möchten/können, ist es möglich, Briefwahlunterlagen bis spätestens den **19.11.2024, um 12 Uhr mittags** beim studentischen Wahlausschuss zu beantragen. Die formlose Beantragung erfolgt, bitte möglichst frühzeitig, schriftlich oder per S-mail für die eigene Person. Weitere Informationen, siehe Rubrik **'Briefwahl'.** 
+Für Studierende mit Wahlrecht, die nicht vor Ort oder Online wählen möchten/können, ist es möglich, Briefwahlunterlagen bis spätestens den **25.11.2025, um 12 Uhr mittags** beim studentischen Wahlausschuss zu beantragen. Die formlose Beantragung erfolgt, bitte möglichst frühzeitig, schriftlich oder per S-mail für die eigene Person. Weitere Informationen, siehe Rubrik **'Briefwahl'.** 
 Die Beantragung der Briefwahlunterlagen für die gleichzeitig stattfindenden Gremienwahlen zu den Fakultätsräten erfolgt separat, siehe ebenfalls Rubrik **'Briefwahl'.**
 
 ### Wahlzeitung
 
-Die Wahlzeitung findet ihr hier als Download:
+Die Wahlzeitung findet ihr hier ab dem 10.11.2025 als Download:
 
-:ContentLink{path="/wahlzeitungen/wahlzeitung_2024.pdf" text="Wahlzeitung 2024"}
+<!-- :ContentLink{path="/wahlzeitungen/wahlzeitung_2024.pdf" text="Wahlzeitung 2024"} -->
 
 ### Unterstützer:in werden
 
