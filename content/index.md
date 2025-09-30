@@ -19,10 +19,8 @@ Du kannst dich selbst zur Wahl stellen und deine Wünsche und Forderungen in das
 
 Während der Wahlwoche tagt der Wahlausschuss jeden Tag öffentlich um **15 Uhr**. (Am 05.12.2025 tagt der WAS erst nach der Stimmenauszählung.)
 
-Zoom Link: https://th-koeln.zoom-x.de/j/64960871407
-
-Meeting ID: 649 6087 1407
-
+Zoom Link: https://th-koeln.zoom-x.de/j/64960871407  
+Meeting ID: 649 6087 1407  
 Kenncode: 481897 
 
 Die Auszählung beginnt öffentlich am Freitag, den 05.12.2025 am **Campus Deutz**.
@@ -34,10 +32,8 @@ Außerdem können wichtige Dokumente in unserem [Sciebo-Ordner](https://th-koeln
 
 -Die Auslosung der Listenreihenfolge findet am **06.11.25 um 13 Uhr** via Zoom statt.
 
-Zoom Link: https://th-koeln.zoom-x.de/j/62898756681
-
-Meeting ID: 628 9875 6681
-
+Zoom Link: https://th-koeln.zoom-x.de/j/62898756681  
+Meeting ID: 628 9875 6681  
 Kenncode: 481098
 
 -Amtliche Wahlergebnisse werden unter [Wahlergebnisse](/wahlergebnisse) spätestens ab dem 09. Dezember 2025 zu finden sein.
