@@ -13,6 +13,7 @@ Wahlberechtigte Studierende sind außerdem **im Wähler:innenverzeichnis eingetr
 Die Wahl wird als Online-Wahl (elektronisch) abgehalten. Studierende erhalten auch die Möglichkeit vor Ort, in einem der Wahllokale, über bereitgestellte Laptops oder Computer ihre Stimme abzugeben. Alternativ ist es möglich, Briefwahl für sich zu beantragen.
 
 **Wahlzeiten (online)**
+
 Vom 01.12.2025, 10 Uhr bis zum 05.12.2025, um 12:30 Uhr.
 
 **Wahllokalstandorte**
