@@ -13,7 +13,7 @@ Zur Kandidatur ist ein korrekt ausgefülltes Wahlvorschlagsformular sowie dazuge
 
 Alle erforderlichen Formulare können via Briefpost oder S-mail eingereicht werden. Für die Fristwahrung ist der Eingang der ausgefüllten Formulare beim Wahlausschuss maßgebend. Später eingehende Formulare finden **keine** Berücksichtigung mehr.
 
-Alle erforderlichen Dokumente sind in unserem [Sciebo-Ordner](https://th-koeln.sciebo.de/s/uHg1Q0XoAGedJBX) zu finden.
+Alle erforderlichen Dokumente sind in unserem [Sciebo-Ordner](https://th-koeln.sciebo.de/s/t8SoFrD7PsqY94J) zu finden.
 
 
 :ContentLink{path="/formulare/wahlvorschlagsformular_stupa_2024.pdf" text="Wahlvorschlagsformular StuPa"} für die Kandidatur für das Studierendenparlament
