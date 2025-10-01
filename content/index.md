@@ -26,7 +26,7 @@ Kenncode: 481897
 Die Auszählung beginnt öffentlich am Freitag, den 05.12.2025 am **Campus Deutz**.
 
 Kontaktdaten, ausführliche Infos zu Kandidatur, Wahllokalen und Durchführung findest du auf dieser Webseite unter den verschiedenen Rubriken und in der [Wahlbekanntmachung] 
-:ContentLink{path="/wahlbekanntmachung_2024.pdf" text="Wahlbekanntmachung"}
+:ContentLink{path="/wahlbekanntmachung_2025.pdf" text="Wahlbekanntmachung"}
 
 Außerdem können wichtige Dokumente in unserem [Sciebo-Ordner](https://th-koeln.sciebo.de/s/t8SoFrD7PsqY94J) eingesehen werden.
 
