@@ -2,7 +2,7 @@
 title: Kandidaturen für die Wahlen 2025
 ---
 
-Wird im November nach der jeweiligen Fristen veröffentlicht
+Wird im November nach den jeweiligen Fristen veröffentlicht
 <!-- Die Kandidaturen findet ihr hier:
 
 - :ContentLink{path="/kandidatenlisten_fsr_stupa_2024.pdf" text="Kandidaturen FSR und StuPa 2024"}
