@@ -13,6 +13,6 @@ Zeitliche Eckdaten für die studentischen Wahlen 2025
 - **10. November:** Ab diesem Tag ist die Einsicht in das Wähler:innenverzeichnis für eine Woche möglich
 - **10. November:** Veröffentlichung der Wahlzeitung
 - **25. November:** Frist zur Beantragung der Briefwahl (12 Uhr mittags)
-<!-- **30. November:** Frist für Einsprüche gegen Richtigkeit des Wähler:innenverzeichnisses (23:59 Uhr)-->
+- **30. November:** Frist für Einsprüche gegen Richtigkeit des Wähler:innenverzeichnisses
 - **01. bis 05. Dezember:** Studentische Wahlen
 - **05. Dezember:** Auszählung der Stimmzettel im Anschluss an die Wahl
