@@ -2,8 +2,34 @@
 title: Für Wahlhelfende
 toc: true
 ---
+### Bewerbung als Wahlhelfer*innen 2025
 
-Infos folgen
+Vielen Dank für euer Interesse an der Mitarbeit bei den studentischen Wahlen!
+
+Die Wahlen finden in diesem Jahr elektronisch statt. An den Standorten Deutz und Südstadt (Ubierring) werden Computer bereitgestellt, an denen die Studierenden vor Ort ihre Stimme abgeben können.
+
+Eure Aufgabe als Wahlhelfer*innen ist es, vor Ort ansprechbar zu sein, den Ablauf kurz zu erklären und bei Fragen zu unterstützen. Genauere Arbeitsanweisungen erhaltet ihr rechtzeitig vor der Wahl.
+
+Die Einsatzzeiten sind von Montag bis Donnerstag jeweils 9:30 Uhr bis 14:30 Uhr und am Freitag von 9:30 Uhr bis 13:00 Uhr. Im Anschluss an die Wahl findet am Freitag die Stimmauszählung statt.
+
+Studierende, die selbst kandidieren, können **nicht** als Wahlhelferinnen tätig sein. 
+
+Die Tätigkeit wird vergütet: Wahlhelferinnen erhalten 15 € pro Stunde, Springer*innen 7 € pro Stunde.
+
+Da wir nur zwei Standorte haben, stehen deutlich weniger Plätze als in den Vorjahren zur Verfügung. Es kann daher sein, dass wir nicht alle Bewerbungen berücksichtigen können. 
+
+Wenn ihr uns unterstützen möchtet, bewirbt euch bitte über dieses Formular bis zum **16. Oktober 2025.** Wir melden uns zeitnah mit einer Zu- oder Absage bei euch.
+
+Vielen Dank für eure Unterstützung! Bei wichtigen Angelegenheiten oder Fragen könnt ihr uns jederzeit über unsere **E-Mail** erreichen.
+
+Julia Kniewel und Emine-Nur Akti   
+Wahlhelfer-Organisation 2025   
+WAS@stupa.th-koeln.de
+
+
+### Haben wir dein Interesse geweckt?
+
+Dann bewirb dich hier: [Bewerbung als Wahlhelfer*innen 2025](https://docs.google.com/forms/d/e/1FAIpQLScPAY1T9Nrw5qlZYgSzYlvdwn7DifJ3XOrOHaQl0Ha5LVSCiA/viewform)
 <!--
 ### Wofür werden Wahlhelfer:innen gesucht?
 
