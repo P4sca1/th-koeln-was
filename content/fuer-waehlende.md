@@ -6,14 +6,14 @@ toc: true
 ### Wer darf wählen ?
 
 Alle Studierende der TH Köln, sofern sie vier Wochen vor der Wahl als Ersthörer:innen zum Fachstudium eingeschrieben sind, dürfen wählen. 
-Wahlberechtigte Studierende sind außerdem **im Wähler:innenverzeichnis eingetragen.** Die Verzeichnisse können in allen Fakultätssekretariaten, in den Bibliotheken des Campus Südstadt, Campus Deutz, Campus Gummersbach und des Campus Leverkusen im Sekretariat des Sprachlernzentrums, im Institut für Technologie in den Tropen (ITT), dem Cologne Game Lab und in der Geschäftsstelle der Wahlleitung **ab dem 04.11.2024** eingesehen werden. Es darf nur für die eigene Person angefragt werden. Einsprüche gegen die Richtigkeit dieser Verzeichnisse können bis zum **24.11.2024** bei der Wahlleitung schriftlich per S-mail, Briefpost oder zur Niederschrift erklärt werden. Zweit- und Gasthörer:innen haben **kein** Wahlrecht.
+Wahlberechtigte Studierende sind außerdem **im Wähler:innenverzeichnis eingetragen.** Die Verzeichnisse können in allen Fakultätssekretariaten, in den Bibliotheken des Campus Südstadt, Campus Deutz, Campus Gummersbach und des Campus Leverkusen im Sekretariat des Sprachlernzentrums, im Institut für Technologie in den Tropen (ITT), dem Cologne Game Lab und in der Geschäftsstelle der Wahlleitung **ab dem 10.11.2025** eingesehen werden. Es darf nur für die eigene Person angefragt werden. Einsprüche gegen die Richtigkeit dieser Verzeichnisse können bis zum **30.11.2025** bei der Wahlleitung schriftlich per S-mail, Briefpost oder zur Niederschrift erklärt werden. Zweit- und Gasthörer:innen haben **kein** Wahlrecht.
 
 ### Wo kann man wählen?
 
-Die Wahl wird als Online-Wahl (elektronisch) abgehalten. Studierende erhalten auch die Möglichkeit vor Ort, in einem der Wahllokale, über bereitgestellte Laptops oder Computer ihre Stimme abzugeben. Alternativ ist es möglich, Briefwahl für sich zu beantragen.
+Die Wahl findet elektronisch statt. Wahlberechtigte erhalten rechtzeitig per E-Mail einen persönlichen Link, mit dem sie im Wahlzeitraum ihre Stimme abgeben können. Studierende mit Wahlrecht erhalten auch die Möglichkeit vor Ort, in einem der Wahllokale, über bereitgestellte Laptops oder Computer ihre Stimme abzugeben. Alternativ ist es frühzeitig möglich, Briefwahl für sich zu beantragen.
 
-**Wahlzeiten (online)**  
-Vom 01.12.2025, 10 Uhr bis zum 05.12.2025, um 12:30 Uhr.
+**Elektronische Stimmabgabe**  
+Durchgehend von Montag, den 01.12.2025, 10 Uhr bis Freitag, den 05.12.2025, um 12:30 Uhr.
 
 **Wahllokalstandorte**
 
