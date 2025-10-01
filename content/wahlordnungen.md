@@ -2,17 +2,17 @@
 title: Wahlordnungen
 ---
 
-**Durchführungsbestimmung 2024:**
+**Durchführungsbestimmung 2025:**
 
-:ContentLink{path="/wahlordnungen/durchfuehrungsbestimmungen_2024.pdf" text="Durchführungsbestimmung"}
+:ContentLink{path="/wahlordnungen/durchfuehrungsbestimmungen_2025.pdf" text="Durchführungsbestimmung"}
 
-**Wahlordnungen Studierendenparlament 2024:**
+**Wahlordnungen Studierendenparlament 2025:**
 
 - :ContentLink{path="/wahlordnungen/wahlordnung_stupa_2023.pdf" text="Wahlordnung für die Wahl zum Studierendenparlament"}
 
 - :ContentLink{path="/wahlordnungen/aenderung_zur_satzung_260924_stupa.pdf" text="Änderungssatzungen für die Wahl zum Studierendenparlament vom 26.09.2024"}
 
-**Wahlordnungen Fachschaftsräte 2024:**
+**Wahlordnungen Fachschaftsräte 2025:**
 
 - :ContentLink{path="/wahlordnungen/wahlordnung_fsr.pdf" text="Wahlordnung für die Wahl zum Fachschaftsrat"}
 
