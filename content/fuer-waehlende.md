@@ -6,7 +6,7 @@ toc: true
 ### Wer darf wählen ?
 
 Alle Studierende der TH Köln, sofern sie vier Wochen vor der Wahl als Ersthörer:innen zum Fachstudium eingeschrieben sind, dürfen wählen. 
-Wahlberechtigte Studierende sind außerdem **im Wähler:innenverzeichnis eingetragen.** Die Verzeichnisse können in allen Fakultätssekretariaten, in den Bibliotheken des Campus Südstadt, Campus Deutz, Campus Gummersbach und des Campus Leverkusen im Sekretariat des Sprachlernzentrums, im Institut für Technologie in den Tropen (ITT), dem Cologne Game Lab und in der Geschäftsstelle der Wahlleitung **ab dem 10.11.2025** eingesehen werden. Es darf nur für die eigene Person angefragt werden. Einsprüche gegen die Richtigkeit dieser Verzeichnisse können bis zum **30.11.2025** bei der Wahlleitung schriftlich per S-mail, Briefpost oder zur Niederschrift erklärt werden. Zweit- und Gasthörer:innen haben **kein** Wahlrecht.
+Wahlberechtigte Studierende sind außerdem **im Wähler:innenverzeichnis eingetragen.** Die Verzeichnisse können in allen Fakultätssekretariaten **ab dem 10.11.2025** für eine Woche eingesehen werden. Es darf nur für die eigene Person angefragt werden. Einsprüche gegen die Richtigkeit dieser Verzeichnisse können bis zum **30.11.2025** bei der Wahlleitung schriftlich per S-mail, Briefpost oder zur Niederschrift erklärt werden. Zweit- und Gasthörer:innen haben **kein** Wahlrecht.
 
 ### Wo kann man wählen?
 
