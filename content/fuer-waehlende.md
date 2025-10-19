@@ -19,7 +19,6 @@ Durchgehend von Montag, den 01.12.2025, 10 Uhr bis Freitag, den 05.12.2025, um 1
 
 1. **Campus Südstadt**  
    Ubierring 48
-   Claudiusstraße 1
 
 2. **Campus Deutz**  
    Betzdorfer Straße 2
