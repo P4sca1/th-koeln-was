@@ -10,11 +10,13 @@ Wahlberechtigte Studierende sind außerdem **im Wähler:innenverzeichnis eingetr
 
 ### Wo kann man wählen?
 
-Die Wahl findet elektronisch statt. Wahlberechtigte erhalten rechtzeitig per E-Mail einen persönlichen Link, mit dem sie im Wahlzeitraum ihre Stimme abgeben können. Studierende mit Wahlrecht erhalten auch die Möglichkeit vor Ort, in einem der Wahllokale, über bereitgestellte Laptops oder Computer ihre Stimme abzugeben. Alternativ ist es frühzeitig möglich, Briefwahl für sich zu beantragen.
+Die Wahl findet elektronisch statt. Wahlberechtigte erhalten rechtzeitig per E-Mail einen persönlichen Link, mit dem sie im Wahlzeitraum ihre Stimme abgeben können. Studierende mit Wahlrecht erhalten auch die Möglichkeit vor Ort, in einem der Wahllokale, über bereitgestellte Laptops oder Computer online ihre Stimme abzugeben. Alternativ ist es frühzeitig möglich, Briefwahl für sich zu beantragen.
 
 **Elektronische Stimmabgabe**  
-Durchgehend von Montag, den 01.12.2025, 10 Uhr bis Freitag, den 05.12.2025, um 12:30 Uhr.
+Durchgehend online von Montag, den 01.12.2025, 10 Uhr bis Freitag, den 05.12.2025, um 12:30 Uhr.
 
+**Elektronische Stimmabgabe im Wahllokal**   
+  
 **Wahllokalstandorte**
 
 1. **Campus Südstadt**  
