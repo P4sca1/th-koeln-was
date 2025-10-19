@@ -4,7 +4,7 @@ title: Wahlordnungen
 
 **Durchführungsbestimmung 2025:**
 
-:ContentLink{path="/wahlordnungen/Durchführungsbestimmungen 2025.pdf" text="Durchführungsbestimmung"}
+:ContentLink{path="/wahlordnungen/Durchführungsbestimmungen 2025 .pdf" text="Durchführungsbestimmung"}
 
 **Wahlordnungen Studierendenparlament 2025:**
 
