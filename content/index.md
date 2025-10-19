@@ -23,7 +23,7 @@ Zoom Link: https://th-koeln.zoom-x.de/j/64960871407
 Meeting ID: 649 6087 1407  
 Kenncode: 481897 
 
-Die Auszählung beginnt öffentlich am Freitag, den 05.12.2025 am **Campus Deutz**.
+Die Auszählung beginnt öffentlich am Freitag, den 05.12.2025 am **Campus Südstadt**, im Raum 211 im Gebäude Ubierring 48.
 
 Kontaktdaten, ausführliche Infos zu Kandidatur, Wahllokalen und Durchführung findest du auf dieser Webseite unter den verschiedenen Rubriken und in der [Wahlbekanntmachung] 
 :ContentLink{path="/Wahlbekanntmachung 2025.pdf" text="Wahlbekanntmachung"}
