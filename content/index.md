@@ -17,7 +17,7 @@ Du kannst dich selbst zur Wahl stellen und deine Wünsche und Forderungen in das
 
 -Du kannst online wählen oder in einem der Wahllokale in der Woche vom **01.12.25 - 05.12.25** einen Besuch abstatten und wählst deine:n Kandidierende:n für das StuPa und FSR.
 
-Während der Wahlwoche tagt der Wahlausschuss jeden Tag öffentlich um **15 Uhr**. (Am 05.12.2025 tagt der WAS erst nach der Stimmenauszählung.)
+Während der Wahlwoche tagt der Wahlausschuss jeden Tag öffentlich um **14:30 Uhr**. (Am 05.12.2025 tagt der WAS erst nach der Stimmenauszählung.)
 
 Zoom Link: https://th-koeln.zoom-x.de/j/64960871407  
 Meeting ID: 649 6087 1407  
