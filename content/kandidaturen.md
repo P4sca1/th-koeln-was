@@ -4,7 +4,7 @@ title: Kandidaturen für die Wahlen 2025
 
 Die Ergebnisse zu der Auslosung vom 06.11.2025 findet ihr hier:
 
-- :ContentLink{path="/ergebnis_listennummern_2025.pdf" text="Ergebnis der Auslosung"}
+- :ContentLink{path="/Auslosung 06.11.2025.pdf" text="Ergebnis der Auslosung"}
 
 <!-- Die Kandidaturen findet ihr hier:
 
