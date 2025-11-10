@@ -2,9 +2,12 @@
 title: Kandidaturen für die Wahlen 2025
 ---
 
-Die Ergebnisse zu der Auslosung vom 06.11.2025 findet ihr hier:
+Die Kandidaturen findet ihr hier:
 
 - :ContentLink{path="/Auslosung 06.11.2025.pdf" text="Ergebnis der Auslosung"}
+- :ContentLink{path="/Kandidat-innen FSR & Stupa 2.pdf" text="Kandidaturen FSR und StuPa 2025"}
+
+Die Wahlzeitung findet ihr hier ab dem 10. November (Aufgrund von teschnichen Problemen verschiebt sich die Veröffentlichung um einen Tag):
 
 <!-- Die Kandidaturen findet ihr hier:
 
