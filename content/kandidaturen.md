@@ -9,7 +9,7 @@ Die Kandidaturen findet ihr hier:
 
 Die Wahlzeitung findet ihr hier:
 
-:ContentLink{path="/wahlzeitungen/wahlzeitung_2025.pdf" text="Wahlzeitung 2025"}
+:ContentLink{path="/wahlzeitungen/Wahlzeitung 2025 final9.pdf" text="Wahlzeitung 2025"}
 
 <!-- Die Kandidaturen findet ihr hier:
 
