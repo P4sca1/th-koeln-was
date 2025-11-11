@@ -36,9 +36,9 @@ Die Beantragung der Briefwahlunterlagen für die gleichzeitig stattfindenden Gre
 
 ### Wahlzeitung
 
-Die Wahlzeitung findet ihr hier ab dem 10.11.2025 als Download:
+Die Wahlzeitung findet ihr hier als Download:
 
-<!-- :ContentLink{path="/wahlzeitungen/wahlzeitung_2024.pdf" text="Wahlzeitung 2024"} -->
+:ContentLink{path="/wahlzeitungen/Wahlzeitung 2025 final9.pdf" text="Wahlzeitung 2025"}
 
 ### Unterstützer:in werden
 
