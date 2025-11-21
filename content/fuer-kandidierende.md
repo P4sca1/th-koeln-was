@@ -27,7 +27,7 @@ Alle erforderlichen Dokumente sind in unserem [Sciebo-Ordner](https://th-koeln.s
 :ContentLink{path="/formulare/unterstuetzerinnenformular_2025.pdf" text="Unterstützer:innenformular"}
 
 
-### Zulassung der Listen, Auslosung der Reihenfolge
+<!--### Zulassung der Listen, Auslosung der Reihenfolge
 
 Der Wahlausschuss entscheidet über die Zulassung der eingereichten Wahllisten. Entsprechend der gezogenen Losnummer erscheint die einzelne Wahlliste auf dem Wahlzettel, sowie in der Wahlzeitung, in entsprechend aufsteigender Reihenfolge. Die Auslosung findet öffentlich am **06.11.2025, um 13 Uhr** via Zoom statt.
 
@@ -36,7 +36,7 @@ Zoom-Link: https://th-koeln.zoom-x.de/j/62898756681
 Meeting-ID: 628 9875 6681
 
 Kenncode: 481098
-<!--
+
 :ContentLink{path="/ergebnis_listennummern_2024.pdf" text="Ergebnis der Auslosung"} -->
 
 ### Unterstützerinnen und Unterstützer
