@@ -10,7 +10,7 @@ Der studentische Wahlausschuss des Studierendenparlaments besteht aus fünf Stud
 - Samir Eshaq (stellvertretende Wahlleitung)
 - Levin Löb (Öffentlichkeitsarbeit)
 - Emine-Nur Akti (Wahlhelfer:innen Organisation)
-- Sarah Kleinherz (Öffentlichkeitsarbeit)
+- Sarah Kleinhenz (Öffentlichkeitsarbeit)
 - Niklas Falkenstein (Stellvertretung)
 - Hanna Tahershams (Stellvertretung)
 - Julia Kniewel (Stellvertretung)
