@@ -3,6 +3,7 @@ title: Studentische Wahlen 2025
 ---
 
 <!-- **!! DU BIST GEFRAGT !!** -->
+**!! Am Dienstag den 02.12.2025 ist es nicht möglich an dem Wahllokal in Deutz zu wählen, da aufgrund einer Beschädigung der Starkstromleitung alle Gebäude am Campus Deutz geschlossen sind !!**
 
 Auch dieses Jahr finden wieder die studentischen Gremienwahlen vom **01.12. - 05.12.2025** statt. Die Wahl findet elektronisch statt. Gewählt wird:
 
@@ -30,10 +31,10 @@ Kontaktdaten, ausführliche Infos zu Kandidatur, Wahllokalen und Durchführung f
 
 Außerdem können wichtige Dokumente in unserem [Sciebo-Ordner](https://th-koeln.sciebo.de/s/t8SoFrD7PsqY94J) eingesehen werden.
 
--Die Auslosung der Listenreihenfolge findet am **06.11.25 um 13 Uhr** via Zoom statt.
+<!-- -Die Auslosung der Listenreihenfolge findet am **06.11.25 um 13 Uhr** via Zoom statt.
 
 Zoom Link: https://th-koeln.zoom-x.de/j/62898756681  
 Meeting ID: 628 9875 6681  
-Kenncode: 481098
+Kenncode: 481098 -->
 
 -Amtliche Wahlergebnisse werden unter [Wahlergebnisse](/wahlergebnisse) spätestens ab dem 09. Dezember 2025 zu finden sein.
