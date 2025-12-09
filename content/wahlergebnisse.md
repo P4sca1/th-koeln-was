@@ -2,7 +2,7 @@
 title: Wahlergebnisse
 ---
 
-## Wahlergebnis WS 2025/26
+## Offizielles Wahlergebnis WS 2025/26
 
 - :ContentLink{path="/wahlergebnisse/2024/Wahlergebnisse WS 2025_26.docx.pdf" text="Wahlergebnis von 2025"}
 
