@@ -3,7 +3,8 @@ title: Studentische Wahlen 2025
 ---
 
 <!-- **!! DU BIST GEFRAGT !!** -->
-**!! Am Dienstag den 02.12.2025 ist es nicht möglich an dem Wahllokal in Deutz zu wählen, da aufgrund einer Beschädigung der Starkstromleitung alle Gebäude am Campus Deutz geschlossen sind !!**
+**!!Einladung zur 7. außerordentlichen Situng des WAS!!**
+
 
 Auch dieses Jahr finden wieder die studentischen Gremienwahlen vom **01.12. - 05.12.2025** statt. Die Wahl findet elektronisch statt. Gewählt wird:
 
