@@ -7,8 +7,8 @@ Der studentische Wahlausschuss des Studierendenparlaments besteht aus fünf Stud
 **Mitglieder im stud. Wahlausschuss**
 
 - Yusuf Akti (Wahlleitung)
-- Samir Eshaq (stellvertretende Wahlleitung)
-- Levin Löb (Öffentlichkeitsarbeit)
+- Levin Löb (stellvertretende Wahlleitung)
+- Samir Eshaq (Mitglied)
 - Emine-Nur Akti (Wahlhelfer:innen Organisation)
 - Sarah Kleinhenz (Öffentlichkeitsarbeit)
 - Niklas Falkenstein (Stellvertretung)
