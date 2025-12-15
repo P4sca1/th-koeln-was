@@ -11,10 +11,10 @@ hiermit laden wir euch zur 7. außerordentlichen Sitzung des studentischen Wahla
 
 Die Sitzung findet heute, am Montag, den 15.12.2025 um 20:00 Uhr über Zoom statt.
 
-Zoom-Link: -neuer Link-
+Zoom-Link: [hier klicken](https://th-koeln.zoom-x.de/j/68369562269)
 
-Meeting-ID: -neue Meeting Id-
-Kenncode: -neuer Meeting Kenncode-
+Meeting-ID: 683 6956 2269
+Kenncode: 786496
 
 Die Sitzungen finden öffentlich statt; jede:r Interessierte ist herzlich willkommen.
 
