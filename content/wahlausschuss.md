@@ -6,14 +6,15 @@ Der studentische Wahlausschuss des Studierendenparlaments besteht aus fünf Stud
 
 **Mitglieder im stud. Wahlausschuss**
 
-- Yusuf Akti (Wahlleitung)
-- Levin Löb (stellvertretende Wahlleitung)
-- Samir Eshaq (Mitglied)
-- Emine-Nur Akti (Wahlhelfer:innen Organisation)
-- Sarah Kleinhenz (Öffentlichkeitsarbeit)
-- Niklas Falkenstein (Stellvertretung)
-- Hanna Tahershams (Stellvertretung)
-- Julia Kniewel (Stellvertretung)
+- Tiffany Reimers (Wahlleitung)
+- Kathrin Mariana Heller (stellvertretende Wahlleitung)
+- Nezaket Melda Düzgün (Mitglied)
+- Lorenz Herbig Joachim Bartsch (Mitglied)
+- Mirka Feldmann (Mitglied)
+- Darniela Kucharczyk (Stellvertretung)
+- Moritz Reimunt Enning (Stellvertretung)
+- Caroline Kröffgen (Stellvertretung)
+- Gökdeniz Özer (Stellvertretung)
 
 **Kontakt**  
 Studierende, die mit dem Wahlausschuss per E-Mail kommunizieren, nutzen dabei bitte ausschließlich ihre S-mail.
